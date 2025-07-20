@@ -1,0 +1,1001 @@
+PropertyID,Name,Segment,Region,Stage,MonthlyRevenue,BuildTimeWeeks,ProjectedPenetrationTimeWeeks,ChurnRisk,UpgradePotential,ContactsAvailable
+MDU-0001,MDU Property 1,MDU,East,Closed Lost,556,18,24,Low,High,2
+MDU-0002,MDU Property 2,MDU,East,Qualified,4079,13,24,High,None,2
+MDU-0003,MDU Property 3,MDU,South,Closed Lost,1904,20,6,Low,None,5
+MDU-0004,MDU Property 4,MDU,East,Proposal,550,14,10,Medium,None,4
+MDU-0005,MDU Property 5,MDU,East,Closed Won,4078,15,15,Medium,Moderate,3
+MDU-0006,MDU Property 6,MDU,South,Qualified,4606,10,20,Low,High,3
+MDU-0007,MDU Property 7,MDU,South,Negotiation,3771,4,18,High,None,3
+MDU-0008,MDU Property 8,MDU,West,Proposal,4980,20,15,Medium,None,4
+MDU-0009,MDU Property 9,MDU,East,Closed Won,2272,11,22,Medium,High,5
+MDU-0010,MDU Property 10,MDU,West,Closed Lost,2225,5,19,Low,High,5
+MDU-0011,MDU Property 11,MDU,West,Lead,838,16,25,High,Moderate,5
+MDU-0012,MDU Property 12,MDU,South,Closed Lost,3910,5,17,Low,Moderate,1
+MDU-0013,MDU Property 13,MDU,East,Closed Lost,2236,8,23,Medium,Moderate,5
+MDU-0014,MDU Property 14,MDU,South,Negotiation,2641,13,13,Medium,High,4
+MDU-0015,MDU Property 15,MDU,West,Closed Lost,2294,15,11,Low,High,3
+MDU-0016,MDU Property 16,MDU,South,Negotiation,2500,3,16,Low,None,3
+MDU-0017,MDU Property 17,MDU,West,Proposal,565,15,9,High,High,5
+MDU-0018,MDU Property 18,MDU,North,Closed Won,1377,10,22,High,None,3
+MDU-0019,MDU Property 19,MDU,North,Proposal,1110,8,20,High,Moderate,2
+MDU-0020,MDU Property 20,MDU,West,Negotiation,2880,19,22,Medium,None,4
+MDU-0021,MDU Property 21,MDU,North,Closed Won,3016,3,19,Medium,High,2
+MDU-0022,MDU Property 22,MDU,North,Closed Lost,3416,14,26,Medium,Moderate,2
+MDU-0023,MDU Property 23,MDU,North,Lead,4890,10,8,Medium,None,5
+MDU-0024,MDU Property 24,MDU,East,Proposal,4673,16,6,High,Moderate,3
+MDU-0025,MDU Property 25,MDU,East,Proposal,2680,14,7,Low,None,5
+MDU-0026,MDU Property 26,MDU,West,Qualified,963,11,15,Low,None,5
+MDU-0027,MDU Property 27,MDU,West,Proposal,4415,11,20,Low,None,4
+MDU-0028,MDU Property 28,MDU,East,Proposal,1594,9,24,High,None,1
+MDU-0029,MDU Property 29,MDU,South,Proposal,2335,17,19,High,High,4
+MDU-0030,MDU Property 30,MDU,West,Closed Lost,2901,12,30,High,None,2
+MDU-0031,MDU Property 31,MDU,West,Negotiation,4416,7,23,High,None,5
+MDU-0032,MDU Property 32,MDU,South,Lead,523,5,28,High,Moderate,2
+MDU-0033,MDU Property 33,MDU,North,Lead,1209,3,16,High,Moderate,3
+MDU-0034,MDU Property 34,MDU,South,Proposal,1127,7,25,High,Moderate,1
+MDU-0035,MDU Property 35,MDU,North,Proposal,4209,5,28,Medium,Moderate,3
+MDU-0036,MDU Property 36,MDU,West,Closed Lost,4942,11,5,High,None,1
+MDU-0037,MDU Property 37,MDU,South,Negotiation,1281,20,16,High,None,3
+MDU-0038,MDU Property 38,MDU,North,Proposal,799,16,30,Low,High,5
+MDU-0039,MDU Property 39,MDU,North,Closed Lost,895,11,9,Low,Moderate,2
+MDU-0040,MDU Property 40,MDU,West,Lead,3200,7,22,Low,High,5
+MDU-0041,MDU Property 41,MDU,West,Qualified,1544,8,17,High,Moderate,3
+MDU-0042,MDU Property 42,MDU,East,Proposal,543,12,11,Medium,High,2
+MDU-0043,MDU Property 43,MDU,East,Lead,688,12,20,Low,High,3
+MDU-0044,MDU Property 44,MDU,North,Proposal,4042,20,6,High,High,3
+MDU-0045,MDU Property 45,MDU,East,Negotiation,2257,20,8,Low,None,4
+MDU-0046,MDU Property 46,MDU,North,Negotiation,4060,5,24,High,Moderate,2
+MDU-0047,MDU Property 47,MDU,North,Qualified,1451,20,21,Medium,High,3
+MDU-0048,MDU Property 48,MDU,South,Closed Lost,3465,20,5,Medium,Moderate,5
+MDU-0049,MDU Property 49,MDU,North,Closed Lost,741,17,27,Low,Moderate,1
+MDU-0050,MDU Property 50,MDU,South,Closed Won,2817,13,28,High,None,5
+MDU-0051,MDU Property 51,MDU,West,Qualified,4212,16,28,High,High,1
+MDU-0052,MDU Property 52,MDU,West,Closed Lost,3915,12,7,High,High,4
+MDU-0053,MDU Property 53,MDU,East,Qualified,2705,17,27,Low,None,4
+MDU-0054,MDU Property 54,MDU,North,Closed Won,4967,16,24,Medium,None,1
+MDU-0055,MDU Property 55,MDU,East,Proposal,988,17,11,High,None,2
+MDU-0056,MDU Property 56,MDU,North,Closed Won,1147,10,6,Low,High,4
+MDU-0057,MDU Property 57,MDU,West,Closed Won,4448,16,6,Medium,Moderate,4
+MDU-0058,MDU Property 58,MDU,North,Closed Lost,3931,5,8,Low,High,4
+MDU-0059,MDU Property 59,MDU,East,Proposal,4509,17,27,High,Moderate,5
+MDU-0060,MDU Property 60,MDU,South,Negotiation,4291,12,13,Medium,High,5
+MDU-0061,MDU Property 61,MDU,South,Negotiation,1068,14,17,Medium,None,5
+MDU-0062,MDU Property 62,MDU,North,Closed Won,574,10,27,Low,Moderate,4
+MDU-0063,MDU Property 63,MDU,South,Closed Won,1999,18,22,High,Moderate,4
+MDU-0064,MDU Property 64,MDU,East,Proposal,2221,3,22,Low,None,1
+MDU-0065,MDU Property 65,MDU,East,Closed Lost,3952,5,22,Medium,None,3
+MDU-0066,MDU Property 66,MDU,East,Qualified,509,4,25,High,None,2
+MDU-0067,MDU Property 67,MDU,South,Closed Won,1402,14,16,High,High,4
+MDU-0068,MDU Property 68,MDU,East,Negotiation,4770,13,10,High,Moderate,5
+MDU-0069,MDU Property 69,MDU,West,Closed Lost,1006,6,20,Low,None,4
+MDU-0070,MDU Property 70,MDU,East,Proposal,4878,16,27,High,High,4
+MDU-0071,MDU Property 71,MDU,East,Qualified,2225,4,8,Low,High,3
+MDU-0072,MDU Property 72,MDU,South,Negotiation,1855,9,16,Medium,None,2
+MDU-0073,MDU Property 73,MDU,North,Lead,2093,14,9,Low,Moderate,1
+MDU-0074,MDU Property 74,MDU,North,Proposal,2647,10,15,High,None,1
+MDU-0075,MDU Property 75,MDU,North,Qualified,1021,13,8,Medium,None,5
+MDU-0076,MDU Property 76,MDU,West,Proposal,2483,16,6,Low,Moderate,2
+MDU-0077,MDU Property 77,MDU,North,Closed Won,4726,4,17,Medium,Moderate,1
+MDU-0078,MDU Property 78,MDU,South,Closed Lost,528,3,29,Medium,Moderate,1
+MDU-0079,MDU Property 79,MDU,South,Closed Won,2647,15,8,Medium,Moderate,3
+MDU-0080,MDU Property 80,MDU,East,Negotiation,3088,14,13,Medium,Moderate,3
+MDU-0081,MDU Property 81,MDU,West,Negotiation,711,9,10,Medium,None,4
+MDU-0082,MDU Property 82,MDU,West,Negotiation,4221,3,26,Medium,Moderate,4
+MDU-0083,MDU Property 83,MDU,North,Lead,3615,17,24,High,Moderate,1
+MDU-0084,MDU Property 84,MDU,East,Lead,3582,10,28,Medium,High,5
+MDU-0085,MDU Property 85,MDU,West,Proposal,2588,7,27,High,Moderate,1
+MDU-0086,MDU Property 86,MDU,West,Lead,3188,10,9,High,Moderate,3
+MDU-0087,MDU Property 87,MDU,West,Qualified,3676,3,14,Medium,None,4
+MDU-0088,MDU Property 88,MDU,South,Negotiation,1509,17,16,Low,Moderate,4
+MDU-0089,MDU Property 89,MDU,South,Qualified,4333,7,28,Low,None,2
+MDU-0090,MDU Property 90,MDU,West,Qualified,3468,16,10,Low,None,3
+MDU-0091,MDU Property 91,MDU,West,Qualified,4658,7,16,Medium,None,5
+MDU-0092,MDU Property 92,MDU,South,Closed Won,4711,19,27,High,None,3
+MDU-0093,MDU Property 93,MDU,South,Negotiation,2877,18,6,High,High,4
+MDU-0094,MDU Property 94,MDU,West,Closed Lost,1124,5,14,Medium,Moderate,1
+MDU-0095,MDU Property 95,MDU,North,Qualified,677,8,8,Medium,None,2
+MDU-0096,MDU Property 96,MDU,West,Proposal,748,20,15,Medium,None,3
+MDU-0097,MDU Property 97,MDU,West,Lead,1534,3,5,Low,High,5
+MDU-0098,MDU Property 98,MDU,West,Negotiation,4871,19,17,Low,None,5
+MDU-0099,MDU Property 99,MDU,East,Qualified,1783,14,29,Low,None,5
+MDU-0100,MDU Property 100,MDU,North,Lead,844,12,12,High,High,3
+MDU-0101,MDU Property 101,MDU,North,Closed Lost,1382,4,25,High,None,3
+MDU-0102,MDU Property 102,MDU,West,Closed Won,3331,6,7,High,Moderate,3
+MDU-0103,MDU Property 103,MDU,South,Negotiation,4469,9,15,High,Moderate,5
+MDU-0104,MDU Property 104,MDU,North,Qualified,4668,12,8,Low,None,2
+MDU-0105,MDU Property 105,MDU,West,Proposal,2889,9,9,Medium,None,1
+MDU-0106,MDU Property 106,MDU,South,Closed Won,4285,7,25,Low,High,4
+MDU-0107,MDU Property 107,MDU,East,Closed Lost,1758,15,19,Medium,None,4
+MDU-0108,MDU Property 108,MDU,North,Qualified,3892,6,12,Low,High,5
+MDU-0109,MDU Property 109,MDU,South,Qualified,2011,20,7,Low,None,4
+MDU-0110,MDU Property 110,MDU,North,Closed Won,2036,20,13,High,Moderate,5
+MDU-0111,MDU Property 111,MDU,North,Proposal,1151,7,14,High,High,3
+MDU-0112,MDU Property 112,MDU,South,Closed Lost,1051,17,8,Medium,High,3
+MDU-0113,MDU Property 113,MDU,East,Lead,816,4,28,High,High,2
+MDU-0114,MDU Property 114,MDU,North,Closed Won,1103,7,9,Low,None,1
+MDU-0115,MDU Property 115,MDU,South,Closed Won,774,13,18,High,None,1
+MDU-0116,MDU Property 116,MDU,South,Qualified,3871,17,12,Low,High,5
+MDU-0117,MDU Property 117,MDU,South,Negotiation,1693,16,11,High,Moderate,4
+MDU-0118,MDU Property 118,MDU,North,Lead,4693,16,22,High,High,4
+MDU-0119,MDU Property 119,MDU,North,Qualified,4017,9,13,Low,None,4
+MDU-0120,MDU Property 120,MDU,South,Qualified,2255,8,20,Low,Moderate,4
+MDU-0121,MDU Property 121,MDU,North,Qualified,3263,8,15,Medium,None,4
+MDU-0122,MDU Property 122,MDU,East,Closed Lost,4608,19,27,Low,Moderate,2
+MDU-0123,MDU Property 123,MDU,North,Negotiation,4989,14,23,Medium,High,3
+MDU-0124,MDU Property 124,MDU,South,Closed Won,3065,11,20,High,High,1
+MDU-0125,MDU Property 125,MDU,North,Closed Lost,3416,7,27,Medium,None,2
+MDU-0126,MDU Property 126,MDU,East,Negotiation,1814,10,24,High,None,3
+MDU-0127,MDU Property 127,MDU,East,Qualified,2158,10,9,Low,Moderate,5
+MDU-0128,MDU Property 128,MDU,South,Lead,4546,4,28,Medium,Moderate,1
+MDU-0129,MDU Property 129,MDU,South,Lead,4665,18,6,High,High,3
+MDU-0130,MDU Property 130,MDU,North,Negotiation,3932,19,21,Medium,None,4
+MDU-0131,MDU Property 131,MDU,East,Negotiation,4373,8,6,Low,None,5
+MDU-0132,MDU Property 132,MDU,East,Qualified,3944,6,28,High,High,5
+MDU-0133,MDU Property 133,MDU,North,Negotiation,1023,20,10,High,None,5
+MDU-0134,MDU Property 134,MDU,East,Closed Lost,579,16,18,High,None,2
+MDU-0135,MDU Property 135,MDU,South,Proposal,4076,15,19,Medium,High,3
+MDU-0136,MDU Property 136,MDU,West,Closed Won,1110,3,25,Low,None,1
+MDU-0137,MDU Property 137,MDU,West,Lead,3199,19,13,Medium,High,3
+MDU-0138,MDU Property 138,MDU,East,Proposal,2842,11,18,High,High,5
+MDU-0139,MDU Property 139,MDU,South,Proposal,1248,12,27,Medium,High,2
+MDU-0140,MDU Property 140,MDU,West,Negotiation,4670,5,28,Low,Moderate,4
+MDU-0141,MDU Property 141,MDU,East,Qualified,2566,18,13,High,High,3
+MDU-0142,MDU Property 142,MDU,East,Lead,1671,15,7,High,High,1
+MDU-0143,MDU Property 143,MDU,West,Qualified,1839,11,27,Low,None,3
+MDU-0144,MDU Property 144,MDU,South,Negotiation,1378,5,30,High,Moderate,2
+MDU-0145,MDU Property 145,MDU,West,Qualified,2374,5,19,Low,None,5
+MDU-0146,MDU Property 146,MDU,East,Proposal,2188,13,17,Low,None,4
+MDU-0147,MDU Property 147,MDU,North,Lead,2827,15,18,Medium,None,1
+MDU-0148,MDU Property 148,MDU,East,Qualified,4531,6,23,Medium,Moderate,5
+MDU-0149,MDU Property 149,MDU,East,Proposal,1669,11,8,High,High,1
+MDU-0150,MDU Property 150,MDU,North,Lead,4459,16,14,Low,High,3
+MDU-0151,MDU Property 151,MDU,North,Qualified,4788,5,24,High,Moderate,4
+MDU-0152,MDU Property 152,MDU,South,Lead,1900,20,7,High,High,2
+MDU-0153,MDU Property 153,MDU,South,Closed Won,732,3,17,High,None,2
+MDU-0154,MDU Property 154,MDU,North,Closed Won,1907,8,21,Medium,None,3
+MDU-0155,MDU Property 155,MDU,South,Proposal,4443,4,30,Low,High,3
+MDU-0156,MDU Property 156,MDU,East,Qualified,2424,11,20,Medium,None,2
+MDU-0157,MDU Property 157,MDU,East,Closed Won,3428,9,28,Medium,None,1
+MDU-0158,MDU Property 158,MDU,East,Lead,2941,8,24,Medium,None,2
+MDU-0159,MDU Property 159,MDU,West,Qualified,2518,18,28,High,Moderate,4
+MDU-0160,MDU Property 160,MDU,East,Closed Lost,1708,14,7,Low,None,4
+MDU-0161,MDU Property 161,MDU,South,Closed Won,2210,14,20,High,High,3
+MDU-0162,MDU Property 162,MDU,East,Qualified,3301,9,17,Medium,None,2
+MDU-0163,MDU Property 163,MDU,West,Closed Won,2366,19,22,Medium,None,3
+MDU-0164,MDU Property 164,MDU,North,Closed Lost,2223,10,10,Low,High,3
+MDU-0165,MDU Property 165,MDU,East,Qualified,4941,16,23,High,High,4
+MDU-0166,MDU Property 166,MDU,East,Closed Lost,1699,17,29,Low,Moderate,3
+MDU-0167,MDU Property 167,MDU,South,Negotiation,1556,6,21,High,Moderate,3
+MDU-0168,MDU Property 168,MDU,East,Qualified,821,13,10,Medium,High,1
+MDU-0169,MDU Property 169,MDU,East,Closed Lost,1340,9,27,Medium,None,1
+MDU-0170,MDU Property 170,MDU,West,Qualified,4740,9,7,Medium,None,4
+MDU-0171,MDU Property 171,MDU,West,Closed Lost,4096,13,19,Medium,Moderate,1
+MDU-0172,MDU Property 172,MDU,West,Closed Lost,2680,17,20,Low,High,4
+MDU-0173,MDU Property 173,MDU,North,Negotiation,4664,15,29,Medium,Moderate,1
+MDU-0174,MDU Property 174,MDU,West,Proposal,2224,9,17,Medium,Moderate,3
+MDU-0175,MDU Property 175,MDU,East,Closed Lost,2111,19,8,Low,High,3
+MDU-0176,MDU Property 176,MDU,West,Qualified,2374,10,5,Low,Moderate,1
+MDU-0177,MDU Property 177,MDU,East,Lead,1065,15,5,Medium,Moderate,2
+MDU-0178,MDU Property 178,MDU,North,Closed Won,2701,13,9,Medium,High,1
+MDU-0179,MDU Property 179,MDU,East,Lead,774,15,7,Medium,Moderate,2
+MDU-0180,MDU Property 180,MDU,North,Closed Won,3992,3,8,Low,High,2
+MDU-0181,MDU Property 181,MDU,South,Negotiation,2680,14,10,Medium,Moderate,5
+MDU-0182,MDU Property 182,MDU,South,Qualified,3357,7,23,High,None,4
+MDU-0183,MDU Property 183,MDU,North,Lead,1461,15,25,Low,Moderate,5
+MDU-0184,MDU Property 184,MDU,West,Closed Won,643,15,6,Medium,High,3
+MDU-0185,MDU Property 185,MDU,North,Negotiation,2186,8,30,High,Moderate,3
+MDU-0186,MDU Property 186,MDU,East,Closed Lost,1425,13,14,Medium,Moderate,4
+MDU-0187,MDU Property 187,MDU,West,Qualified,1881,8,30,Medium,High,3
+MDU-0188,MDU Property 188,MDU,South,Negotiation,3503,20,11,Medium,High,1
+MDU-0189,MDU Property 189,MDU,South,Proposal,1416,7,21,Medium,Moderate,1
+MDU-0190,MDU Property 190,MDU,East,Negotiation,1107,17,27,Medium,High,1
+MDU-0191,MDU Property 191,MDU,West,Negotiation,2670,5,14,High,None,3
+MDU-0192,MDU Property 192,MDU,North,Qualified,3535,13,27,Medium,High,5
+MDU-0193,MDU Property 193,MDU,North,Closed Won,1546,6,7,Low,None,4
+MDU-0194,MDU Property 194,MDU,West,Closed Won,3899,5,8,High,High,3
+MDU-0195,MDU Property 195,MDU,North,Closed Lost,1227,10,20,High,Moderate,4
+MDU-0196,MDU Property 196,MDU,East,Negotiation,3289,4,5,Medium,High,1
+MDU-0197,MDU Property 197,MDU,East,Negotiation,1993,20,6,Medium,Moderate,1
+MDU-0198,MDU Property 198,MDU,North,Proposal,4412,16,27,Low,High,1
+MDU-0199,MDU Property 199,MDU,West,Closed Lost,2472,13,26,High,High,4
+MDU-0200,MDU Property 200,MDU,North,Qualified,889,9,15,Medium,High,4
+MDU-0201,MDU Property 201,MDU,East,Lead,853,10,25,High,Moderate,2
+MDU-0202,MDU Property 202,MDU,West,Negotiation,1471,10,27,Low,None,3
+MDU-0203,MDU Property 203,MDU,West,Qualified,3509,12,8,Medium,High,4
+MDU-0204,MDU Property 204,MDU,East,Negotiation,4247,12,5,Low,High,3
+MDU-0205,MDU Property 205,MDU,North,Negotiation,3283,10,6,Low,None,4
+MDU-0206,MDU Property 206,MDU,South,Proposal,2136,3,24,High,None,3
+MDU-0207,MDU Property 207,MDU,South,Lead,2413,8,6,Low,High,4
+MDU-0208,MDU Property 208,MDU,West,Closed Won,1654,18,26,High,None,5
+MDU-0209,MDU Property 209,MDU,West,Closed Lost,4415,6,16,Low,None,2
+MDU-0210,MDU Property 210,MDU,South,Closed Won,3953,8,6,Low,High,4
+MDU-0211,MDU Property 211,MDU,South,Qualified,1788,17,15,Low,Moderate,3
+MDU-0212,MDU Property 212,MDU,North,Lead,2757,6,6,Low,High,4
+MDU-0213,MDU Property 213,MDU,East,Proposal,3119,6,18,Low,None,3
+MDU-0214,MDU Property 214,MDU,North,Negotiation,4083,20,15,High,Moderate,5
+MDU-0215,MDU Property 215,MDU,South,Qualified,1599,11,19,Medium,High,3
+MDU-0216,MDU Property 216,MDU,West,Proposal,3519,13,22,Medium,None,1
+MDU-0217,MDU Property 217,MDU,South,Lead,3185,5,7,Medium,None,5
+MDU-0218,MDU Property 218,MDU,South,Closed Won,4465,20,23,High,None,1
+MDU-0219,MDU Property 219,MDU,West,Lead,4172,10,14,Low,High,3
+MDU-0220,MDU Property 220,MDU,South,Lead,4555,10,18,Low,None,3
+MDU-0221,MDU Property 221,MDU,West,Closed Lost,995,7,20,Medium,High,3
+MDU-0222,MDU Property 222,MDU,West,Qualified,3273,17,25,Low,Moderate,4
+MDU-0223,MDU Property 223,MDU,South,Closed Lost,4578,19,24,Medium,High,4
+MDU-0224,MDU Property 224,MDU,North,Closed Lost,2715,10,15,Low,High,5
+MDU-0225,MDU Property 225,MDU,East,Closed Lost,1188,10,27,Medium,Moderate,2
+MDU-0226,MDU Property 226,MDU,South,Lead,3218,3,21,High,Moderate,3
+MDU-0227,MDU Property 227,MDU,North,Closed Lost,2788,18,20,Low,Moderate,1
+MDU-0228,MDU Property 228,MDU,West,Closed Won,4208,10,8,Low,High,1
+MDU-0229,MDU Property 229,MDU,North,Closed Lost,4422,12,12,Low,Moderate,5
+MDU-0230,MDU Property 230,MDU,North,Qualified,1012,15,29,High,None,4
+MDU-0231,MDU Property 231,MDU,East,Proposal,897,5,10,Medium,High,3
+MDU-0232,MDU Property 232,MDU,North,Qualified,559,9,22,Low,High,2
+MDU-0233,MDU Property 233,MDU,North,Proposal,1356,12,25,High,High,2
+MDU-0234,MDU Property 234,MDU,North,Lead,1618,11,26,Low,High,2
+MDU-0235,MDU Property 235,MDU,East,Lead,4898,3,18,Medium,None,5
+MDU-0236,MDU Property 236,MDU,North,Closed Won,3966,5,19,Low,None,4
+MDU-0237,MDU Property 237,MDU,West,Lead,3439,11,23,Medium,Moderate,4
+MDU-0238,MDU Property 238,MDU,South,Proposal,2777,4,15,High,None,1
+MDU-0239,MDU Property 239,MDU,South,Lead,3341,19,18,Low,Moderate,5
+MDU-0240,MDU Property 240,MDU,South,Closed Lost,3925,14,27,Low,High,2
+MDU-0241,MDU Property 241,MDU,East,Qualified,1002,16,19,Low,Moderate,4
+MDU-0242,MDU Property 242,MDU,South,Qualified,4026,11,25,High,Moderate,4
+MDU-0243,MDU Property 243,MDU,North,Proposal,1400,11,18,Low,Moderate,2
+MDU-0244,MDU Property 244,MDU,West,Qualified,2589,4,5,Medium,High,1
+MDU-0245,MDU Property 245,MDU,South,Lead,1177,8,10,High,High,1
+MDU-0246,MDU Property 246,MDU,South,Closed Won,2953,10,16,Low,None,4
+MDU-0247,MDU Property 247,MDU,West,Closed Won,4796,16,22,Low,Moderate,5
+MDU-0248,MDU Property 248,MDU,North,Qualified,4828,6,28,Low,Moderate,4
+MDU-0249,MDU Property 249,MDU,East,Closed Lost,4517,10,28,High,Moderate,3
+MDU-0250,MDU Property 250,MDU,North,Closed Won,1196,19,20,Medium,None,5
+MDU-0251,MDU Property 251,MDU,West,Negotiation,2844,17,17,Low,None,4
+MDU-0252,MDU Property 252,MDU,West,Negotiation,2852,7,15,Low,None,2
+MDU-0253,MDU Property 253,MDU,South,Closed Lost,2272,9,10,Low,Moderate,1
+MDU-0254,MDU Property 254,MDU,South,Negotiation,1941,6,14,Medium,Moderate,3
+MDU-0255,MDU Property 255,MDU,West,Lead,2577,8,12,High,High,3
+MDU-0256,MDU Property 256,MDU,North,Proposal,4998,8,7,Low,Moderate,1
+MDU-0257,MDU Property 257,MDU,West,Proposal,2368,13,18,High,High,3
+MDU-0258,MDU Property 258,MDU,East,Lead,3860,6,5,High,Moderate,5
+MDU-0259,MDU Property 259,MDU,South,Lead,3212,11,7,Medium,Moderate,2
+MDU-0260,MDU Property 260,MDU,West,Lead,1373,8,6,Low,Moderate,5
+MDU-0261,MDU Property 261,MDU,West,Closed Lost,2047,16,22,Low,None,1
+MDU-0262,MDU Property 262,MDU,North,Negotiation,518,6,18,High,Moderate,2
+MDU-0263,MDU Property 263,MDU,West,Closed Won,4268,12,6,Medium,High,3
+MDU-0264,MDU Property 264,MDU,East,Lead,1358,3,30,Medium,Moderate,1
+MDU-0265,MDU Property 265,MDU,North,Lead,1659,11,18,Medium,Moderate,5
+MDU-0266,MDU Property 266,MDU,North,Negotiation,3538,14,13,Medium,High,1
+MDU-0267,MDU Property 267,MDU,South,Closed Won,3508,11,27,High,None,4
+MDU-0268,MDU Property 268,MDU,West,Qualified,1410,4,9,High,Moderate,2
+MDU-0269,MDU Property 269,MDU,North,Closed Lost,4611,20,12,Low,High,2
+MDU-0270,MDU Property 270,MDU,North,Closed Lost,1522,3,29,Medium,Moderate,2
+MDU-0271,MDU Property 271,MDU,West,Negotiation,4970,3,8,Medium,None,1
+MDU-0272,MDU Property 272,MDU,East,Proposal,3776,12,26,High,None,2
+MDU-0273,MDU Property 273,MDU,West,Negotiation,1424,14,9,High,High,2
+MDU-0274,MDU Property 274,MDU,East,Negotiation,4926,10,25,High,None,5
+MDU-0275,MDU Property 275,MDU,West,Proposal,3762,17,20,Medium,Moderate,1
+MDU-0276,MDU Property 276,MDU,East,Lead,3464,14,12,Low,High,5
+MDU-0277,MDU Property 277,MDU,North,Qualified,4494,3,22,High,None,3
+MDU-0278,MDU Property 278,MDU,North,Closed Lost,2288,7,13,Medium,High,5
+MDU-0279,MDU Property 279,MDU,East,Closed Lost,1890,5,29,Low,None,5
+MDU-0280,MDU Property 280,MDU,West,Qualified,4192,10,20,Medium,High,4
+MDU-0281,MDU Property 281,MDU,East,Lead,4111,17,21,Low,High,4
+MDU-0282,MDU Property 282,MDU,South,Closed Lost,994,15,25,Medium,Moderate,2
+MDU-0283,MDU Property 283,MDU,South,Lead,1939,13,8,Low,Moderate,5
+MDU-0284,MDU Property 284,MDU,East,Closed Lost,518,3,23,Low,High,1
+MDU-0285,MDU Property 285,MDU,North,Lead,2564,10,22,Low,Moderate,1
+MDU-0286,MDU Property 286,MDU,South,Lead,557,3,17,High,Moderate,5
+MDU-0287,MDU Property 287,MDU,North,Lead,3203,15,25,High,Moderate,5
+MDU-0288,MDU Property 288,MDU,East,Lead,2281,20,20,High,None,2
+MDU-0289,MDU Property 289,MDU,West,Closed Lost,2662,16,20,Medium,None,2
+MDU-0290,MDU Property 290,MDU,West,Closed Won,4059,10,18,High,High,3
+MDU-0291,MDU Property 291,MDU,East,Lead,2920,3,10,Medium,Moderate,4
+MDU-0292,MDU Property 292,MDU,West,Negotiation,3252,10,24,Low,None,4
+MDU-0293,MDU Property 293,MDU,South,Closed Lost,2754,12,24,High,None,5
+MDU-0294,MDU Property 294,MDU,East,Closed Lost,677,13,14,High,None,4
+MDU-0295,MDU Property 295,MDU,South,Qualified,774,8,25,High,Moderate,1
+MDU-0296,MDU Property 296,MDU,North,Lead,4254,17,30,Low,None,5
+MDU-0297,MDU Property 297,MDU,West,Proposal,3359,7,15,High,Moderate,5
+MDU-0298,MDU Property 298,MDU,West,Closed Won,2214,20,27,Low,High,4
+MDU-0299,MDU Property 299,MDU,East,Closed Lost,4480,11,30,High,High,2
+MDU-0300,MDU Property 300,MDU,North,Closed Won,1778,10,10,Medium,None,5
+MDU-0301,MDU Property 301,MDU,South,Negotiation,3484,9,10,Low,High,1
+MDU-0302,MDU Property 302,MDU,South,Negotiation,2104,16,26,Medium,Moderate,1
+MDU-0303,MDU Property 303,MDU,North,Qualified,3891,16,28,Low,Moderate,5
+MDU-0304,MDU Property 304,MDU,South,Closed Won,4719,20,21,Low,High,4
+MDU-0305,MDU Property 305,MDU,East,Closed Won,4857,3,10,Medium,Moderate,1
+MDU-0306,MDU Property 306,MDU,West,Lead,3714,14,16,Medium,None,3
+MDU-0307,MDU Property 307,MDU,South,Closed Lost,888,7,13,High,High,1
+MDU-0308,MDU Property 308,MDU,East,Lead,4367,4,21,High,High,2
+MDU-0309,MDU Property 309,MDU,East,Proposal,3495,18,19,Medium,Moderate,4
+MDU-0310,MDU Property 310,MDU,North,Proposal,3157,19,19,Medium,High,4
+MDU-0311,MDU Property 311,MDU,North,Qualified,4413,18,7,High,High,1
+MDU-0312,MDU Property 312,MDU,North,Closed Lost,3854,16,10,High,None,4
+MDU-0313,MDU Property 313,MDU,East,Closed Won,2498,19,24,High,None,3
+MDU-0314,MDU Property 314,MDU,East,Closed Lost,3551,8,26,Medium,High,4
+MDU-0315,MDU Property 315,MDU,North,Qualified,3472,5,7,High,High,1
+MDU-0316,MDU Property 316,MDU,North,Negotiation,1627,9,17,High,None,1
+MDU-0317,MDU Property 317,MDU,North,Closed Lost,964,3,10,Medium,Moderate,5
+MDU-0318,MDU Property 318,MDU,West,Closed Won,3986,6,29,High,High,3
+MDU-0319,MDU Property 319,MDU,East,Negotiation,4326,19,18,Low,None,4
+MDU-0320,MDU Property 320,MDU,South,Qualified,2025,11,9,High,Moderate,5
+MDU-0321,MDU Property 321,MDU,East,Closed Won,3789,13,12,High,High,3
+MDU-0322,MDU Property 322,MDU,North,Proposal,1029,8,17,High,Moderate,1
+MDU-0323,MDU Property 323,MDU,West,Qualified,1844,5,9,Low,Moderate,4
+MDU-0324,MDU Property 324,MDU,North,Proposal,3734,5,19,High,Moderate,1
+MDU-0325,MDU Property 325,MDU,East,Proposal,1395,9,9,Low,High,2
+MDU-0326,MDU Property 326,MDU,South,Closed Won,2559,20,11,Low,None,5
+MDU-0327,MDU Property 327,MDU,West,Qualified,967,12,29,High,High,4
+MDU-0328,MDU Property 328,MDU,West,Lead,3881,20,16,High,None,5
+MDU-0329,MDU Property 329,MDU,South,Negotiation,2461,9,22,Low,High,3
+MDU-0330,MDU Property 330,MDU,South,Proposal,1652,5,5,High,High,2
+MDU-0331,MDU Property 331,MDU,North,Negotiation,4386,11,18,Medium,Moderate,3
+MDU-0332,MDU Property 332,MDU,North,Lead,1674,7,28,Low,High,3
+MDU-0333,MDU Property 333,MDU,East,Proposal,2158,10,24,Low,High,2
+MDU-0334,MDU Property 334,MDU,South,Proposal,1999,9,8,Low,High,5
+MDU-0335,MDU Property 335,MDU,West,Closed Won,753,7,28,High,Moderate,3
+MDU-0336,MDU Property 336,MDU,South,Lead,998,7,30,Medium,Moderate,3
+MDU-0337,MDU Property 337,MDU,South,Proposal,1871,9,12,Low,Moderate,5
+MDU-0338,MDU Property 338,MDU,South,Qualified,704,20,15,High,Moderate,5
+MDU-0339,MDU Property 339,MDU,North,Negotiation,1205,3,10,Medium,High,2
+MDU-0340,MDU Property 340,MDU,West,Closed Won,682,16,8,High,Moderate,3
+MDU-0341,MDU Property 341,MDU,North,Lead,1050,4,15,Medium,High,3
+MDU-0342,MDU Property 342,MDU,East,Proposal,2356,14,24,High,Moderate,5
+MDU-0343,MDU Property 343,MDU,East,Qualified,4407,18,9,Low,High,5
+MDU-0344,MDU Property 344,MDU,South,Closed Won,4226,3,17,Low,Moderate,3
+MDU-0345,MDU Property 345,MDU,West,Closed Won,3023,5,29,High,High,5
+MDU-0346,MDU Property 346,MDU,South,Closed Won,1144,18,22,Low,Moderate,3
+MDU-0347,MDU Property 347,MDU,East,Closed Lost,1576,13,14,High,Moderate,5
+MDU-0348,MDU Property 348,MDU,West,Closed Won,3695,13,13,Medium,Moderate,1
+MDU-0349,MDU Property 349,MDU,East,Closed Won,1662,10,23,Low,High,5
+MDU-0350,MDU Property 350,MDU,South,Qualified,1420,14,21,High,High,1
+MDU-0351,MDU Property 351,MDU,East,Closed Lost,1927,10,20,Low,Moderate,3
+MDU-0352,MDU Property 352,MDU,West,Closed Lost,3677,12,24,High,None,3
+MDU-0353,MDU Property 353,MDU,South,Lead,4196,9,22,High,None,2
+MDU-0354,MDU Property 354,MDU,West,Closed Won,2555,10,21,Medium,High,2
+MDU-0355,MDU Property 355,MDU,East,Proposal,4492,7,27,Medium,Moderate,3
+MDU-0356,MDU Property 356,MDU,West,Negotiation,674,10,11,Medium,Moderate,4
+MDU-0357,MDU Property 357,MDU,West,Closed Lost,3121,6,7,Low,Moderate,1
+MDU-0358,MDU Property 358,MDU,West,Closed Won,1378,17,17,Medium,Moderate,3
+MDU-0359,MDU Property 359,MDU,North,Proposal,2081,11,27,Medium,Moderate,4
+MDU-0360,MDU Property 360,MDU,North,Qualified,2562,7,9,High,High,3
+MDU-0361,MDU Property 361,MDU,North,Negotiation,610,17,23,Low,Moderate,4
+MDU-0362,MDU Property 362,MDU,East,Qualified,847,18,29,Medium,High,4
+MDU-0363,MDU Property 363,MDU,South,Closed Lost,4888,19,8,Low,High,3
+MDU-0364,MDU Property 364,MDU,East,Closed Lost,2814,12,25,Medium,None,4
+MDU-0365,MDU Property 365,MDU,West,Closed Lost,1069,10,22,Medium,High,2
+MDU-0366,MDU Property 366,MDU,West,Closed Lost,2622,16,29,High,High,5
+MDU-0367,MDU Property 367,MDU,North,Closed Won,2624,19,30,Medium,Moderate,5
+MDU-0368,MDU Property 368,MDU,East,Proposal,4214,18,18,Low,High,4
+MDU-0369,MDU Property 369,MDU,East,Lead,4827,18,21,Medium,None,4
+MDU-0370,MDU Property 370,MDU,North,Lead,3073,16,24,Medium,Moderate,2
+MDU-0371,MDU Property 371,MDU,West,Closed Won,2079,4,16,Low,Moderate,3
+MDU-0372,MDU Property 372,MDU,East,Proposal,4169,20,20,High,High,1
+MDU-0373,MDU Property 373,MDU,West,Qualified,711,12,30,High,Moderate,5
+MDU-0374,MDU Property 374,MDU,North,Proposal,1302,16,6,High,None,3
+MDU-0375,MDU Property 375,MDU,West,Closed Lost,1863,12,30,Medium,None,2
+MDU-0376,MDU Property 376,MDU,North,Lead,3173,17,19,Medium,None,1
+MDU-0377,MDU Property 377,MDU,North,Lead,3264,10,7,Low,Moderate,1
+MDU-0378,MDU Property 378,MDU,North,Closed Won,3204,19,19,High,None,3
+MDU-0379,MDU Property 379,MDU,East,Closed Lost,4024,20,10,Medium,None,3
+MDU-0380,MDU Property 380,MDU,East,Proposal,4905,6,11,High,Moderate,5
+MDU-0381,MDU Property 381,MDU,South,Negotiation,2825,9,7,High,None,4
+MDU-0382,MDU Property 382,MDU,West,Proposal,1639,17,12,Medium,Moderate,3
+MDU-0383,MDU Property 383,MDU,East,Proposal,3260,4,6,Low,None,1
+MDU-0384,MDU Property 384,MDU,North,Proposal,2640,6,23,Medium,Moderate,4
+MDU-0385,MDU Property 385,MDU,West,Lead,610,7,30,Low,None,2
+MDU-0386,MDU Property 386,MDU,South,Closed Lost,4904,11,19,Low,High,3
+MDU-0387,MDU Property 387,MDU,South,Proposal,3848,4,13,High,None,3
+MDU-0388,MDU Property 388,MDU,West,Proposal,4992,5,19,Medium,None,3
+MDU-0389,MDU Property 389,MDU,South,Proposal,4523,11,14,High,Moderate,4
+MDU-0390,MDU Property 390,MDU,South,Closed Won,4240,3,23,High,High,3
+MDU-0391,MDU Property 391,MDU,East,Qualified,3057,4,24,Medium,High,3
+MDU-0392,MDU Property 392,MDU,North,Lead,4099,8,20,High,High,1
+MDU-0393,MDU Property 393,MDU,West,Proposal,4391,5,20,Medium,High,2
+MDU-0394,MDU Property 394,MDU,South,Proposal,3470,13,6,High,High,1
+MDU-0395,MDU Property 395,MDU,East,Qualified,2677,6,15,Medium,High,3
+MDU-0396,MDU Property 396,MDU,East,Negotiation,1463,14,10,Low,High,5
+MDU-0397,MDU Property 397,MDU,West,Proposal,2099,12,20,High,High,1
+MDU-0398,MDU Property 398,MDU,East,Qualified,3015,10,13,Low,None,3
+MDU-0399,MDU Property 399,MDU,South,Closed Won,1841,19,16,Medium,Moderate,4
+MDU-0400,MDU Property 400,MDU,North,Closed Lost,2034,7,9,Medium,Moderate,1
+MDU-0401,MDU Property 401,MDU,West,Negotiation,4587,5,22,Low,Moderate,1
+MDU-0402,MDU Property 402,MDU,South,Negotiation,4464,11,6,Low,High,2
+MDU-0403,MDU Property 403,MDU,North,Proposal,1568,7,11,High,Moderate,3
+MDU-0404,MDU Property 404,MDU,East,Negotiation,647,7,12,Medium,Moderate,2
+MDU-0405,MDU Property 405,MDU,South,Lead,1268,18,7,High,None,2
+MDU-0406,MDU Property 406,MDU,West,Closed Won,1114,6,26,Medium,Moderate,2
+MDU-0407,MDU Property 407,MDU,North,Proposal,4589,11,24,Medium,None,3
+MDU-0408,MDU Property 408,MDU,South,Closed Lost,549,15,28,Low,None,4
+MDU-0409,MDU Property 409,MDU,South,Lead,1462,19,10,High,Moderate,3
+MDU-0410,MDU Property 410,MDU,West,Proposal,1653,14,24,High,None,1
+MDU-0411,MDU Property 411,MDU,East,Qualified,3181,16,26,Low,Moderate,3
+MDU-0412,MDU Property 412,MDU,South,Closed Lost,2693,13,22,High,Moderate,2
+MDU-0413,MDU Property 413,MDU,South,Lead,2741,7,20,Low,None,3
+MDU-0414,MDU Property 414,MDU,South,Closed Won,3952,16,13,Medium,None,3
+MDU-0415,MDU Property 415,MDU,South,Proposal,3399,6,26,Medium,Moderate,3
+MDU-0416,MDU Property 416,MDU,East,Closed Lost,1449,8,29,Medium,Moderate,1
+MDU-0417,MDU Property 417,MDU,North,Proposal,1884,12,26,Low,High,1
+MDU-0418,MDU Property 418,MDU,North,Qualified,3662,15,6,Medium,Moderate,2
+MDU-0419,MDU Property 419,MDU,East,Closed Won,1135,19,28,High,None,5
+MDU-0420,MDU Property 420,MDU,South,Closed Lost,644,19,6,High,High,3
+MDU-0421,MDU Property 421,MDU,West,Closed Lost,4814,20,6,Low,Moderate,4
+MDU-0422,MDU Property 422,MDU,North,Proposal,892,19,10,Low,High,2
+MDU-0423,MDU Property 423,MDU,West,Qualified,2900,6,15,High,None,3
+MDU-0424,MDU Property 424,MDU,South,Qualified,3165,16,8,High,None,3
+MDU-0425,MDU Property 425,MDU,West,Proposal,3508,20,13,Low,High,1
+MDU-0426,MDU Property 426,MDU,East,Lead,2624,18,17,Medium,High,2
+MDU-0427,MDU Property 427,MDU,West,Proposal,3171,7,26,Low,None,5
+MDU-0428,MDU Property 428,MDU,East,Proposal,2636,17,15,High,None,3
+MDU-0429,MDU Property 429,MDU,North,Negotiation,1181,19,18,High,Moderate,4
+MDU-0430,MDU Property 430,MDU,South,Qualified,2025,7,8,High,Moderate,4
+MDU-0431,MDU Property 431,MDU,West,Lead,4696,3,27,Low,Moderate,5
+MDU-0432,MDU Property 432,MDU,North,Proposal,1115,14,7,Medium,Moderate,3
+MDU-0433,MDU Property 433,MDU,West,Qualified,2093,13,8,High,None,5
+MDU-0434,MDU Property 434,MDU,West,Proposal,888,18,25,Low,None,3
+MDU-0435,MDU Property 435,MDU,West,Lead,998,18,23,High,High,1
+MDU-0436,MDU Property 436,MDU,North,Closed Won,808,3,20,Low,None,1
+MDU-0437,MDU Property 437,MDU,North,Closed Lost,4497,9,22,Medium,Moderate,1
+MDU-0438,MDU Property 438,MDU,East,Proposal,4993,13,9,Medium,High,1
+MDU-0439,MDU Property 439,MDU,North,Closed Lost,866,20,11,Low,Moderate,1
+MDU-0440,MDU Property 440,MDU,South,Proposal,4687,8,11,Medium,Moderate,5
+MDU-0441,MDU Property 441,MDU,North,Closed Won,2100,20,14,Medium,None,4
+MDU-0442,MDU Property 442,MDU,South,Negotiation,4064,20,10,High,Moderate,5
+MDU-0443,MDU Property 443,MDU,North,Closed Won,1196,11,24,High,None,3
+MDU-0444,MDU Property 444,MDU,West,Closed Lost,4254,15,16,High,None,3
+MDU-0445,MDU Property 445,MDU,North,Closed Won,3402,11,22,High,High,1
+MDU-0446,MDU Property 446,MDU,South,Proposal,1806,14,15,Low,High,5
+MDU-0447,MDU Property 447,MDU,North,Lead,1791,4,21,Medium,Moderate,5
+MDU-0448,MDU Property 448,MDU,East,Qualified,820,3,8,Low,High,1
+MDU-0449,MDU Property 449,MDU,North,Closed Lost,1627,6,24,High,High,5
+MDU-0450,MDU Property 450,MDU,West,Closed Lost,3209,5,21,High,High,3
+MDU-0451,MDU Property 451,MDU,North,Proposal,2043,18,17,High,None,5
+MDU-0452,MDU Property 452,MDU,East,Proposal,3342,16,24,Medium,Moderate,2
+MDU-0453,MDU Property 453,MDU,South,Proposal,4160,12,27,Low,High,2
+MDU-0454,MDU Property 454,MDU,West,Proposal,2139,4,23,Medium,High,1
+MDU-0455,MDU Property 455,MDU,West,Lead,4570,3,9,Medium,None,4
+MDU-0456,MDU Property 456,MDU,South,Lead,1359,16,30,High,High,4
+MDU-0457,MDU Property 457,MDU,North,Proposal,3606,17,8,High,High,2
+MDU-0458,MDU Property 458,MDU,South,Negotiation,1712,7,7,Low,Moderate,1
+MDU-0459,MDU Property 459,MDU,West,Closed Lost,3158,5,6,High,None,2
+MDU-0460,MDU Property 460,MDU,South,Closed Won,3334,10,25,Low,Moderate,2
+MDU-0461,MDU Property 461,MDU,North,Closed Lost,3313,11,16,High,Moderate,4
+MDU-0462,MDU Property 462,MDU,West,Proposal,1915,9,15,Low,High,4
+MDU-0463,MDU Property 463,MDU,East,Qualified,2360,16,21,Low,High,1
+MDU-0464,MDU Property 464,MDU,West,Proposal,3846,13,5,Low,None,1
+MDU-0465,MDU Property 465,MDU,West,Qualified,2564,16,7,Medium,None,5
+MDU-0466,MDU Property 466,MDU,South,Lead,3434,20,20,Medium,Moderate,4
+MDU-0467,MDU Property 467,MDU,West,Negotiation,1060,9,7,Medium,Moderate,4
+MDU-0468,MDU Property 468,MDU,South,Qualified,2330,6,16,High,None,1
+MDU-0469,MDU Property 469,MDU,West,Proposal,3643,8,13,Low,High,1
+MDU-0470,MDU Property 470,MDU,East,Lead,3759,18,13,Low,Moderate,2
+MDU-0471,MDU Property 471,MDU,East,Negotiation,4701,5,8,High,Moderate,3
+MDU-0472,MDU Property 472,MDU,South,Closed Won,3809,15,5,Medium,High,4
+MDU-0473,MDU Property 473,MDU,East,Proposal,4058,12,25,Low,Moderate,3
+MDU-0474,MDU Property 474,MDU,East,Qualified,2971,12,21,High,Moderate,5
+MDU-0475,MDU Property 475,MDU,North,Closed Lost,2937,18,10,High,None,2
+MDU-0476,MDU Property 476,MDU,East,Closed Lost,1245,6,11,High,Moderate,3
+MDU-0477,MDU Property 477,MDU,South,Qualified,3519,15,23,Medium,Moderate,1
+MDU-0478,MDU Property 478,MDU,East,Qualified,3669,13,25,Medium,Moderate,2
+MDU-0479,MDU Property 479,MDU,East,Closed Won,3802,14,8,Low,High,5
+MDU-0480,MDU Property 480,MDU,East,Proposal,2007,7,18,Low,High,5
+MDU-0481,MDU Property 481,MDU,North,Closed Won,2847,11,27,Medium,Moderate,4
+MDU-0482,MDU Property 482,MDU,South,Closed Lost,1126,11,17,Low,High,5
+MDU-0483,MDU Property 483,MDU,South,Closed Lost,2535,17,7,Medium,Moderate,2
+MDU-0484,MDU Property 484,MDU,South,Lead,2273,15,26,Medium,None,4
+MDU-0485,MDU Property 485,MDU,West,Negotiation,4359,17,17,High,High,3
+MDU-0486,MDU Property 486,MDU,East,Lead,1194,15,12,Low,High,3
+MDU-0487,MDU Property 487,MDU,East,Proposal,2567,16,20,Medium,None,3
+MDU-0488,MDU Property 488,MDU,West,Negotiation,4757,19,11,High,Moderate,3
+MDU-0489,MDU Property 489,MDU,South,Qualified,3255,5,30,High,High,3
+MDU-0490,MDU Property 490,MDU,West,Closed Won,909,6,6,Low,High,2
+MDU-0491,MDU Property 491,MDU,South,Negotiation,2763,17,6,Low,High,1
+MDU-0492,MDU Property 492,MDU,West,Proposal,2797,20,16,Low,High,4
+MDU-0493,MDU Property 493,MDU,West,Closed Lost,2902,8,12,Medium,High,2
+MDU-0494,MDU Property 494,MDU,West,Closed Lost,2417,11,14,Medium,Moderate,3
+MDU-0495,MDU Property 495,MDU,West,Qualified,3440,4,25,High,Moderate,4
+MDU-0496,MDU Property 496,MDU,West,Proposal,3398,20,18,Low,Moderate,2
+MDU-0497,MDU Property 497,MDU,North,Closed Won,566,15,29,Low,High,5
+MDU-0498,MDU Property 498,MDU,North,Negotiation,1135,10,28,High,Moderate,1
+MDU-0499,MDU Property 499,MDU,West,Closed Lost,3568,5,6,Low,High,5
+MDU-0500,MDU Property 500,MDU,East,Lead,2944,14,25,High,High,4
+MDU-0501,MDU Property 501,MDU,South,Qualified,561,18,25,Low,High,1
+MDU-0502,MDU Property 502,MDU,South,Negotiation,2981,12,19,Medium,Moderate,3
+MDU-0503,MDU Property 503,MDU,North,Proposal,3544,20,10,Medium,High,3
+MDU-0504,MDU Property 504,MDU,East,Negotiation,1918,5,9,Low,None,4
+MDU-0505,MDU Property 505,MDU,South,Qualified,4855,20,11,High,None,4
+MDU-0506,MDU Property 506,MDU,North,Lead,4377,6,5,Medium,High,2
+MDU-0507,MDU Property 507,MDU,West,Negotiation,981,8,14,Low,Moderate,4
+MDU-0508,MDU Property 508,MDU,East,Qualified,4547,19,13,High,Moderate,5
+MDU-0509,MDU Property 509,MDU,South,Proposal,4143,5,28,Low,High,3
+MDU-0510,MDU Property 510,MDU,South,Proposal,627,14,20,High,Moderate,3
+MDU-0511,MDU Property 511,MDU,South,Proposal,3286,11,16,Medium,Moderate,2
+MDU-0512,MDU Property 512,MDU,South,Qualified,1879,5,15,Low,None,1
+MDU-0513,MDU Property 513,MDU,West,Closed Lost,2951,19,21,Medium,None,3
+MDU-0514,MDU Property 514,MDU,East,Negotiation,630,15,21,Medium,Moderate,3
+MDU-0515,MDU Property 515,MDU,South,Negotiation,1274,13,25,Low,Moderate,3
+MDU-0516,MDU Property 516,MDU,South,Closed Won,2962,6,5,High,Moderate,2
+MDU-0517,MDU Property 517,MDU,North,Closed Won,1678,5,16,High,None,4
+MDU-0518,MDU Property 518,MDU,North,Lead,1539,19,11,Low,Moderate,5
+MDU-0519,MDU Property 519,MDU,West,Proposal,3154,20,16,Low,None,2
+MDU-0520,MDU Property 520,MDU,East,Closed Won,2937,16,12,Medium,High,2
+MDU-0521,MDU Property 521,MDU,South,Lead,4781,3,20,Medium,High,2
+MDU-0522,MDU Property 522,MDU,North,Qualified,3706,16,18,High,None,4
+MDU-0523,MDU Property 523,MDU,West,Closed Lost,2974,9,12,High,None,3
+MDU-0524,MDU Property 524,MDU,East,Qualified,3674,10,10,High,Moderate,3
+MDU-0525,MDU Property 525,MDU,East,Proposal,4947,8,16,Medium,High,4
+MDU-0526,MDU Property 526,MDU,West,Qualified,3899,20,15,High,None,3
+MDU-0527,MDU Property 527,MDU,West,Proposal,4348,12,23,High,High,2
+MDU-0528,MDU Property 528,MDU,North,Closed Won,2983,14,22,Low,None,4
+MDU-0529,MDU Property 529,MDU,West,Closed Won,2682,11,25,Low,None,2
+MDU-0530,MDU Property 530,MDU,North,Lead,510,3,17,Low,High,1
+MDU-0531,MDU Property 531,MDU,South,Closed Lost,4410,10,22,Low,High,3
+MDU-0532,MDU Property 532,MDU,West,Lead,4982,4,17,Medium,None,3
+MDU-0533,MDU Property 533,MDU,West,Closed Lost,4823,14,28,High,High,1
+MDU-0534,MDU Property 534,MDU,North,Closed Lost,633,8,6,Low,High,4
+MDU-0535,MDU Property 535,MDU,East,Qualified,4642,5,16,Low,None,4
+MDU-0536,MDU Property 536,MDU,South,Proposal,1734,19,9,High,None,3
+MDU-0537,MDU Property 537,MDU,West,Negotiation,4505,12,24,High,Moderate,5
+MDU-0538,MDU Property 538,MDU,South,Negotiation,682,12,29,Low,Moderate,4
+MDU-0539,MDU Property 539,MDU,North,Closed Lost,3945,14,15,High,High,4
+MDU-0540,MDU Property 540,MDU,South,Negotiation,2059,20,27,Low,Moderate,4
+MDU-0541,MDU Property 541,MDU,West,Lead,1869,19,11,High,None,1
+MDU-0542,MDU Property 542,MDU,West,Closed Lost,3212,14,27,Medium,Moderate,5
+MDU-0543,MDU Property 543,MDU,South,Closed Lost,4424,9,6,Medium,Moderate,3
+MDU-0544,MDU Property 544,MDU,East,Closed Won,522,18,26,Medium,High,4
+MDU-0545,MDU Property 545,MDU,West,Closed Lost,4157,5,11,High,Moderate,5
+MDU-0546,MDU Property 546,MDU,South,Qualified,4066,7,8,Medium,None,3
+MDU-0547,MDU Property 547,MDU,North,Negotiation,585,9,22,High,Moderate,2
+MDU-0548,MDU Property 548,MDU,West,Proposal,3867,17,12,High,None,5
+MDU-0549,MDU Property 549,MDU,North,Closed Lost,1570,10,15,High,None,5
+MDU-0550,MDU Property 550,MDU,East,Negotiation,4955,6,7,Low,Moderate,4
+MDU-0551,MDU Property 551,MDU,East,Closed Lost,4368,3,22,Medium,None,3
+MDU-0552,MDU Property 552,MDU,South,Closed Lost,2967,11,15,Medium,Moderate,5
+MDU-0553,MDU Property 553,MDU,South,Lead,1755,17,14,Low,None,2
+MDU-0554,MDU Property 554,MDU,South,Closed Won,3166,15,18,Low,None,4
+MDU-0555,MDU Property 555,MDU,East,Closed Lost,2366,4,21,Low,None,5
+MDU-0556,MDU Property 556,MDU,South,Closed Lost,2100,18,25,High,Moderate,1
+MDU-0557,MDU Property 557,MDU,North,Closed Won,4826,15,18,Low,Moderate,2
+MDU-0558,MDU Property 558,MDU,North,Negotiation,3539,17,14,High,High,4
+MDU-0559,MDU Property 559,MDU,South,Lead,4608,7,21,Low,Moderate,3
+MDU-0560,MDU Property 560,MDU,West,Qualified,1822,12,14,Medium,High,2
+MDU-0561,MDU Property 561,MDU,West,Negotiation,4160,6,22,Low,None,5
+MDU-0562,MDU Property 562,MDU,South,Closed Lost,2459,16,18,Low,None,3
+MDU-0563,MDU Property 563,MDU,East,Closed Won,3152,10,26,High,High,4
+MDU-0564,MDU Property 564,MDU,North,Negotiation,4256,18,24,Low,High,1
+MDU-0565,MDU Property 565,MDU,East,Closed Won,4916,12,7,Low,Moderate,4
+MDU-0566,MDU Property 566,MDU,West,Negotiation,3247,19,5,Medium,Moderate,2
+MDU-0567,MDU Property 567,MDU,North,Qualified,3088,3,6,Medium,None,4
+MDU-0568,MDU Property 568,MDU,West,Qualified,1641,10,28,Low,Moderate,2
+MDU-0569,MDU Property 569,MDU,South,Closed Won,2048,10,26,Low,None,2
+MDU-0570,MDU Property 570,MDU,North,Qualified,4558,12,30,High,High,4
+MDU-0571,MDU Property 571,MDU,North,Closed Won,2601,11,7,Low,High,3
+MDU-0572,MDU Property 572,MDU,East,Closed Won,1384,5,26,Low,None,2
+MDU-0573,MDU Property 573,MDU,East,Proposal,4232,5,22,High,Moderate,5
+MDU-0574,MDU Property 574,MDU,North,Closed Won,4031,8,6,Medium,Moderate,5
+MDU-0575,MDU Property 575,MDU,West,Closed Won,3591,3,23,High,None,5
+MDU-0576,MDU Property 576,MDU,East,Lead,2863,13,20,Medium,Moderate,4
+MDU-0577,MDU Property 577,MDU,East,Qualified,2817,6,10,High,None,4
+MDU-0578,MDU Property 578,MDU,South,Negotiation,749,19,19,Low,None,1
+MDU-0579,MDU Property 579,MDU,East,Qualified,4700,19,10,High,None,3
+MDU-0580,MDU Property 580,MDU,North,Closed Won,4196,17,26,Low,Moderate,2
+MDU-0581,MDU Property 581,MDU,East,Lead,674,15,22,Medium,Moderate,2
+MDU-0582,MDU Property 582,MDU,West,Closed Lost,3221,8,14,Medium,Moderate,4
+MDU-0583,MDU Property 583,MDU,East,Closed Won,4475,6,9,Low,None,4
+MDU-0584,MDU Property 584,MDU,West,Proposal,896,19,12,Medium,High,1
+MDU-0585,MDU Property 585,MDU,West,Lead,4104,18,11,Medium,High,4
+MDU-0586,MDU Property 586,MDU,South,Negotiation,2853,10,29,High,High,2
+MDU-0587,MDU Property 587,MDU,East,Negotiation,4017,9,19,High,High,4
+MDU-0588,MDU Property 588,MDU,North,Lead,2008,18,15,Medium,High,3
+MDU-0589,MDU Property 589,MDU,North,Negotiation,2545,7,9,Low,High,5
+MDU-0590,MDU Property 590,MDU,North,Closed Lost,1409,11,10,Medium,High,2
+MDU-0591,MDU Property 591,MDU,West,Closed Won,4596,13,26,High,High,5
+MDU-0592,MDU Property 592,MDU,South,Proposal,3403,14,12,Low,High,2
+MDU-0593,MDU Property 593,MDU,West,Closed Won,2597,8,22,High,High,5
+MDU-0594,MDU Property 594,MDU,North,Negotiation,3259,12,19,High,High,4
+MDU-0595,MDU Property 595,MDU,North,Proposal,4286,12,26,Medium,Moderate,3
+MDU-0596,MDU Property 596,MDU,East,Proposal,1904,11,18,Low,Moderate,2
+MDU-0597,MDU Property 597,MDU,South,Closed Lost,1429,5,17,Medium,None,4
+MDU-0598,MDU Property 598,MDU,West,Closed Lost,1310,19,15,High,None,1
+MDU-0599,MDU Property 599,MDU,South,Closed Lost,1938,16,13,High,High,3
+MDU-0600,MDU Property 600,MDU,West,Closed Lost,4352,15,7,Medium,Moderate,1
+MDU-0601,MDU Property 601,MDU,North,Closed Won,4747,5,15,Medium,Moderate,3
+MDU-0602,MDU Property 602,MDU,South,Closed Won,4793,20,21,Low,None,2
+MDU-0603,MDU Property 603,MDU,South,Proposal,3454,6,26,Medium,None,2
+MDU-0604,MDU Property 604,MDU,West,Closed Won,977,13,28,High,High,5
+MDU-0605,MDU Property 605,MDU,North,Lead,4665,9,30,Medium,None,1
+MDU-0606,MDU Property 606,MDU,South,Lead,3432,6,6,High,Moderate,4
+MDU-0607,MDU Property 607,MDU,East,Proposal,4999,10,5,Medium,High,4
+MDU-0608,MDU Property 608,MDU,East,Qualified,4728,5,22,Low,Moderate,4
+MDU-0609,MDU Property 609,MDU,North,Qualified,2329,18,19,Low,Moderate,4
+MDU-0610,MDU Property 610,MDU,North,Qualified,1344,15,10,High,Moderate,1
+MDU-0611,MDU Property 611,MDU,North,Closed Won,1009,9,24,High,None,4
+MDU-0612,MDU Property 612,MDU,East,Negotiation,3669,15,9,Medium,Moderate,2
+MDU-0613,MDU Property 613,MDU,East,Qualified,3152,8,13,High,None,3
+MDU-0614,MDU Property 614,MDU,South,Negotiation,3679,9,27,High,Moderate,4
+MDU-0615,MDU Property 615,MDU,East,Closed Lost,4857,9,26,High,High,5
+MDU-0616,MDU Property 616,MDU,North,Lead,580,19,21,Low,Moderate,5
+MDU-0617,MDU Property 617,MDU,West,Closed Lost,4510,19,16,High,None,4
+MDU-0618,MDU Property 618,MDU,East,Proposal,3895,13,18,High,High,5
+MDU-0619,MDU Property 619,MDU,North,Negotiation,2406,14,18,Medium,Moderate,5
+MDU-0620,MDU Property 620,MDU,South,Lead,1348,19,7,Medium,High,1
+MDU-0621,MDU Property 621,MDU,East,Closed Lost,3006,3,28,High,Moderate,2
+MDU-0622,MDU Property 622,MDU,West,Lead,3046,9,13,Medium,High,4
+MDU-0623,MDU Property 623,MDU,East,Closed Lost,3185,17,18,Medium,Moderate,5
+MDU-0624,MDU Property 624,MDU,West,Closed Won,1597,16,23,Low,High,5
+MDU-0625,MDU Property 625,MDU,North,Qualified,2814,9,22,High,Moderate,3
+MDU-0626,MDU Property 626,MDU,East,Qualified,3624,14,25,Medium,High,3
+MDU-0627,MDU Property 627,MDU,West,Closed Lost,4477,7,5,Medium,None,2
+MDU-0628,MDU Property 628,MDU,East,Qualified,4395,9,15,Medium,High,3
+MDU-0629,MDU Property 629,MDU,North,Closed Lost,2365,14,27,Medium,Moderate,4
+MDU-0630,MDU Property 630,MDU,South,Proposal,4837,6,30,Low,Moderate,3
+MDU-0631,MDU Property 631,MDU,South,Closed Won,4180,18,6,High,Moderate,5
+MDU-0632,MDU Property 632,MDU,East,Closed Lost,1879,15,20,High,None,4
+MDU-0633,MDU Property 633,MDU,West,Qualified,3383,9,7,Medium,High,5
+MDU-0634,MDU Property 634,MDU,East,Closed Lost,2564,14,5,Low,High,1
+MDU-0635,MDU Property 635,MDU,East,Lead,4044,19,18,Low,Moderate,1
+MDU-0636,MDU Property 636,MDU,East,Negotiation,4612,20,15,Medium,Moderate,4
+MDU-0637,MDU Property 637,MDU,North,Qualified,4402,20,13,Low,None,2
+MDU-0638,MDU Property 638,MDU,North,Lead,1753,15,20,Medium,None,3
+MDU-0639,MDU Property 639,MDU,West,Proposal,1830,16,30,Low,None,2
+MDU-0640,MDU Property 640,MDU,North,Closed Won,4659,19,6,Low,High,3
+MDU-0641,MDU Property 641,MDU,South,Closed Won,4934,6,29,Low,Moderate,1
+MDU-0642,MDU Property 642,MDU,West,Qualified,1231,18,29,High,Moderate,1
+MDU-0643,MDU Property 643,MDU,South,Proposal,1228,14,24,High,Moderate,1
+MDU-0644,MDU Property 644,MDU,East,Negotiation,3902,16,15,High,High,3
+MDU-0645,MDU Property 645,MDU,North,Negotiation,3981,8,8,High,None,5
+MDU-0646,MDU Property 646,MDU,East,Proposal,3247,9,18,Low,None,4
+MDU-0647,MDU Property 647,MDU,North,Closed Lost,539,17,18,High,Moderate,1
+MDU-0648,MDU Property 648,MDU,West,Closed Lost,2710,15,6,Medium,Moderate,1
+MDU-0649,MDU Property 649,MDU,West,Negotiation,2155,3,27,Low,None,1
+MDU-0650,MDU Property 650,MDU,North,Qualified,1116,19,29,Medium,None,4
+MDU-0651,MDU Property 651,MDU,North,Qualified,4909,14,21,Medium,None,4
+MDU-0652,MDU Property 652,MDU,North,Lead,3497,18,20,Low,High,4
+MDU-0653,MDU Property 653,MDU,West,Qualified,3169,12,20,Low,None,2
+MDU-0654,MDU Property 654,MDU,East,Closed Won,770,5,5,Medium,None,5
+MDU-0655,MDU Property 655,MDU,West,Proposal,2937,7,24,High,Moderate,3
+MDU-0656,MDU Property 656,MDU,West,Proposal,2378,5,5,Medium,None,1
+MDU-0657,MDU Property 657,MDU,East,Closed Lost,3912,13,19,High,None,3
+MDU-0658,MDU Property 658,MDU,South,Closed Won,1034,12,5,Low,High,4
+MDU-0659,MDU Property 659,MDU,West,Proposal,1683,15,25,Medium,Moderate,1
+MDU-0660,MDU Property 660,MDU,West,Lead,1326,5,10,Medium,None,4
+MDU-0661,MDU Property 661,MDU,East,Negotiation,2432,3,22,Medium,None,2
+MDU-0662,MDU Property 662,MDU,West,Closed Lost,2330,19,18,High,Moderate,5
+MDU-0663,MDU Property 663,MDU,East,Lead,1967,4,16,Medium,Moderate,5
+MDU-0664,MDU Property 664,MDU,South,Proposal,1742,7,7,Medium,None,1
+MDU-0665,MDU Property 665,MDU,West,Negotiation,1800,19,24,Low,None,1
+MDU-0666,MDU Property 666,MDU,West,Closed Lost,1140,18,12,High,High,4
+MDU-0667,MDU Property 667,MDU,West,Negotiation,2503,17,12,Medium,Moderate,1
+MDU-0668,MDU Property 668,MDU,East,Lead,4279,11,27,Medium,High,4
+MDU-0669,MDU Property 669,MDU,West,Lead,2329,4,26,High,Moderate,5
+MDU-0670,MDU Property 670,MDU,North,Lead,1457,10,26,Medium,High,3
+MDU-0671,MDU Property 671,MDU,South,Negotiation,3720,18,27,Low,High,3
+MDU-0672,MDU Property 672,MDU,West,Closed Lost,4773,16,11,Low,None,5
+MDU-0673,MDU Property 673,MDU,East,Qualified,980,15,26,High,None,2
+MDU-0674,MDU Property 674,MDU,East,Lead,2835,6,30,Medium,Moderate,1
+MDU-0675,MDU Property 675,MDU,East,Proposal,754,20,12,Medium,Moderate,5
+MDU-0676,MDU Property 676,MDU,West,Lead,1268,3,24,Medium,High,5
+MDU-0677,MDU Property 677,MDU,East,Lead,696,7,14,Low,None,4
+MDU-0678,MDU Property 678,MDU,North,Closed Won,2007,12,9,Low,Moderate,1
+MDU-0679,MDU Property 679,MDU,South,Lead,1463,12,21,High,Moderate,2
+MDU-0680,MDU Property 680,MDU,South,Negotiation,2535,13,7,Medium,Moderate,4
+MDU-0681,MDU Property 681,MDU,North,Lead,3061,20,5,High,High,1
+MDU-0682,MDU Property 682,MDU,North,Proposal,4236,9,20,Low,Moderate,5
+MDU-0683,MDU Property 683,MDU,West,Closed Won,1252,12,25,Medium,High,3
+MDU-0684,MDU Property 684,MDU,South,Closed Won,1297,4,29,High,High,4
+MDU-0685,MDU Property 685,MDU,North,Qualified,4652,11,14,High,Moderate,5
+MDU-0686,MDU Property 686,MDU,North,Qualified,1408,17,16,Low,High,4
+MDU-0687,MDU Property 687,MDU,North,Lead,1335,20,12,Low,High,4
+MDU-0688,MDU Property 688,MDU,South,Closed Lost,1500,17,11,Low,High,3
+MDU-0689,MDU Property 689,MDU,South,Closed Lost,1155,20,19,Medium,None,3
+MDU-0690,MDU Property 690,MDU,West,Proposal,2031,15,7,Medium,Moderate,2
+MDU-0691,MDU Property 691,MDU,North,Qualified,1451,4,26,High,High,4
+MDU-0692,MDU Property 692,MDU,South,Closed Won,2442,3,14,Medium,High,5
+MDU-0693,MDU Property 693,MDU,East,Proposal,1512,17,27,Medium,Moderate,4
+MDU-0694,MDU Property 694,MDU,West,Qualified,3000,14,28,High,Moderate,1
+MDU-0695,MDU Property 695,MDU,East,Negotiation,1309,14,26,High,Moderate,4
+MDU-0696,MDU Property 696,MDU,North,Closed Won,3007,4,29,High,None,2
+MDU-0697,MDU Property 697,MDU,West,Proposal,3227,11,16,Low,None,4
+MDU-0698,MDU Property 698,MDU,East,Negotiation,4302,17,18,Medium,None,3
+MDU-0699,MDU Property 699,MDU,West,Closed Won,1036,11,28,Medium,High,3
+MDU-0700,MDU Property 700,MDU,West,Qualified,2682,7,26,Medium,Moderate,1
+MDU-0701,MDU Property 701,MDU,South,Proposal,3849,15,19,High,Moderate,4
+MDU-0702,MDU Property 702,MDU,East,Closed Lost,2139,12,13,Medium,None,1
+MDU-0703,MDU Property 703,MDU,South,Closed Won,3805,8,16,High,High,2
+MDU-0704,MDU Property 704,MDU,West,Negotiation,2181,8,20,High,Moderate,1
+MDU-0705,MDU Property 705,MDU,West,Negotiation,547,11,21,Low,Moderate,3
+MDU-0706,MDU Property 706,MDU,North,Closed Lost,4707,13,10,High,Moderate,5
+MDU-0707,MDU Property 707,MDU,South,Proposal,4142,12,12,Low,Moderate,1
+MDU-0708,MDU Property 708,MDU,South,Lead,1308,6,23,Medium,High,4
+MDU-0709,MDU Property 709,MDU,West,Closed Won,4555,13,20,Low,None,3
+MDU-0710,MDU Property 710,MDU,South,Proposal,2331,3,29,High,Moderate,5
+MDU-0711,MDU Property 711,MDU,West,Lead,2375,20,11,Low,High,4
+MDU-0712,MDU Property 712,MDU,North,Closed Lost,4164,9,16,High,High,4
+MDU-0713,MDU Property 713,MDU,East,Proposal,1729,8,17,Medium,High,1
+MDU-0714,MDU Property 714,MDU,West,Closed Won,1375,7,23,Low,None,4
+MDU-0715,MDU Property 715,MDU,South,Lead,4982,13,24,Low,None,3
+MDU-0716,MDU Property 716,MDU,South,Proposal,1440,15,13,High,High,3
+MDU-0717,MDU Property 717,MDU,South,Lead,2478,15,16,High,None,3
+MDU-0718,MDU Property 718,MDU,South,Qualified,4858,18,12,High,High,1
+MDU-0719,MDU Property 719,MDU,South,Proposal,2712,7,18,Low,High,4
+MDU-0720,MDU Property 720,MDU,South,Proposal,2205,6,8,High,Moderate,2
+MDU-0721,MDU Property 721,MDU,North,Closed Won,599,9,28,High,None,3
+MDU-0722,MDU Property 722,MDU,North,Closed Lost,4807,16,6,Medium,Moderate,4
+MDU-0723,MDU Property 723,MDU,South,Lead,3534,15,9,Low,None,5
+MDU-0724,MDU Property 724,MDU,North,Proposal,2400,7,29,Medium,None,4
+MDU-0725,MDU Property 725,MDU,North,Closed Lost,4264,18,30,Medium,High,3
+MDU-0726,MDU Property 726,MDU,South,Closed Lost,902,5,16,Medium,High,3
+MDU-0727,MDU Property 727,MDU,West,Closed Won,2813,17,18,Medium,High,2
+MDU-0728,MDU Property 728,MDU,South,Qualified,3261,13,19,Low,High,3
+MDU-0729,MDU Property 729,MDU,North,Closed Lost,642,13,27,Low,None,3
+MDU-0730,MDU Property 730,MDU,West,Closed Won,671,11,28,High,Moderate,1
+MDU-0731,MDU Property 731,MDU,North,Negotiation,1116,3,30,Low,Moderate,2
+MDU-0732,MDU Property 732,MDU,West,Closed Lost,4998,6,25,High,Moderate,3
+MDU-0733,MDU Property 733,MDU,East,Qualified,1093,5,12,Low,None,1
+MDU-0734,MDU Property 734,MDU,North,Lead,3093,16,15,Low,None,2
+MDU-0735,MDU Property 735,MDU,West,Proposal,3506,9,9,Low,High,3
+MDU-0736,MDU Property 736,MDU,East,Closed Lost,978,18,14,Low,None,1
+MDU-0737,MDU Property 737,MDU,South,Proposal,1888,19,9,Low,None,3
+MDU-0738,MDU Property 738,MDU,East,Closed Lost,2578,19,9,High,Moderate,4
+MDU-0739,MDU Property 739,MDU,South,Negotiation,1844,5,25,Low,Moderate,2
+MDU-0740,MDU Property 740,MDU,East,Closed Lost,4281,20,27,High,High,4
+MDU-0741,MDU Property 741,MDU,West,Proposal,2213,13,14,Low,Moderate,1
+MDU-0742,MDU Property 742,MDU,South,Closed Won,2456,9,21,High,High,1
+MDU-0743,MDU Property 743,MDU,West,Closed Won,3085,5,21,Medium,None,3
+MDU-0744,MDU Property 744,MDU,North,Qualified,4784,10,6,Medium,High,2
+MDU-0745,MDU Property 745,MDU,North,Negotiation,694,19,18,Low,Moderate,3
+MDU-0746,MDU Property 746,MDU,South,Qualified,4032,15,21,Low,None,5
+MDU-0747,MDU Property 747,MDU,South,Qualified,1574,16,22,Low,Moderate,3
+MDU-0748,MDU Property 748,MDU,East,Lead,3660,5,10,Low,Moderate,4
+MDU-0749,MDU Property 749,MDU,East,Lead,2449,5,23,Medium,Moderate,4
+MDU-0750,MDU Property 750,MDU,East,Closed Won,3890,19,18,High,High,4
+MDU-0751,MDU Property 751,MDU,West,Closed Won,3692,12,12,Medium,None,3
+MDU-0752,MDU Property 752,MDU,East,Qualified,1795,7,13,Low,High,3
+MDU-0753,MDU Property 753,MDU,West,Negotiation,2335,6,10,High,Moderate,5
+MDU-0754,MDU Property 754,MDU,South,Qualified,4700,10,15,High,None,4
+MDU-0755,MDU Property 755,MDU,East,Negotiation,1943,11,12,Medium,Moderate,5
+MDU-0756,MDU Property 756,MDU,South,Proposal,4091,19,13,Low,None,5
+MDU-0757,MDU Property 757,MDU,South,Proposal,1608,20,10,Low,High,1
+MDU-0758,MDU Property 758,MDU,South,Qualified,2638,3,19,High,None,2
+MDU-0759,MDU Property 759,MDU,South,Qualified,4479,12,5,High,None,5
+MDU-0760,MDU Property 760,MDU,West,Lead,3558,9,19,Low,Moderate,2
+MDU-0761,MDU Property 761,MDU,North,Closed Lost,4105,7,25,High,High,5
+MDU-0762,MDU Property 762,MDU,West,Proposal,2784,4,15,High,Moderate,5
+MDU-0763,MDU Property 763,MDU,West,Lead,3432,9,27,Low,Moderate,5
+MDU-0764,MDU Property 764,MDU,North,Closed Won,3080,12,22,High,None,3
+MDU-0765,MDU Property 765,MDU,North,Qualified,2261,11,14,Low,High,5
+MDU-0766,MDU Property 766,MDU,South,Proposal,1748,9,8,Low,Moderate,3
+MDU-0767,MDU Property 767,MDU,East,Qualified,4378,12,25,Low,Moderate,3
+MDU-0768,MDU Property 768,MDU,North,Closed Won,1885,9,30,Low,None,3
+MDU-0769,MDU Property 769,MDU,North,Qualified,1328,20,10,Medium,High,1
+MDU-0770,MDU Property 770,MDU,West,Proposal,3685,12,30,Medium,None,5
+MDU-0771,MDU Property 771,MDU,North,Negotiation,979,19,11,High,None,1
+MDU-0772,MDU Property 772,MDU,West,Closed Lost,3877,12,24,Low,High,3
+MDU-0773,MDU Property 773,MDU,West,Qualified,3038,18,16,Low,Moderate,1
+MDU-0774,MDU Property 774,MDU,North,Qualified,3669,12,18,Medium,High,4
+MDU-0775,MDU Property 775,MDU,West,Lead,2964,3,14,High,None,4
+MDU-0776,MDU Property 776,MDU,East,Negotiation,2493,8,13,High,High,3
+MDU-0777,MDU Property 777,MDU,West,Closed Lost,2856,13,24,Low,High,1
+MDU-0778,MDU Property 778,MDU,West,Closed Won,4032,18,27,Low,Moderate,4
+MDU-0779,MDU Property 779,MDU,West,Proposal,2031,8,24,Medium,Moderate,2
+MDU-0780,MDU Property 780,MDU,South,Qualified,931,5,25,Low,Moderate,3
+MDU-0781,MDU Property 781,MDU,South,Closed Won,4881,7,26,Medium,Moderate,2
+MDU-0782,MDU Property 782,MDU,South,Closed Won,3152,20,21,Low,None,2
+MDU-0783,MDU Property 783,MDU,South,Closed Won,1215,15,30,Medium,None,4
+MDU-0784,MDU Property 784,MDU,West,Closed Won,1073,18,30,Medium,High,1
+MDU-0785,MDU Property 785,MDU,East,Negotiation,1552,13,7,Medium,Moderate,1
+MDU-0786,MDU Property 786,MDU,East,Negotiation,2671,18,22,High,Moderate,5
+MDU-0787,MDU Property 787,MDU,East,Closed Lost,3547,17,22,Low,Moderate,4
+MDU-0788,MDU Property 788,MDU,West,Proposal,799,12,7,Low,High,3
+MDU-0789,MDU Property 789,MDU,South,Closed Lost,1015,11,11,Low,Moderate,4
+MDU-0790,MDU Property 790,MDU,West,Negotiation,2469,16,28,High,High,2
+MDU-0791,MDU Property 791,MDU,North,Qualified,2768,10,7,High,High,5
+MDU-0792,MDU Property 792,MDU,West,Closed Won,4600,16,20,Low,High,1
+MDU-0793,MDU Property 793,MDU,North,Lead,976,13,5,Low,High,3
+MDU-0794,MDU Property 794,MDU,North,Closed Won,3882,19,28,Medium,High,5
+MDU-0795,MDU Property 795,MDU,West,Negotiation,4734,9,21,High,High,2
+MDU-0796,MDU Property 796,MDU,South,Qualified,1226,9,25,High,High,4
+MDU-0797,MDU Property 797,MDU,West,Closed Lost,2622,6,12,High,Moderate,4
+MDU-0798,MDU Property 798,MDU,East,Lead,769,10,22,High,None,5
+MDU-0799,MDU Property 799,MDU,East,Closed Won,3488,18,22,Medium,Moderate,4
+MDU-0800,MDU Property 800,MDU,West,Closed Won,2237,7,23,Medium,None,2
+MDU-0801,MDU Property 801,MDU,East,Negotiation,2251,18,8,Medium,High,4
+MDU-0802,MDU Property 802,MDU,East,Lead,1195,11,8,High,None,1
+MDU-0803,MDU Property 803,MDU,East,Negotiation,1207,6,30,Low,High,2
+MDU-0804,MDU Property 804,MDU,West,Closed Lost,3004,8,19,Low,High,1
+MDU-0805,MDU Property 805,MDU,South,Lead,4791,12,5,Medium,High,1
+MDU-0806,MDU Property 806,MDU,East,Closed Won,3754,15,7,Medium,High,4
+MDU-0807,MDU Property 807,MDU,South,Closed Won,2012,7,10,Medium,None,3
+MDU-0808,MDU Property 808,MDU,North,Closed Won,3024,4,9,Low,Moderate,1
+MDU-0809,MDU Property 809,MDU,West,Closed Won,636,20,8,Low,Moderate,2
+MDU-0810,MDU Property 810,MDU,West,Proposal,3011,3,10,High,High,1
+MDU-0811,MDU Property 811,MDU,North,Proposal,2756,15,22,Low,None,3
+MDU-0812,MDU Property 812,MDU,North,Lead,4695,15,9,Low,High,2
+MDU-0813,MDU Property 813,MDU,North,Lead,3712,10,30,Medium,Moderate,4
+MDU-0814,MDU Property 814,MDU,West,Negotiation,4035,9,14,Medium,Moderate,5
+MDU-0815,MDU Property 815,MDU,North,Qualified,3951,12,24,Low,None,3
+MDU-0816,MDU Property 816,MDU,South,Qualified,4420,8,15,High,Moderate,5
+MDU-0817,MDU Property 817,MDU,East,Lead,1539,14,6,Medium,Moderate,2
+MDU-0818,MDU Property 818,MDU,North,Proposal,4195,12,20,Medium,Moderate,1
+MDU-0819,MDU Property 819,MDU,North,Closed Won,4341,18,13,High,High,4
+MDU-0820,MDU Property 820,MDU,East,Lead,4083,14,27,High,None,4
+MDU-0821,MDU Property 821,MDU,North,Negotiation,3664,11,21,High,High,3
+MDU-0822,MDU Property 822,MDU,South,Proposal,2489,19,24,High,Moderate,3
+MDU-0823,MDU Property 823,MDU,East,Lead,4866,15,23,Low,High,4
+MDU-0824,MDU Property 824,MDU,North,Negotiation,4812,15,6,Medium,High,4
+MDU-0825,MDU Property 825,MDU,North,Closed Lost,3442,15,26,High,High,3
+MDU-0826,MDU Property 826,MDU,South,Qualified,4691,18,22,Low,None,4
+MDU-0827,MDU Property 827,MDU,East,Lead,4873,14,16,Medium,High,4
+MDU-0828,MDU Property 828,MDU,West,Negotiation,948,20,11,Low,None,4
+MDU-0829,MDU Property 829,MDU,West,Qualified,2478,13,23,Medium,None,3
+MDU-0830,MDU Property 830,MDU,South,Closed Lost,2563,9,24,High,None,4
+MDU-0831,MDU Property 831,MDU,West,Closed Won,3308,5,25,High,Moderate,2
+MDU-0832,MDU Property 832,MDU,East,Closed Lost,1384,5,14,High,None,2
+MDU-0833,MDU Property 833,MDU,West,Proposal,4263,11,15,Low,None,4
+MDU-0834,MDU Property 834,MDU,South,Lead,1192,14,13,Low,None,5
+MDU-0835,MDU Property 835,MDU,South,Closed Lost,2277,15,20,Medium,None,5
+MDU-0836,MDU Property 836,MDU,North,Closed Lost,2020,15,5,Low,Moderate,3
+MDU-0837,MDU Property 837,MDU,North,Lead,1733,10,20,Low,High,5
+MDU-0838,MDU Property 838,MDU,East,Closed Won,2581,18,22,Low,Moderate,4
+MDU-0839,MDU Property 839,MDU,East,Lead,686,14,5,High,High,4
+MDU-0840,MDU Property 840,MDU,North,Closed Won,4433,15,30,Medium,None,3
+MDU-0841,MDU Property 841,MDU,South,Closed Won,685,8,19,Low,Moderate,3
+MDU-0842,MDU Property 842,MDU,North,Qualified,4741,5,29,Low,High,3
+MDU-0843,MDU Property 843,MDU,West,Closed Won,4968,9,26,Low,None,3
+MDU-0844,MDU Property 844,MDU,North,Qualified,818,13,20,Low,Moderate,2
+MDU-0845,MDU Property 845,MDU,North,Closed Won,1190,20,22,Low,High,5
+MDU-0846,MDU Property 846,MDU,South,Closed Lost,2785,7,10,Medium,None,3
+MDU-0847,MDU Property 847,MDU,East,Lead,2434,18,11,High,High,3
+MDU-0848,MDU Property 848,MDU,East,Proposal,853,5,24,Medium,High,2
+MDU-0849,MDU Property 849,MDU,North,Closed Won,4686,10,28,High,High,4
+MDU-0850,MDU Property 850,MDU,West,Lead,871,5,23,Medium,Moderate,5
+MDU-0851,MDU Property 851,MDU,West,Closed Won,2194,17,29,Low,High,5
+MDU-0852,MDU Property 852,MDU,West,Proposal,4645,20,18,High,Moderate,1
+MDU-0853,MDU Property 853,MDU,North,Closed Won,637,9,12,Low,Moderate,3
+MDU-0854,MDU Property 854,MDU,West,Lead,3029,19,14,Low,None,4
+MDU-0855,MDU Property 855,MDU,North,Closed Won,3212,19,28,High,None,2
+MDU-0856,MDU Property 856,MDU,North,Closed Lost,4085,18,12,Medium,High,1
+MDU-0857,MDU Property 857,MDU,South,Qualified,682,3,22,Medium,Moderate,1
+MDU-0858,MDU Property 858,MDU,North,Closed Lost,2695,8,18,Medium,Moderate,4
+MDU-0859,MDU Property 859,MDU,East,Closed Lost,3757,5,24,Medium,High,1
+MDU-0860,MDU Property 860,MDU,West,Lead,4986,12,8,Medium,Moderate,2
+MDU-0861,MDU Property 861,MDU,West,Qualified,987,13,13,Medium,None,4
+MDU-0862,MDU Property 862,MDU,South,Closed Lost,1164,12,24,Low,High,4
+MDU-0863,MDU Property 863,MDU,South,Closed Won,2828,9,19,Medium,None,2
+MDU-0864,MDU Property 864,MDU,East,Closed Lost,3436,20,5,Medium,None,4
+MDU-0865,MDU Property 865,MDU,South,Negotiation,3331,6,15,High,Moderate,1
+MDU-0866,MDU Property 866,MDU,West,Negotiation,2083,9,12,Low,High,5
+MDU-0867,MDU Property 867,MDU,South,Lead,3493,15,26,Medium,None,5
+MDU-0868,MDU Property 868,MDU,South,Closed Won,3587,5,25,High,High,4
+MDU-0869,MDU Property 869,MDU,North,Lead,3637,15,8,High,Moderate,2
+MDU-0870,MDU Property 870,MDU,South,Closed Lost,2144,19,8,Medium,High,5
+MDU-0871,MDU Property 871,MDU,South,Closed Lost,3956,5,9,High,None,1
+MDU-0872,MDU Property 872,MDU,East,Closed Lost,3590,16,26,Medium,High,1
+MDU-0873,MDU Property 873,MDU,North,Lead,1393,12,10,Low,Moderate,1
+MDU-0874,MDU Property 874,MDU,West,Proposal,2010,19,11,High,None,1
+MDU-0875,MDU Property 875,MDU,North,Negotiation,732,4,18,High,None,5
+MDU-0876,MDU Property 876,MDU,West,Closed Won,4272,8,11,High,Moderate,2
+MDU-0877,MDU Property 877,MDU,East,Closed Won,3303,4,25,Low,None,3
+MDU-0878,MDU Property 878,MDU,East,Closed Won,1666,7,29,Low,None,2
+MDU-0879,MDU Property 879,MDU,South,Closed Won,1055,20,7,Low,Moderate,4
+MDU-0880,MDU Property 880,MDU,West,Closed Lost,3912,8,19,Low,None,4
+MDU-0881,MDU Property 881,MDU,East,Proposal,1454,18,18,Low,Moderate,4
+MDU-0882,MDU Property 882,MDU,West,Closed Won,4027,8,13,High,Moderate,3
+MDU-0883,MDU Property 883,MDU,South,Closed Won,1068,12,28,Medium,Moderate,2
+MDU-0884,MDU Property 884,MDU,West,Qualified,4580,12,6,Low,Moderate,2
+MDU-0885,MDU Property 885,MDU,East,Negotiation,4665,3,26,Medium,Moderate,4
+MDU-0886,MDU Property 886,MDU,West,Closed Won,1014,11,28,Low,Moderate,1
+MDU-0887,MDU Property 887,MDU,North,Lead,543,10,22,Medium,Moderate,1
+MDU-0888,MDU Property 888,MDU,West,Qualified,2889,6,10,Medium,None,3
+MDU-0889,MDU Property 889,MDU,East,Lead,708,12,10,High,High,1
+MDU-0890,MDU Property 890,MDU,East,Qualified,2246,20,12,High,Moderate,4
+MDU-0891,MDU Property 891,MDU,West,Lead,550,13,9,Medium,High,5
+MDU-0892,MDU Property 892,MDU,North,Negotiation,972,5,27,Medium,None,4
+MDU-0893,MDU Property 893,MDU,West,Closed Won,1275,18,19,Low,None,3
+MDU-0894,MDU Property 894,MDU,North,Proposal,1151,15,19,High,None,3
+MDU-0895,MDU Property 895,MDU,North,Closed Won,4313,9,25,Low,Moderate,1
+MDU-0896,MDU Property 896,MDU,West,Negotiation,971,17,24,Medium,Moderate,4
+MDU-0897,MDU Property 897,MDU,East,Qualified,3617,7,9,Low,None,1
+MDU-0898,MDU Property 898,MDU,South,Lead,2705,9,16,Low,None,4
+MDU-0899,MDU Property 899,MDU,North,Proposal,4432,20,17,Low,High,1
+MDU-0900,MDU Property 900,MDU,East,Negotiation,4146,3,10,Low,None,1
+MDU-0901,MDU Property 901,MDU,East,Proposal,2545,5,30,High,Moderate,5
+MDU-0902,MDU Property 902,MDU,East,Closed Won,3343,20,9,Low,High,5
+MDU-0903,MDU Property 903,MDU,North,Proposal,4574,10,21,Medium,Moderate,3
+MDU-0904,MDU Property 904,MDU,North,Lead,3056,12,16,High,High,3
+MDU-0905,MDU Property 905,MDU,South,Lead,3790,9,28,Low,Moderate,3
+MDU-0906,MDU Property 906,MDU,East,Qualified,2500,11,7,High,Moderate,1
+MDU-0907,MDU Property 907,MDU,West,Closed Won,2746,14,8,Medium,None,4
+MDU-0908,MDU Property 908,MDU,East,Qualified,1351,5,30,Medium,High,3
+MDU-0909,MDU Property 909,MDU,South,Proposal,2119,14,26,Medium,Moderate,2
+MDU-0910,MDU Property 910,MDU,West,Closed Lost,681,5,28,Low,High,5
+MDU-0911,MDU Property 911,MDU,South,Qualified,2033,13,8,Low,High,3
+MDU-0912,MDU Property 912,MDU,South,Negotiation,3054,7,21,Low,None,4
+MDU-0913,MDU Property 913,MDU,West,Qualified,2448,7,12,High,High,4
+MDU-0914,MDU Property 914,MDU,South,Proposal,2041,13,23,High,High,3
+MDU-0915,MDU Property 915,MDU,West,Lead,2660,6,24,Medium,None,4
+MDU-0916,MDU Property 916,MDU,South,Closed Lost,2607,6,19,High,High,1
+MDU-0917,MDU Property 917,MDU,East,Lead,768,14,25,Low,None,5
+MDU-0918,MDU Property 918,MDU,South,Lead,587,17,25,Low,Moderate,1
+MDU-0919,MDU Property 919,MDU,South,Proposal,689,15,15,Medium,None,4
+MDU-0920,MDU Property 920,MDU,West,Qualified,4359,15,20,High,High,2
+MDU-0921,MDU Property 921,MDU,South,Proposal,3792,19,15,High,High,2
+MDU-0922,MDU Property 922,MDU,North,Proposal,3778,10,18,High,High,1
+MDU-0923,MDU Property 923,MDU,East,Negotiation,1755,6,11,Medium,Moderate,4
+MDU-0924,MDU Property 924,MDU,West,Proposal,2882,11,25,High,High,1
+MDU-0925,MDU Property 925,MDU,North,Proposal,3332,7,27,Medium,High,3
+MDU-0926,MDU Property 926,MDU,South,Proposal,2197,16,22,High,None,4
+MDU-0927,MDU Property 927,MDU,West,Closed Lost,3106,17,10,High,Moderate,3
+MDU-0928,MDU Property 928,MDU,South,Lead,1528,8,28,High,None,5
+MDU-0929,MDU Property 929,MDU,South,Closed Lost,822,16,29,Medium,None,2
+MDU-0930,MDU Property 930,MDU,East,Closed Lost,2881,11,27,Medium,None,2
+MDU-0931,MDU Property 931,MDU,East,Negotiation,2551,19,17,Medium,High,2
+MDU-0932,MDU Property 932,MDU,East,Qualified,4295,16,23,High,None,4
+MDU-0933,MDU Property 933,MDU,South,Lead,2484,16,23,Low,Moderate,5
+MDU-0934,MDU Property 934,MDU,North,Lead,4890,13,24,High,Moderate,5
+MDU-0935,MDU Property 935,MDU,East,Lead,2522,12,29,High,High,3
+MDU-0936,MDU Property 936,MDU,West,Negotiation,3905,10,18,Low,Moderate,3
+MDU-0937,MDU Property 937,MDU,East,Lead,1492,6,9,Medium,None,2
+MDU-0938,MDU Property 938,MDU,West,Negotiation,4441,7,18,Medium,None,4
+MDU-0939,MDU Property 939,MDU,North,Closed Lost,742,4,24,High,High,5
+MDU-0940,MDU Property 940,MDU,South,Closed Won,845,4,6,Low,None,4
+MDU-0941,MDU Property 941,MDU,West,Proposal,846,14,16,Medium,None,4
+MDU-0942,MDU Property 942,MDU,South,Closed Won,1054,9,21,High,None,1
+MDU-0943,MDU Property 943,MDU,South,Qualified,4791,16,27,Medium,None,2
+MDU-0944,MDU Property 944,MDU,West,Closed Lost,1736,16,11,Medium,None,2
+MDU-0945,MDU Property 945,MDU,West,Proposal,2065,7,21,Low,High,5
+MDU-0946,MDU Property 946,MDU,South,Closed Lost,657,15,5,Low,Moderate,3
+MDU-0947,MDU Property 947,MDU,East,Qualified,3966,9,12,Low,High,1
+MDU-0948,MDU Property 948,MDU,South,Qualified,2259,8,16,High,High,3
+MDU-0949,MDU Property 949,MDU,South,Negotiation,4115,10,30,Low,None,5
+MDU-0950,MDU Property 950,MDU,South,Negotiation,919,19,19,Medium,Moderate,2
+MDU-0951,MDU Property 951,MDU,West,Proposal,4516,10,7,Low,None,4
+MDU-0952,MDU Property 952,MDU,South,Closed Won,1146,18,18,High,Moderate,4
+MDU-0953,MDU Property 953,MDU,South,Closed Won,1197,18,6,High,None,2
+MDU-0954,MDU Property 954,MDU,North,Negotiation,3386,6,13,Low,High,1
+MDU-0955,MDU Property 955,MDU,West,Closed Lost,4724,16,14,Low,None,1
+MDU-0956,MDU Property 956,MDU,West,Proposal,2876,15,11,High,None,5
+MDU-0957,MDU Property 957,MDU,North,Closed Lost,4181,7,28,Medium,Moderate,4
+MDU-0958,MDU Property 958,MDU,North,Negotiation,2323,18,10,Low,None,4
+MDU-0959,MDU Property 959,MDU,South,Negotiation,4084,15,24,High,High,3
+MDU-0960,MDU Property 960,MDU,North,Closed Lost,4725,5,7,Low,High,5
+MDU-0961,MDU Property 961,MDU,East,Negotiation,4127,17,6,High,High,5
+MDU-0962,MDU Property 962,MDU,West,Closed Won,4416,20,20,High,Moderate,5
+MDU-0963,MDU Property 963,MDU,North,Lead,1845,3,25,Medium,None,4
+MDU-0964,MDU Property 964,MDU,East,Closed Won,3729,13,30,Low,None,4
+MDU-0965,MDU Property 965,MDU,West,Negotiation,2348,8,15,Medium,Moderate,1
+MDU-0966,MDU Property 966,MDU,West,Closed Won,4202,19,17,High,Moderate,1
+MDU-0967,MDU Property 967,MDU,West,Negotiation,2764,9,24,High,High,4
+MDU-0968,MDU Property 968,MDU,North,Negotiation,4288,9,21,Medium,High,5
+MDU-0969,MDU Property 969,MDU,East,Negotiation,1871,14,8,Low,High,1
+MDU-0970,MDU Property 970,MDU,North,Lead,4337,12,22,High,None,5
+MDU-0971,MDU Property 971,MDU,South,Proposal,2348,10,17,High,Moderate,3
+MDU-0972,MDU Property 972,MDU,South,Proposal,2339,12,12,Medium,None,2
+MDU-0973,MDU Property 973,MDU,East,Proposal,730,9,29,Medium,Moderate,2
+MDU-0974,MDU Property 974,MDU,South,Negotiation,2768,9,22,Medium,None,1
+MDU-0975,MDU Property 975,MDU,South,Lead,2355,4,7,Medium,High,2
+MDU-0976,MDU Property 976,MDU,North,Closed Lost,2558,4,14,High,None,1
+MDU-0977,MDU Property 977,MDU,West,Negotiation,4040,16,5,Low,Moderate,3
+MDU-0978,MDU Property 978,MDU,East,Closed Lost,799,15,5,High,None,1
+MDU-0979,MDU Property 979,MDU,North,Lead,1641,14,27,Medium,Moderate,3
+MDU-0980,MDU Property 980,MDU,West,Qualified,530,6,5,Medium,Moderate,2
+MDU-0981,MDU Property 981,MDU,West,Closed Won,4013,10,17,Medium,Moderate,3
+MDU-0982,MDU Property 982,MDU,South,Qualified,4410,8,13,Medium,High,1
+MDU-0983,MDU Property 983,MDU,North,Qualified,2298,9,9,Low,None,2
+MDU-0984,MDU Property 984,MDU,North,Lead,2916,4,21,High,None,5
+MDU-0985,MDU Property 985,MDU,North,Proposal,3538,20,23,Medium,High,2
+MDU-0986,MDU Property 986,MDU,West,Closed Won,1998,3,24,Medium,None,3
+MDU-0987,MDU Property 987,MDU,West,Proposal,4181,19,16,High,Moderate,3
+MDU-0988,MDU Property 988,MDU,East,Negotiation,2885,15,21,Medium,Moderate,2
+MDU-0989,MDU Property 989,MDU,South,Closed Won,3281,17,15,Low,Moderate,5
+MDU-0990,MDU Property 990,MDU,East,Closed Won,2997,14,20,Medium,None,4
+MDU-0991,MDU Property 991,MDU,North,Qualified,530,13,23,Medium,Moderate,2
+MDU-0992,MDU Property 992,MDU,East,Lead,1868,10,16,Medium,None,4
+MDU-0993,MDU Property 993,MDU,North,Proposal,764,13,6,Medium,High,4
+MDU-0994,MDU Property 994,MDU,East,Closed Won,1434,13,16,High,Moderate,4
+MDU-0995,MDU Property 995,MDU,North,Qualified,3334,9,9,Low,High,3
+MDU-0996,MDU Property 996,MDU,West,Lead,1019,7,12,Medium,Moderate,5
+MDU-0997,MDU Property 997,MDU,North,Qualified,2044,7,23,High,None,4
+MDU-0998,MDU Property 998,MDU,North,Proposal,1803,14,28,Medium,None,2
+MDU-0999,MDU Property 999,MDU,South,Closed Won,2081,7,27,High,High,5
+MDU-1000,MDU Property 1000,MDU,South,Negotiation,4660,15,11,High,None,4

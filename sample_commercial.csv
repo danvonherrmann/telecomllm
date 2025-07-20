@@ -1,0 +1,1001 @@
+PropertyID,Name,Segment,Region,Stage,MonthlyRevenue,BuildTimeWeeks,ProjectedPenetrationTimeWeeks,ChurnRisk,UpgradePotential,ContactsAvailable
+COM-0001,Commercial Property 1,Commercial,West,Negotiation,2459,6,6,High,High,5
+COM-0002,Commercial Property 2,Commercial,East,Lead,3881,14,6,Medium,High,4
+COM-0003,Commercial Property 3,Commercial,East,Proposal,1606,19,22,Medium,Moderate,4
+COM-0004,Commercial Property 4,Commercial,South,Negotiation,3779,8,9,Low,High,5
+COM-0005,Commercial Property 5,Commercial,East,Negotiation,1126,11,29,Low,Moderate,4
+COM-0006,Commercial Property 6,Commercial,South,Closed Won,3123,5,19,High,Moderate,5
+COM-0007,Commercial Property 7,Commercial,North,Negotiation,2557,19,15,Medium,None,3
+COM-0008,Commercial Property 8,Commercial,East,Proposal,4807,11,12,Low,Moderate,2
+COM-0009,Commercial Property 9,Commercial,North,Qualified,2697,16,25,High,None,4
+COM-0010,Commercial Property 10,Commercial,West,Closed Lost,4397,14,21,Low,Moderate,2
+COM-0011,Commercial Property 11,Commercial,East,Lead,982,19,17,Low,Moderate,2
+COM-0012,Commercial Property 12,Commercial,East,Lead,4899,15,16,Medium,High,3
+COM-0013,Commercial Property 13,Commercial,East,Qualified,2987,19,10,High,None,3
+COM-0014,Commercial Property 14,Commercial,North,Proposal,2153,12,30,Medium,Moderate,3
+COM-0015,Commercial Property 15,Commercial,West,Closed Lost,2923,3,22,Low,None,3
+COM-0016,Commercial Property 16,Commercial,East,Closed Lost,2869,17,12,Medium,None,1
+COM-0017,Commercial Property 17,Commercial,South,Closed Lost,3351,6,16,Low,Moderate,4
+COM-0018,Commercial Property 18,Commercial,West,Closed Lost,1849,3,9,Low,Moderate,1
+COM-0019,Commercial Property 19,Commercial,West,Qualified,4487,3,9,Low,High,3
+COM-0020,Commercial Property 20,Commercial,East,Closed Lost,645,19,12,Medium,Moderate,2
+COM-0021,Commercial Property 21,Commercial,South,Negotiation,607,14,30,High,Moderate,2
+COM-0022,Commercial Property 22,Commercial,South,Closed Lost,3318,11,10,High,High,2
+COM-0023,Commercial Property 23,Commercial,West,Closed Won,3681,16,23,Medium,High,2
+COM-0024,Commercial Property 24,Commercial,North,Closed Lost,4827,19,25,Medium,High,4
+COM-0025,Commercial Property 25,Commercial,West,Closed Won,1941,17,5,Medium,High,5
+COM-0026,Commercial Property 26,Commercial,North,Closed Lost,1739,20,11,Low,Moderate,3
+COM-0027,Commercial Property 27,Commercial,West,Qualified,2436,7,10,Low,None,5
+COM-0028,Commercial Property 28,Commercial,West,Proposal,3969,15,12,High,Moderate,5
+COM-0029,Commercial Property 29,Commercial,South,Closed Lost,1900,14,20,Medium,High,3
+COM-0030,Commercial Property 30,Commercial,North,Lead,4566,3,25,Medium,High,4
+COM-0031,Commercial Property 31,Commercial,North,Closed Lost,2426,4,28,Low,Moderate,4
+COM-0032,Commercial Property 32,Commercial,West,Lead,1033,7,26,Medium,None,5
+COM-0033,Commercial Property 33,Commercial,West,Negotiation,3165,18,7,High,High,5
+COM-0034,Commercial Property 34,Commercial,North,Lead,1213,7,29,Low,Moderate,1
+COM-0035,Commercial Property 35,Commercial,South,Closed Lost,2719,10,30,Low,High,5
+COM-0036,Commercial Property 36,Commercial,East,Negotiation,4080,19,25,High,Moderate,2
+COM-0037,Commercial Property 37,Commercial,East,Negotiation,4229,4,27,Low,Moderate,3
+COM-0038,Commercial Property 38,Commercial,North,Qualified,4212,6,9,High,None,1
+COM-0039,Commercial Property 39,Commercial,South,Closed Won,987,10,25,High,High,3
+COM-0040,Commercial Property 40,Commercial,West,Lead,3296,14,8,High,Moderate,3
+COM-0041,Commercial Property 41,Commercial,East,Lead,4471,13,19,Low,None,3
+COM-0042,Commercial Property 42,Commercial,North,Lead,2857,11,26,Low,Moderate,2
+COM-0043,Commercial Property 43,Commercial,North,Qualified,1775,6,16,High,Moderate,1
+COM-0044,Commercial Property 44,Commercial,West,Negotiation,2810,13,9,High,High,3
+COM-0045,Commercial Property 45,Commercial,West,Closed Won,1503,19,29,High,High,2
+COM-0046,Commercial Property 46,Commercial,West,Closed Won,1703,11,29,Low,High,1
+COM-0047,Commercial Property 47,Commercial,South,Negotiation,3904,4,12,Low,High,4
+COM-0048,Commercial Property 48,Commercial,South,Closed Won,1188,8,12,Low,High,3
+COM-0049,Commercial Property 49,Commercial,West,Closed Lost,2536,10,20,Medium,None,2
+COM-0050,Commercial Property 50,Commercial,East,Lead,4880,14,27,Low,Moderate,1
+COM-0051,Commercial Property 51,Commercial,South,Closed Lost,4268,6,19,Low,None,2
+COM-0052,Commercial Property 52,Commercial,West,Qualified,2668,8,16,Medium,Moderate,5
+COM-0053,Commercial Property 53,Commercial,West,Qualified,4137,10,25,Medium,None,3
+COM-0054,Commercial Property 54,Commercial,South,Closed Won,3214,10,14,High,None,4
+COM-0055,Commercial Property 55,Commercial,West,Proposal,3543,10,11,High,None,3
+COM-0056,Commercial Property 56,Commercial,West,Qualified,3337,16,28,Medium,High,4
+COM-0057,Commercial Property 57,Commercial,West,Lead,4532,9,18,Medium,High,2
+COM-0058,Commercial Property 58,Commercial,West,Qualified,629,10,5,High,None,1
+COM-0059,Commercial Property 59,Commercial,North,Lead,906,14,30,High,Moderate,1
+COM-0060,Commercial Property 60,Commercial,East,Closed Won,1562,5,13,Low,Moderate,4
+COM-0061,Commercial Property 61,Commercial,South,Closed Lost,4751,20,26,Low,Moderate,2
+COM-0062,Commercial Property 62,Commercial,North,Qualified,3028,16,10,High,None,4
+COM-0063,Commercial Property 63,Commercial,West,Proposal,1837,14,30,Low,Moderate,2
+COM-0064,Commercial Property 64,Commercial,South,Proposal,3573,12,14,Medium,None,2
+COM-0065,Commercial Property 65,Commercial,South,Closed Lost,3164,15,6,Medium,High,4
+COM-0066,Commercial Property 66,Commercial,East,Lead,665,11,25,Medium,High,4
+COM-0067,Commercial Property 67,Commercial,North,Proposal,2115,18,9,Low,High,1
+COM-0068,Commercial Property 68,Commercial,East,Negotiation,3810,6,19,Medium,Moderate,2
+COM-0069,Commercial Property 69,Commercial,South,Closed Lost,4400,20,30,Medium,High,2
+COM-0070,Commercial Property 70,Commercial,South,Qualified,563,4,25,Low,High,4
+COM-0071,Commercial Property 71,Commercial,East,Closed Won,1104,4,30,Medium,Moderate,4
+COM-0072,Commercial Property 72,Commercial,South,Closed Lost,1739,8,8,Medium,High,2
+COM-0073,Commercial Property 73,Commercial,North,Qualified,2625,16,18,Low,High,2
+COM-0074,Commercial Property 74,Commercial,South,Closed Won,4571,3,15,High,High,2
+COM-0075,Commercial Property 75,Commercial,East,Qualified,2029,19,16,Medium,None,3
+COM-0076,Commercial Property 76,Commercial,South,Lead,2822,7,24,Low,None,5
+COM-0077,Commercial Property 77,Commercial,North,Closed Lost,973,12,24,Medium,High,1
+COM-0078,Commercial Property 78,Commercial,East,Lead,4969,12,17,High,Moderate,4
+COM-0079,Commercial Property 79,Commercial,West,Proposal,1548,20,28,Low,None,2
+COM-0080,Commercial Property 80,Commercial,East,Qualified,2516,14,30,Low,Moderate,3
+COM-0081,Commercial Property 81,Commercial,West,Proposal,2984,16,21,Medium,High,5
+COM-0082,Commercial Property 82,Commercial,West,Negotiation,3020,4,7,Medium,None,3
+COM-0083,Commercial Property 83,Commercial,East,Lead,1499,14,13,High,None,2
+COM-0084,Commercial Property 84,Commercial,North,Lead,3046,8,17,Low,Moderate,4
+COM-0085,Commercial Property 85,Commercial,South,Closed Lost,3549,19,6,High,None,4
+COM-0086,Commercial Property 86,Commercial,South,Proposal,4732,3,10,Low,High,5
+COM-0087,Commercial Property 87,Commercial,West,Lead,3795,5,24,High,Moderate,1
+COM-0088,Commercial Property 88,Commercial,North,Negotiation,1742,9,13,Low,None,1
+COM-0089,Commercial Property 89,Commercial,West,Negotiation,4359,19,14,Low,High,2
+COM-0090,Commercial Property 90,Commercial,North,Negotiation,1713,7,15,Medium,Moderate,5
+COM-0091,Commercial Property 91,Commercial,West,Closed Lost,2810,20,13,Low,Moderate,1
+COM-0092,Commercial Property 92,Commercial,West,Qualified,1391,6,24,Low,None,5
+COM-0093,Commercial Property 93,Commercial,East,Closed Won,4845,20,20,Low,None,3
+COM-0094,Commercial Property 94,Commercial,East,Lead,2356,16,26,Low,Moderate,4
+COM-0095,Commercial Property 95,Commercial,West,Closed Lost,2441,3,11,Medium,None,2
+COM-0096,Commercial Property 96,Commercial,East,Proposal,3731,20,16,Low,None,3
+COM-0097,Commercial Property 97,Commercial,South,Negotiation,3602,5,23,Medium,High,1
+COM-0098,Commercial Property 98,Commercial,East,Proposal,2230,18,21,Medium,None,5
+COM-0099,Commercial Property 99,Commercial,North,Negotiation,3291,7,18,Low,Moderate,2
+COM-0100,Commercial Property 100,Commercial,West,Negotiation,924,5,10,Low,Moderate,5
+COM-0101,Commercial Property 101,Commercial,West,Proposal,4126,9,6,Medium,High,2
+COM-0102,Commercial Property 102,Commercial,North,Qualified,3568,10,6,Low,Moderate,4
+COM-0103,Commercial Property 103,Commercial,North,Lead,1093,8,30,High,Moderate,3
+COM-0104,Commercial Property 104,Commercial,West,Closed Won,4593,8,11,Low,Moderate,2
+COM-0105,Commercial Property 105,Commercial,North,Qualified,2203,14,27,High,None,4
+COM-0106,Commercial Property 106,Commercial,South,Closed Won,1059,12,24,Medium,Moderate,5
+COM-0107,Commercial Property 107,Commercial,West,Closed Lost,4696,5,14,High,Moderate,5
+COM-0108,Commercial Property 108,Commercial,South,Closed Won,3946,11,10,Medium,None,3
+COM-0109,Commercial Property 109,Commercial,North,Proposal,1763,8,7,Low,Moderate,5
+COM-0110,Commercial Property 110,Commercial,East,Qualified,1844,9,17,Low,None,1
+COM-0111,Commercial Property 111,Commercial,East,Lead,1398,10,25,Medium,High,3
+COM-0112,Commercial Property 112,Commercial,West,Negotiation,4025,19,30,Medium,Moderate,4
+COM-0113,Commercial Property 113,Commercial,South,Closed Lost,1089,18,9,Medium,None,4
+COM-0114,Commercial Property 114,Commercial,South,Closed Won,590,3,13,High,None,3
+COM-0115,Commercial Property 115,Commercial,South,Negotiation,3421,13,17,Low,None,1
+COM-0116,Commercial Property 116,Commercial,East,Proposal,3354,16,9,High,High,3
+COM-0117,Commercial Property 117,Commercial,North,Proposal,1506,10,16,Medium,Moderate,4
+COM-0118,Commercial Property 118,Commercial,West,Qualified,3612,9,11,Low,High,3
+COM-0119,Commercial Property 119,Commercial,South,Closed Won,1389,16,14,High,Moderate,2
+COM-0120,Commercial Property 120,Commercial,North,Closed Won,572,15,19,Medium,High,1
+COM-0121,Commercial Property 121,Commercial,East,Lead,3820,13,14,Medium,None,2
+COM-0122,Commercial Property 122,Commercial,South,Proposal,4586,10,20,Low,Moderate,4
+COM-0123,Commercial Property 123,Commercial,West,Qualified,3902,20,22,Medium,Moderate,1
+COM-0124,Commercial Property 124,Commercial,West,Negotiation,1833,3,22,Low,Moderate,3
+COM-0125,Commercial Property 125,Commercial,West,Qualified,3523,7,15,High,High,4
+COM-0126,Commercial Property 126,Commercial,South,Closed Won,2890,5,27,Medium,Moderate,2
+COM-0127,Commercial Property 127,Commercial,West,Closed Lost,3792,9,28,High,Moderate,5
+COM-0128,Commercial Property 128,Commercial,West,Closed Lost,3503,7,30,Low,None,2
+COM-0129,Commercial Property 129,Commercial,West,Closed Lost,1760,10,12,High,None,5
+COM-0130,Commercial Property 130,Commercial,North,Closed Lost,3747,8,29,High,High,2
+COM-0131,Commercial Property 131,Commercial,West,Closed Won,4587,16,15,Medium,High,4
+COM-0132,Commercial Property 132,Commercial,East,Negotiation,4476,10,29,High,Moderate,4
+COM-0133,Commercial Property 133,Commercial,West,Qualified,936,20,9,High,Moderate,2
+COM-0134,Commercial Property 134,Commercial,North,Closed Won,1730,6,21,Medium,High,2
+COM-0135,Commercial Property 135,Commercial,West,Negotiation,515,10,25,Medium,Moderate,3
+COM-0136,Commercial Property 136,Commercial,South,Qualified,3557,19,29,Medium,None,4
+COM-0137,Commercial Property 137,Commercial,West,Negotiation,2867,20,21,High,Moderate,2
+COM-0138,Commercial Property 138,Commercial,South,Qualified,2039,9,20,Low,Moderate,3
+COM-0139,Commercial Property 139,Commercial,North,Qualified,2441,11,13,High,Moderate,2
+COM-0140,Commercial Property 140,Commercial,South,Negotiation,1560,6,18,High,None,1
+COM-0141,Commercial Property 141,Commercial,North,Negotiation,2606,20,8,Medium,High,5
+COM-0142,Commercial Property 142,Commercial,South,Negotiation,3851,19,18,Medium,Moderate,5
+COM-0143,Commercial Property 143,Commercial,South,Qualified,1803,20,21,High,None,1
+COM-0144,Commercial Property 144,Commercial,East,Negotiation,1848,8,10,High,Moderate,5
+COM-0145,Commercial Property 145,Commercial,North,Proposal,990,10,11,High,Moderate,5
+COM-0146,Commercial Property 146,Commercial,West,Negotiation,1739,14,10,Low,High,3
+COM-0147,Commercial Property 147,Commercial,West,Qualified,4047,20,9,Low,None,4
+COM-0148,Commercial Property 148,Commercial,East,Qualified,1203,19,10,Medium,None,3
+COM-0149,Commercial Property 149,Commercial,East,Closed Lost,1128,11,10,High,High,5
+COM-0150,Commercial Property 150,Commercial,East,Closed Lost,2196,19,8,Low,Moderate,1
+COM-0151,Commercial Property 151,Commercial,East,Negotiation,2374,6,24,Low,High,1
+COM-0152,Commercial Property 152,Commercial,East,Proposal,995,19,18,High,High,5
+COM-0153,Commercial Property 153,Commercial,South,Qualified,2497,9,25,Low,High,4
+COM-0154,Commercial Property 154,Commercial,East,Proposal,2440,3,5,Medium,Moderate,4
+COM-0155,Commercial Property 155,Commercial,East,Closed Won,4043,15,6,High,None,1
+COM-0156,Commercial Property 156,Commercial,West,Negotiation,3198,14,30,High,Moderate,1
+COM-0157,Commercial Property 157,Commercial,South,Proposal,4021,3,8,Medium,Moderate,1
+COM-0158,Commercial Property 158,Commercial,East,Negotiation,1266,19,6,Medium,Moderate,1
+COM-0159,Commercial Property 159,Commercial,North,Negotiation,4878,13,30,High,High,5
+COM-0160,Commercial Property 160,Commercial,West,Proposal,2230,16,14,Medium,None,4
+COM-0161,Commercial Property 161,Commercial,South,Negotiation,1231,10,14,Low,None,3
+COM-0162,Commercial Property 162,Commercial,North,Qualified,1739,13,23,Low,Moderate,3
+COM-0163,Commercial Property 163,Commercial,South,Proposal,2874,11,23,Medium,Moderate,1
+COM-0164,Commercial Property 164,Commercial,South,Qualified,987,7,13,High,Moderate,1
+COM-0165,Commercial Property 165,Commercial,South,Closed Won,2640,8,15,High,None,5
+COM-0166,Commercial Property 166,Commercial,North,Qualified,2992,14,14,Low,Moderate,3
+COM-0167,Commercial Property 167,Commercial,South,Closed Lost,1970,10,28,Low,Moderate,3
+COM-0168,Commercial Property 168,Commercial,East,Negotiation,4591,14,21,Low,None,5
+COM-0169,Commercial Property 169,Commercial,West,Negotiation,1364,10,28,Medium,High,5
+COM-0170,Commercial Property 170,Commercial,West,Closed Won,2289,19,14,Low,High,3
+COM-0171,Commercial Property 171,Commercial,East,Closed Won,3864,5,16,Low,High,1
+COM-0172,Commercial Property 172,Commercial,East,Lead,1644,10,23,Medium,High,5
+COM-0173,Commercial Property 173,Commercial,North,Proposal,1912,18,29,High,None,3
+COM-0174,Commercial Property 174,Commercial,South,Negotiation,4222,5,15,Medium,Moderate,4
+COM-0175,Commercial Property 175,Commercial,West,Lead,2602,10,8,Low,None,4
+COM-0176,Commercial Property 176,Commercial,West,Lead,2557,9,6,Medium,Moderate,3
+COM-0177,Commercial Property 177,Commercial,South,Closed Lost,3116,13,26,Low,High,2
+COM-0178,Commercial Property 178,Commercial,West,Negotiation,2104,17,6,Low,High,5
+COM-0179,Commercial Property 179,Commercial,East,Lead,1971,12,13,Low,High,5
+COM-0180,Commercial Property 180,Commercial,South,Closed Won,1903,4,20,Low,High,3
+COM-0181,Commercial Property 181,Commercial,East,Closed Won,3803,19,23,Medium,Moderate,2
+COM-0182,Commercial Property 182,Commercial,North,Closed Lost,1215,9,14,Low,Moderate,1
+COM-0183,Commercial Property 183,Commercial,East,Lead,2824,12,6,Low,High,1
+COM-0184,Commercial Property 184,Commercial,West,Negotiation,2128,4,11,Medium,None,5
+COM-0185,Commercial Property 185,Commercial,East,Lead,4225,6,16,Medium,None,4
+COM-0186,Commercial Property 186,Commercial,North,Proposal,4400,16,11,High,Moderate,3
+COM-0187,Commercial Property 187,Commercial,West,Proposal,4785,12,14,Medium,Moderate,2
+COM-0188,Commercial Property 188,Commercial,East,Proposal,4052,16,21,Low,High,2
+COM-0189,Commercial Property 189,Commercial,South,Proposal,1001,11,25,High,None,5
+COM-0190,Commercial Property 190,Commercial,North,Lead,3411,5,22,Medium,High,4
+COM-0191,Commercial Property 191,Commercial,North,Negotiation,2643,12,8,Medium,High,5
+COM-0192,Commercial Property 192,Commercial,East,Proposal,2120,14,10,High,Moderate,4
+COM-0193,Commercial Property 193,Commercial,North,Qualified,2183,11,23,Medium,High,3
+COM-0194,Commercial Property 194,Commercial,East,Proposal,3989,15,5,Low,Moderate,4
+COM-0195,Commercial Property 195,Commercial,South,Closed Won,3317,16,20,Medium,Moderate,4
+COM-0196,Commercial Property 196,Commercial,West,Negotiation,1349,10,26,High,High,5
+COM-0197,Commercial Property 197,Commercial,East,Closed Lost,2815,20,5,Low,Moderate,1
+COM-0198,Commercial Property 198,Commercial,North,Qualified,2329,15,19,Medium,None,2
+COM-0199,Commercial Property 199,Commercial,North,Closed Lost,1360,18,13,High,High,4
+COM-0200,Commercial Property 200,Commercial,South,Qualified,3886,15,26,Low,High,4
+COM-0201,Commercial Property 201,Commercial,East,Closed Lost,1176,6,27,Medium,High,5
+COM-0202,Commercial Property 202,Commercial,South,Qualified,3845,8,11,Low,None,5
+COM-0203,Commercial Property 203,Commercial,North,Qualified,4776,7,28,Low,Moderate,2
+COM-0204,Commercial Property 204,Commercial,East,Qualified,3550,7,21,Low,Moderate,4
+COM-0205,Commercial Property 205,Commercial,West,Closed Lost,2348,9,22,High,Moderate,3
+COM-0206,Commercial Property 206,Commercial,East,Closed Lost,3246,9,15,Medium,Moderate,4
+COM-0207,Commercial Property 207,Commercial,North,Proposal,2544,12,6,High,Moderate,3
+COM-0208,Commercial Property 208,Commercial,North,Negotiation,3758,4,28,High,None,1
+COM-0209,Commercial Property 209,Commercial,East,Negotiation,4200,10,17,Low,Moderate,5
+COM-0210,Commercial Property 210,Commercial,West,Proposal,4949,5,6,High,Moderate,5
+COM-0211,Commercial Property 211,Commercial,North,Closed Won,2100,7,14,Low,High,3
+COM-0212,Commercial Property 212,Commercial,North,Negotiation,1640,18,13,High,Moderate,5
+COM-0213,Commercial Property 213,Commercial,East,Negotiation,2977,14,19,Low,Moderate,3
+COM-0214,Commercial Property 214,Commercial,South,Lead,3318,7,30,High,Moderate,4
+COM-0215,Commercial Property 215,Commercial,West,Negotiation,4056,16,15,High,High,4
+COM-0216,Commercial Property 216,Commercial,South,Negotiation,2930,12,10,Medium,None,3
+COM-0217,Commercial Property 217,Commercial,North,Lead,3007,15,13,High,Moderate,3
+COM-0218,Commercial Property 218,Commercial,East,Closed Lost,1186,5,10,Low,High,4
+COM-0219,Commercial Property 219,Commercial,East,Lead,2757,15,30,High,High,4
+COM-0220,Commercial Property 220,Commercial,West,Lead,1988,3,20,High,None,5
+COM-0221,Commercial Property 221,Commercial,South,Lead,3996,13,23,Medium,High,5
+COM-0222,Commercial Property 222,Commercial,South,Negotiation,3992,3,23,High,High,5
+COM-0223,Commercial Property 223,Commercial,South,Proposal,1272,16,11,Medium,None,1
+COM-0224,Commercial Property 224,Commercial,North,Lead,1959,8,17,Low,Moderate,2
+COM-0225,Commercial Property 225,Commercial,West,Proposal,2450,8,8,Medium,None,2
+COM-0226,Commercial Property 226,Commercial,North,Negotiation,2186,11,5,Medium,High,5
+COM-0227,Commercial Property 227,Commercial,West,Negotiation,1445,16,23,High,High,2
+COM-0228,Commercial Property 228,Commercial,North,Closed Won,3218,4,8,High,None,3
+COM-0229,Commercial Property 229,Commercial,East,Closed Won,4770,5,13,Low,High,2
+COM-0230,Commercial Property 230,Commercial,West,Closed Lost,4649,13,24,High,None,4
+COM-0231,Commercial Property 231,Commercial,West,Closed Won,3561,7,16,High,None,5
+COM-0232,Commercial Property 232,Commercial,North,Closed Won,517,15,9,Medium,Moderate,3
+COM-0233,Commercial Property 233,Commercial,South,Proposal,1682,5,8,Medium,High,4
+COM-0234,Commercial Property 234,Commercial,North,Closed Won,1497,7,23,High,None,1
+COM-0235,Commercial Property 235,Commercial,West,Closed Won,1690,18,20,Medium,Moderate,4
+COM-0236,Commercial Property 236,Commercial,North,Lead,3042,16,23,High,Moderate,4
+COM-0237,Commercial Property 237,Commercial,South,Negotiation,3690,16,19,Medium,Moderate,2
+COM-0238,Commercial Property 238,Commercial,South,Negotiation,4001,6,8,High,None,2
+COM-0239,Commercial Property 239,Commercial,North,Closed Lost,990,7,12,Low,High,4
+COM-0240,Commercial Property 240,Commercial,North,Closed Lost,2240,15,14,Low,None,1
+COM-0241,Commercial Property 241,Commercial,North,Proposal,1778,20,21,Medium,None,5
+COM-0242,Commercial Property 242,Commercial,West,Proposal,1308,11,25,High,High,1
+COM-0243,Commercial Property 243,Commercial,East,Closed Lost,4935,19,16,High,Moderate,4
+COM-0244,Commercial Property 244,Commercial,North,Proposal,4742,9,19,High,Moderate,4
+COM-0245,Commercial Property 245,Commercial,West,Closed Lost,2630,12,5,Medium,None,1
+COM-0246,Commercial Property 246,Commercial,South,Closed Lost,4930,9,10,Medium,High,5
+COM-0247,Commercial Property 247,Commercial,West,Qualified,4834,11,8,High,None,1
+COM-0248,Commercial Property 248,Commercial,North,Qualified,1903,13,30,Low,High,3
+COM-0249,Commercial Property 249,Commercial,North,Closed Won,4889,8,25,High,None,2
+COM-0250,Commercial Property 250,Commercial,East,Proposal,4693,9,21,Medium,None,5
+COM-0251,Commercial Property 251,Commercial,South,Closed Lost,3654,17,19,High,None,2
+COM-0252,Commercial Property 252,Commercial,South,Negotiation,1417,4,19,Low,High,2
+COM-0253,Commercial Property 253,Commercial,East,Negotiation,2854,8,22,High,None,1
+COM-0254,Commercial Property 254,Commercial,West,Qualified,2665,14,13,High,High,3
+COM-0255,Commercial Property 255,Commercial,East,Lead,763,19,22,Low,None,3
+COM-0256,Commercial Property 256,Commercial,East,Closed Won,1967,5,24,High,Moderate,3
+COM-0257,Commercial Property 257,Commercial,West,Lead,4710,10,8,High,Moderate,3
+COM-0258,Commercial Property 258,Commercial,South,Closed Lost,3477,8,15,Low,None,2
+COM-0259,Commercial Property 259,Commercial,North,Negotiation,3623,7,12,Low,None,5
+COM-0260,Commercial Property 260,Commercial,East,Proposal,1856,4,10,Medium,High,2
+COM-0261,Commercial Property 261,Commercial,South,Closed Lost,977,17,24,High,High,5
+COM-0262,Commercial Property 262,Commercial,North,Proposal,1915,17,6,High,None,2
+COM-0263,Commercial Property 263,Commercial,South,Closed Won,756,8,29,High,None,3
+COM-0264,Commercial Property 264,Commercial,North,Closed Won,4380,4,26,Low,None,5
+COM-0265,Commercial Property 265,Commercial,West,Closed Won,1200,17,7,High,High,1
+COM-0266,Commercial Property 266,Commercial,East,Lead,4744,15,22,Medium,Moderate,4
+COM-0267,Commercial Property 267,Commercial,West,Negotiation,3720,20,14,High,None,1
+COM-0268,Commercial Property 268,Commercial,North,Negotiation,3898,11,11,High,Moderate,4
+COM-0269,Commercial Property 269,Commercial,East,Qualified,2124,16,15,Medium,None,4
+COM-0270,Commercial Property 270,Commercial,East,Closed Lost,3958,18,5,Low,None,5
+COM-0271,Commercial Property 271,Commercial,North,Qualified,2472,17,14,Medium,Moderate,3
+COM-0272,Commercial Property 272,Commercial,East,Qualified,3066,6,26,Low,High,2
+COM-0273,Commercial Property 273,Commercial,North,Proposal,4143,15,15,Medium,Moderate,2
+COM-0274,Commercial Property 274,Commercial,West,Lead,700,18,20,Medium,Moderate,5
+COM-0275,Commercial Property 275,Commercial,South,Qualified,1265,15,25,Medium,None,5
+COM-0276,Commercial Property 276,Commercial,East,Qualified,3150,4,25,Medium,None,4
+COM-0277,Commercial Property 277,Commercial,East,Closed Lost,4094,6,7,Medium,High,3
+COM-0278,Commercial Property 278,Commercial,South,Closed Won,4527,4,29,Low,None,1
+COM-0279,Commercial Property 279,Commercial,North,Closed Lost,1163,10,24,High,None,2
+COM-0280,Commercial Property 280,Commercial,East,Closed Lost,3871,5,8,Medium,High,3
+COM-0281,Commercial Property 281,Commercial,South,Closed Won,820,3,7,High,None,1
+COM-0282,Commercial Property 282,Commercial,South,Qualified,3725,13,14,Low,High,1
+COM-0283,Commercial Property 283,Commercial,East,Qualified,2702,15,5,Medium,None,5
+COM-0284,Commercial Property 284,Commercial,East,Closed Won,3788,18,28,Medium,High,4
+COM-0285,Commercial Property 285,Commercial,North,Closed Lost,4910,3,18,Medium,High,1
+COM-0286,Commercial Property 286,Commercial,East,Lead,3468,18,7,High,Moderate,4
+COM-0287,Commercial Property 287,Commercial,East,Closed Lost,1122,13,12,High,Moderate,1
+COM-0288,Commercial Property 288,Commercial,East,Lead,4776,9,7,High,Moderate,3
+COM-0289,Commercial Property 289,Commercial,East,Lead,4517,5,17,Medium,None,4
+COM-0290,Commercial Property 290,Commercial,North,Proposal,4477,14,18,Medium,High,2
+COM-0291,Commercial Property 291,Commercial,South,Closed Lost,3690,19,18,High,Moderate,2
+COM-0292,Commercial Property 292,Commercial,South,Negotiation,2589,19,9,Low,High,2
+COM-0293,Commercial Property 293,Commercial,West,Negotiation,4751,16,9,High,High,4
+COM-0294,Commercial Property 294,Commercial,North,Closed Lost,1276,4,5,Medium,High,2
+COM-0295,Commercial Property 295,Commercial,South,Closed Won,3533,16,18,Medium,High,3
+COM-0296,Commercial Property 296,Commercial,East,Proposal,1927,14,19,Low,High,3
+COM-0297,Commercial Property 297,Commercial,North,Proposal,3889,11,13,Low,Moderate,5
+COM-0298,Commercial Property 298,Commercial,North,Closed Won,1357,11,11,Medium,Moderate,5
+COM-0299,Commercial Property 299,Commercial,South,Proposal,3822,9,22,Low,None,5
+COM-0300,Commercial Property 300,Commercial,North,Lead,4790,18,11,Low,High,1
+COM-0301,Commercial Property 301,Commercial,North,Qualified,3525,15,6,Medium,Moderate,2
+COM-0302,Commercial Property 302,Commercial,South,Lead,3617,9,5,Medium,None,5
+COM-0303,Commercial Property 303,Commercial,North,Proposal,4048,4,20,High,None,1
+COM-0304,Commercial Property 304,Commercial,West,Closed Lost,3508,8,7,High,High,5
+COM-0305,Commercial Property 305,Commercial,North,Negotiation,4174,6,9,Low,None,3
+COM-0306,Commercial Property 306,Commercial,South,Negotiation,3701,17,9,Low,Moderate,2
+COM-0307,Commercial Property 307,Commercial,South,Proposal,3732,4,5,Medium,None,4
+COM-0308,Commercial Property 308,Commercial,North,Proposal,1932,7,25,Low,High,2
+COM-0309,Commercial Property 309,Commercial,West,Lead,2534,5,5,Low,None,1
+COM-0310,Commercial Property 310,Commercial,East,Negotiation,4330,3,28,Low,High,2
+COM-0311,Commercial Property 311,Commercial,East,Closed Won,1030,10,22,Low,None,5
+COM-0312,Commercial Property 312,Commercial,South,Negotiation,2340,7,5,Low,None,1
+COM-0313,Commercial Property 313,Commercial,West,Lead,4033,13,30,Low,Moderate,4
+COM-0314,Commercial Property 314,Commercial,East,Closed Lost,1928,10,29,High,High,2
+COM-0315,Commercial Property 315,Commercial,East,Negotiation,4272,11,11,Medium,None,1
+COM-0316,Commercial Property 316,Commercial,East,Closed Lost,3281,7,8,Low,None,2
+COM-0317,Commercial Property 317,Commercial,North,Closed Won,4273,7,14,High,High,4
+COM-0318,Commercial Property 318,Commercial,West,Negotiation,3181,12,20,Medium,None,3
+COM-0319,Commercial Property 319,Commercial,West,Qualified,4784,5,21,Low,None,4
+COM-0320,Commercial Property 320,Commercial,North,Lead,2139,17,10,Low,None,1
+COM-0321,Commercial Property 321,Commercial,North,Proposal,1490,9,18,Medium,Moderate,5
+COM-0322,Commercial Property 322,Commercial,West,Closed Lost,2859,11,7,High,High,1
+COM-0323,Commercial Property 323,Commercial,South,Closed Lost,4738,8,16,Low,Moderate,2
+COM-0324,Commercial Property 324,Commercial,West,Lead,3467,3,27,Low,High,1
+COM-0325,Commercial Property 325,Commercial,South,Negotiation,2432,6,9,High,High,3
+COM-0326,Commercial Property 326,Commercial,West,Closed Won,998,15,12,Low,High,1
+COM-0327,Commercial Property 327,Commercial,West,Lead,3159,20,7,Low,High,1
+COM-0328,Commercial Property 328,Commercial,North,Closed Lost,759,3,19,High,None,2
+COM-0329,Commercial Property 329,Commercial,South,Proposal,4771,10,9,Medium,High,2
+COM-0330,Commercial Property 330,Commercial,West,Qualified,734,17,24,High,High,2
+COM-0331,Commercial Property 331,Commercial,West,Lead,615,15,6,Medium,High,1
+COM-0332,Commercial Property 332,Commercial,North,Qualified,1808,8,27,High,None,2
+COM-0333,Commercial Property 333,Commercial,South,Closed Lost,1478,4,29,Low,High,3
+COM-0334,Commercial Property 334,Commercial,East,Qualified,3010,10,8,Medium,None,5
+COM-0335,Commercial Property 335,Commercial,East,Lead,2648,10,27,Low,High,3
+COM-0336,Commercial Property 336,Commercial,West,Proposal,4463,18,6,Medium,Moderate,4
+COM-0337,Commercial Property 337,Commercial,West,Lead,1898,20,15,Medium,None,5
+COM-0338,Commercial Property 338,Commercial,North,Closed Won,4161,10,12,Medium,Moderate,4
+COM-0339,Commercial Property 339,Commercial,North,Closed Won,2259,6,8,Medium,None,3
+COM-0340,Commercial Property 340,Commercial,South,Proposal,2226,5,10,Medium,Moderate,3
+COM-0341,Commercial Property 341,Commercial,East,Closed Won,3062,14,30,High,Moderate,4
+COM-0342,Commercial Property 342,Commercial,North,Proposal,2831,11,21,High,High,2
+COM-0343,Commercial Property 343,Commercial,North,Closed Won,601,13,10,Low,Moderate,2
+COM-0344,Commercial Property 344,Commercial,South,Lead,3750,20,6,Low,High,5
+COM-0345,Commercial Property 345,Commercial,North,Proposal,3334,6,27,High,High,5
+COM-0346,Commercial Property 346,Commercial,South,Lead,4015,10,17,Medium,Moderate,1
+COM-0347,Commercial Property 347,Commercial,West,Negotiation,1272,12,29,High,None,2
+COM-0348,Commercial Property 348,Commercial,West,Proposal,809,18,6,Medium,Moderate,5
+COM-0349,Commercial Property 349,Commercial,South,Closed Won,3660,9,17,High,None,5
+COM-0350,Commercial Property 350,Commercial,East,Qualified,2845,6,12,High,Moderate,3
+COM-0351,Commercial Property 351,Commercial,South,Qualified,2757,10,18,Low,High,2
+COM-0352,Commercial Property 352,Commercial,West,Lead,1369,4,26,High,High,4
+COM-0353,Commercial Property 353,Commercial,East,Negotiation,627,16,6,Low,High,3
+COM-0354,Commercial Property 354,Commercial,South,Qualified,814,14,6,High,High,2
+COM-0355,Commercial Property 355,Commercial,East,Lead,3819,18,9,Medium,Moderate,1
+COM-0356,Commercial Property 356,Commercial,East,Negotiation,1702,4,27,Medium,High,5
+COM-0357,Commercial Property 357,Commercial,West,Closed Lost,3845,17,27,Low,High,4
+COM-0358,Commercial Property 358,Commercial,West,Proposal,2832,18,19,High,None,2
+COM-0359,Commercial Property 359,Commercial,East,Negotiation,849,15,7,Medium,Moderate,1
+COM-0360,Commercial Property 360,Commercial,East,Negotiation,1485,11,27,Low,High,4
+COM-0361,Commercial Property 361,Commercial,North,Closed Lost,2170,7,22,High,None,5
+COM-0362,Commercial Property 362,Commercial,North,Negotiation,2560,12,18,Medium,Moderate,3
+COM-0363,Commercial Property 363,Commercial,North,Closed Won,4243,12,5,Medium,High,1
+COM-0364,Commercial Property 364,Commercial,West,Qualified,875,14,22,High,Moderate,1
+COM-0365,Commercial Property 365,Commercial,North,Qualified,1200,8,25,Medium,Moderate,4
+COM-0366,Commercial Property 366,Commercial,North,Lead,4464,6,26,Medium,Moderate,5
+COM-0367,Commercial Property 367,Commercial,South,Lead,3772,7,11,Low,High,2
+COM-0368,Commercial Property 368,Commercial,South,Lead,1561,5,26,Low,None,4
+COM-0369,Commercial Property 369,Commercial,South,Qualified,1091,19,15,High,None,1
+COM-0370,Commercial Property 370,Commercial,South,Qualified,696,19,20,Low,High,1
+COM-0371,Commercial Property 371,Commercial,East,Qualified,3863,10,21,Low,High,3
+COM-0372,Commercial Property 372,Commercial,West,Proposal,4518,5,6,High,Moderate,3
+COM-0373,Commercial Property 373,Commercial,North,Closed Lost,2341,8,5,Medium,High,4
+COM-0374,Commercial Property 374,Commercial,West,Proposal,4370,6,21,Low,High,5
+COM-0375,Commercial Property 375,Commercial,North,Proposal,2997,8,26,Medium,High,3
+COM-0376,Commercial Property 376,Commercial,South,Qualified,4344,12,9,Medium,High,2
+COM-0377,Commercial Property 377,Commercial,South,Negotiation,657,18,7,Low,None,4
+COM-0378,Commercial Property 378,Commercial,West,Qualified,4507,15,15,Low,Moderate,4
+COM-0379,Commercial Property 379,Commercial,West,Qualified,1095,14,19,Medium,None,3
+COM-0380,Commercial Property 380,Commercial,East,Closed Won,3916,19,7,Low,High,3
+COM-0381,Commercial Property 381,Commercial,North,Closed Lost,4788,16,14,High,Moderate,4
+COM-0382,Commercial Property 382,Commercial,South,Closed Won,2849,13,25,Medium,Moderate,4
+COM-0383,Commercial Property 383,Commercial,North,Qualified,1504,4,5,Medium,High,2
+COM-0384,Commercial Property 384,Commercial,East,Qualified,978,12,15,Medium,None,1
+COM-0385,Commercial Property 385,Commercial,North,Qualified,2679,6,17,Medium,None,2
+COM-0386,Commercial Property 386,Commercial,East,Lead,3665,3,28,Medium,High,4
+COM-0387,Commercial Property 387,Commercial,East,Negotiation,4907,6,10,High,High,3
+COM-0388,Commercial Property 388,Commercial,North,Negotiation,4840,18,27,High,Moderate,1
+COM-0389,Commercial Property 389,Commercial,North,Negotiation,1369,10,12,Low,None,2
+COM-0390,Commercial Property 390,Commercial,East,Closed Won,888,16,21,Medium,High,1
+COM-0391,Commercial Property 391,Commercial,North,Closed Lost,3386,3,8,Medium,High,1
+COM-0392,Commercial Property 392,Commercial,East,Proposal,4763,6,24,Low,High,3
+COM-0393,Commercial Property 393,Commercial,West,Closed Lost,4906,18,14,Medium,Moderate,5
+COM-0394,Commercial Property 394,Commercial,West,Lead,1559,11,22,High,None,1
+COM-0395,Commercial Property 395,Commercial,East,Closed Lost,3216,6,30,High,Moderate,1
+COM-0396,Commercial Property 396,Commercial,East,Qualified,1883,3,26,Medium,None,3
+COM-0397,Commercial Property 397,Commercial,East,Qualified,1688,16,6,High,High,5
+COM-0398,Commercial Property 398,Commercial,East,Closed Won,3404,3,22,Medium,None,5
+COM-0399,Commercial Property 399,Commercial,East,Proposal,1173,13,12,Low,High,5
+COM-0400,Commercial Property 400,Commercial,South,Proposal,1094,20,29,High,None,1
+COM-0401,Commercial Property 401,Commercial,West,Closed Won,975,5,13,Low,None,3
+COM-0402,Commercial Property 402,Commercial,West,Lead,559,6,15,High,High,3
+COM-0403,Commercial Property 403,Commercial,North,Negotiation,3473,17,29,Medium,High,4
+COM-0404,Commercial Property 404,Commercial,East,Closed Won,881,9,14,Medium,High,5
+COM-0405,Commercial Property 405,Commercial,North,Lead,2707,17,24,Medium,Moderate,4
+COM-0406,Commercial Property 406,Commercial,East,Closed Lost,3599,17,11,Low,None,2
+COM-0407,Commercial Property 407,Commercial,North,Closed Won,1806,9,5,Medium,Moderate,5
+COM-0408,Commercial Property 408,Commercial,South,Closed Lost,2328,6,26,Medium,None,1
+COM-0409,Commercial Property 409,Commercial,West,Lead,4319,11,23,High,Moderate,3
+COM-0410,Commercial Property 410,Commercial,North,Closed Won,2139,11,11,Medium,None,1
+COM-0411,Commercial Property 411,Commercial,South,Negotiation,3605,9,8,Low,High,2
+COM-0412,Commercial Property 412,Commercial,South,Qualified,2169,15,6,Medium,Moderate,4
+COM-0413,Commercial Property 413,Commercial,East,Lead,4573,11,15,Low,None,3
+COM-0414,Commercial Property 414,Commercial,North,Lead,1214,7,6,Medium,None,3
+COM-0415,Commercial Property 415,Commercial,South,Closed Won,3022,13,29,Medium,High,2
+COM-0416,Commercial Property 416,Commercial,West,Lead,920,10,23,Low,High,1
+COM-0417,Commercial Property 417,Commercial,South,Negotiation,861,3,22,Medium,None,5
+COM-0418,Commercial Property 418,Commercial,South,Lead,2797,13,27,Low,Moderate,2
+COM-0419,Commercial Property 419,Commercial,North,Closed Won,3473,7,23,Medium,High,4
+COM-0420,Commercial Property 420,Commercial,South,Proposal,802,6,23,Low,None,4
+COM-0421,Commercial Property 421,Commercial,West,Proposal,3780,20,11,High,High,4
+COM-0422,Commercial Property 422,Commercial,West,Closed Lost,2797,7,6,Medium,High,4
+COM-0423,Commercial Property 423,Commercial,South,Qualified,1874,4,10,Medium,None,5
+COM-0424,Commercial Property 424,Commercial,South,Lead,1997,4,12,Medium,High,5
+COM-0425,Commercial Property 425,Commercial,South,Negotiation,4012,6,28,Medium,None,5
+COM-0426,Commercial Property 426,Commercial,South,Lead,3980,5,15,Low,None,3
+COM-0427,Commercial Property 427,Commercial,South,Negotiation,4861,19,15,High,None,4
+COM-0428,Commercial Property 428,Commercial,East,Closed Won,4683,18,14,Medium,None,4
+COM-0429,Commercial Property 429,Commercial,North,Qualified,4889,5,20,Medium,None,1
+COM-0430,Commercial Property 430,Commercial,West,Proposal,4562,3,8,Low,Moderate,3
+COM-0431,Commercial Property 431,Commercial,South,Lead,2000,14,23,Low,None,4
+COM-0432,Commercial Property 432,Commercial,East,Negotiation,2079,11,12,Medium,None,4
+COM-0433,Commercial Property 433,Commercial,North,Closed Lost,1492,12,28,Medium,None,2
+COM-0434,Commercial Property 434,Commercial,South,Lead,2265,7,23,High,Moderate,4
+COM-0435,Commercial Property 435,Commercial,North,Negotiation,663,11,8,Medium,None,1
+COM-0436,Commercial Property 436,Commercial,East,Negotiation,2806,5,5,High,High,1
+COM-0437,Commercial Property 437,Commercial,East,Qualified,2128,16,22,Medium,High,1
+COM-0438,Commercial Property 438,Commercial,West,Closed Lost,1840,18,18,Medium,Moderate,3
+COM-0439,Commercial Property 439,Commercial,West,Proposal,4538,18,10,Low,Moderate,5
+COM-0440,Commercial Property 440,Commercial,South,Proposal,1452,5,9,Medium,None,1
+COM-0441,Commercial Property 441,Commercial,West,Negotiation,2577,17,25,High,None,1
+COM-0442,Commercial Property 442,Commercial,South,Closed Won,1996,10,12,Medium,High,5
+COM-0443,Commercial Property 443,Commercial,South,Closed Lost,3508,20,25,High,None,4
+COM-0444,Commercial Property 444,Commercial,North,Closed Won,2180,18,30,Medium,Moderate,5
+COM-0445,Commercial Property 445,Commercial,West,Negotiation,1932,17,16,High,High,1
+COM-0446,Commercial Property 446,Commercial,East,Qualified,772,15,6,High,Moderate,4
+COM-0447,Commercial Property 447,Commercial,East,Lead,1780,13,12,Medium,Moderate,3
+COM-0448,Commercial Property 448,Commercial,North,Lead,1598,11,19,High,None,2
+COM-0449,Commercial Property 449,Commercial,South,Qualified,4983,9,11,Low,None,5
+COM-0450,Commercial Property 450,Commercial,East,Negotiation,2804,3,12,Medium,None,2
+COM-0451,Commercial Property 451,Commercial,East,Proposal,4429,15,12,High,None,4
+COM-0452,Commercial Property 452,Commercial,North,Lead,733,18,20,Medium,Moderate,1
+COM-0453,Commercial Property 453,Commercial,East,Closed Won,3261,8,7,Medium,Moderate,5
+COM-0454,Commercial Property 454,Commercial,South,Closed Won,1413,9,28,High,Moderate,3
+COM-0455,Commercial Property 455,Commercial,North,Closed Won,2433,10,22,High,Moderate,1
+COM-0456,Commercial Property 456,Commercial,North,Proposal,1005,17,13,Medium,High,1
+COM-0457,Commercial Property 457,Commercial,East,Closed Won,2648,9,29,Low,Moderate,2
+COM-0458,Commercial Property 458,Commercial,North,Qualified,2343,15,23,Medium,Moderate,4
+COM-0459,Commercial Property 459,Commercial,West,Negotiation,676,6,17,Medium,High,4
+COM-0460,Commercial Property 460,Commercial,West,Lead,701,7,8,High,Moderate,5
+COM-0461,Commercial Property 461,Commercial,North,Qualified,4008,5,11,High,Moderate,2
+COM-0462,Commercial Property 462,Commercial,East,Negotiation,956,13,30,High,Moderate,1
+COM-0463,Commercial Property 463,Commercial,West,Closed Lost,681,10,23,Medium,High,4
+COM-0464,Commercial Property 464,Commercial,West,Negotiation,3496,8,25,High,None,3
+COM-0465,Commercial Property 465,Commercial,East,Proposal,3784,10,10,High,None,3
+COM-0466,Commercial Property 466,Commercial,West,Closed Lost,4322,11,6,Low,High,4
+COM-0467,Commercial Property 467,Commercial,North,Qualified,730,12,30,Medium,Moderate,4
+COM-0468,Commercial Property 468,Commercial,North,Negotiation,3557,11,8,Low,Moderate,4
+COM-0469,Commercial Property 469,Commercial,South,Closed Won,575,14,5,Medium,None,2
+COM-0470,Commercial Property 470,Commercial,West,Qualified,3124,17,24,Medium,Moderate,1
+COM-0471,Commercial Property 471,Commercial,North,Lead,4600,7,28,Medium,High,1
+COM-0472,Commercial Property 472,Commercial,East,Proposal,960,16,28,Low,None,4
+COM-0473,Commercial Property 473,Commercial,South,Proposal,4619,8,21,Low,High,2
+COM-0474,Commercial Property 474,Commercial,North,Closed Lost,1513,15,19,Low,None,1
+COM-0475,Commercial Property 475,Commercial,South,Lead,2989,7,7,Low,High,2
+COM-0476,Commercial Property 476,Commercial,East,Closed Lost,2422,3,15,Medium,High,2
+COM-0477,Commercial Property 477,Commercial,West,Proposal,4312,3,10,Medium,None,4
+COM-0478,Commercial Property 478,Commercial,West,Negotiation,3294,16,30,High,None,4
+COM-0479,Commercial Property 479,Commercial,East,Closed Lost,1648,9,21,Low,None,4
+COM-0480,Commercial Property 480,Commercial,West,Negotiation,3314,17,27,High,High,2
+COM-0481,Commercial Property 481,Commercial,East,Negotiation,4971,5,10,Low,High,1
+COM-0482,Commercial Property 482,Commercial,East,Closed Lost,2021,19,15,Medium,High,2
+COM-0483,Commercial Property 483,Commercial,East,Qualified,4286,17,7,Low,Moderate,5
+COM-0484,Commercial Property 484,Commercial,West,Closed Won,3482,12,5,High,None,2
+COM-0485,Commercial Property 485,Commercial,North,Qualified,4551,18,13,Low,Moderate,2
+COM-0486,Commercial Property 486,Commercial,South,Closed Won,4074,7,7,Low,Moderate,5
+COM-0487,Commercial Property 487,Commercial,South,Lead,2054,7,30,Low,None,3
+COM-0488,Commercial Property 488,Commercial,North,Closed Won,1772,20,11,High,None,2
+COM-0489,Commercial Property 489,Commercial,North,Qualified,1595,4,16,Medium,None,2
+COM-0490,Commercial Property 490,Commercial,North,Closed Lost,4568,15,9,Low,None,2
+COM-0491,Commercial Property 491,Commercial,North,Lead,1923,11,27,Medium,None,2
+COM-0492,Commercial Property 492,Commercial,South,Lead,2411,18,21,High,High,1
+COM-0493,Commercial Property 493,Commercial,West,Negotiation,4709,9,14,Low,None,2
+COM-0494,Commercial Property 494,Commercial,North,Qualified,2194,14,16,Low,Moderate,3
+COM-0495,Commercial Property 495,Commercial,North,Qualified,3510,7,22,Medium,Moderate,3
+COM-0496,Commercial Property 496,Commercial,West,Proposal,3568,15,11,Medium,High,3
+COM-0497,Commercial Property 497,Commercial,East,Closed Won,3877,18,17,Medium,None,3
+COM-0498,Commercial Property 498,Commercial,North,Lead,4990,17,5,High,High,2
+COM-0499,Commercial Property 499,Commercial,North,Qualified,2075,5,28,Low,High,4
+COM-0500,Commercial Property 500,Commercial,South,Negotiation,4215,5,17,Medium,Moderate,4
+COM-0501,Commercial Property 501,Commercial,East,Lead,2587,5,14,High,Moderate,4
+COM-0502,Commercial Property 502,Commercial,South,Negotiation,642,9,19,High,Moderate,3
+COM-0503,Commercial Property 503,Commercial,North,Closed Lost,505,8,18,Low,None,1
+COM-0504,Commercial Property 504,Commercial,South,Qualified,1030,18,20,Low,High,4
+COM-0505,Commercial Property 505,Commercial,East,Negotiation,1525,11,25,High,None,3
+COM-0506,Commercial Property 506,Commercial,West,Lead,4663,20,24,Low,Moderate,3
+COM-0507,Commercial Property 507,Commercial,North,Proposal,2932,5,24,Medium,Moderate,1
+COM-0508,Commercial Property 508,Commercial,West,Lead,3020,10,5,Medium,Moderate,2
+COM-0509,Commercial Property 509,Commercial,South,Lead,1792,16,28,Low,Moderate,2
+COM-0510,Commercial Property 510,Commercial,South,Closed Won,4882,6,26,High,None,4
+COM-0511,Commercial Property 511,Commercial,East,Negotiation,4140,5,28,Low,Moderate,5
+COM-0512,Commercial Property 512,Commercial,West,Negotiation,2559,3,30,Low,High,1
+COM-0513,Commercial Property 513,Commercial,South,Negotiation,3524,15,6,Medium,Moderate,2
+COM-0514,Commercial Property 514,Commercial,West,Closed Lost,4517,11,29,High,High,1
+COM-0515,Commercial Property 515,Commercial,West,Lead,1849,3,22,Low,High,1
+COM-0516,Commercial Property 516,Commercial,South,Qualified,1829,16,25,High,High,4
+COM-0517,Commercial Property 517,Commercial,North,Proposal,3070,20,17,Low,None,5
+COM-0518,Commercial Property 518,Commercial,North,Qualified,2995,11,5,High,High,2
+COM-0519,Commercial Property 519,Commercial,North,Proposal,3535,15,25,High,Moderate,2
+COM-0520,Commercial Property 520,Commercial,South,Closed Lost,4220,15,15,Medium,High,5
+COM-0521,Commercial Property 521,Commercial,East,Qualified,3969,9,5,Medium,None,1
+COM-0522,Commercial Property 522,Commercial,North,Proposal,1796,18,13,Low,High,2
+COM-0523,Commercial Property 523,Commercial,East,Negotiation,4684,13,28,Medium,Moderate,2
+COM-0524,Commercial Property 524,Commercial,East,Qualified,1031,19,17,High,Moderate,3
+COM-0525,Commercial Property 525,Commercial,East,Negotiation,4207,12,26,Medium,High,1
+COM-0526,Commercial Property 526,Commercial,South,Closed Won,2407,8,30,Low,High,4
+COM-0527,Commercial Property 527,Commercial,West,Proposal,3454,9,8,Low,High,3
+COM-0528,Commercial Property 528,Commercial,North,Closed Won,1017,17,9,Low,High,5
+COM-0529,Commercial Property 529,Commercial,North,Negotiation,4129,6,6,Medium,None,5
+COM-0530,Commercial Property 530,Commercial,North,Closed Won,1856,10,30,Low,Moderate,3
+COM-0531,Commercial Property 531,Commercial,South,Closed Won,2861,12,7,Low,High,3
+COM-0532,Commercial Property 532,Commercial,South,Qualified,1062,12,5,High,High,1
+COM-0533,Commercial Property 533,Commercial,North,Closed Lost,745,3,13,High,High,5
+COM-0534,Commercial Property 534,Commercial,East,Closed Won,4807,8,14,High,High,1
+COM-0535,Commercial Property 535,Commercial,East,Closed Won,3666,11,30,High,None,3
+COM-0536,Commercial Property 536,Commercial,East,Qualified,3172,6,23,Medium,None,5
+COM-0537,Commercial Property 537,Commercial,West,Proposal,2371,5,26,Low,High,5
+COM-0538,Commercial Property 538,Commercial,West,Proposal,877,11,26,High,None,2
+COM-0539,Commercial Property 539,Commercial,South,Proposal,2015,3,27,Medium,Moderate,1
+COM-0540,Commercial Property 540,Commercial,West,Proposal,753,13,10,Medium,Moderate,2
+COM-0541,Commercial Property 541,Commercial,West,Proposal,539,18,9,Low,Moderate,2
+COM-0542,Commercial Property 542,Commercial,East,Closed Lost,4871,3,16,High,High,3
+COM-0543,Commercial Property 543,Commercial,North,Proposal,4157,16,29,Low,High,2
+COM-0544,Commercial Property 544,Commercial,West,Qualified,3109,3,11,Medium,High,3
+COM-0545,Commercial Property 545,Commercial,East,Qualified,678,17,24,Medium,High,2
+COM-0546,Commercial Property 546,Commercial,West,Closed Lost,3236,14,8,Medium,High,2
+COM-0547,Commercial Property 547,Commercial,South,Closed Won,1337,20,6,Medium,Moderate,3
+COM-0548,Commercial Property 548,Commercial,West,Closed Lost,906,17,5,Low,Moderate,1
+COM-0549,Commercial Property 549,Commercial,West,Closed Won,1238,11,9,Medium,Moderate,4
+COM-0550,Commercial Property 550,Commercial,West,Closed Won,2281,14,13,Medium,High,3
+COM-0551,Commercial Property 551,Commercial,West,Lead,1264,18,8,Low,None,5
+COM-0552,Commercial Property 552,Commercial,South,Closed Lost,4201,14,25,High,None,5
+COM-0553,Commercial Property 553,Commercial,West,Negotiation,3737,11,30,High,Moderate,5
+COM-0554,Commercial Property 554,Commercial,East,Negotiation,2064,7,12,Low,High,2
+COM-0555,Commercial Property 555,Commercial,North,Closed Lost,1904,10,24,High,None,1
+COM-0556,Commercial Property 556,Commercial,South,Closed Won,3238,12,5,Low,High,1
+COM-0557,Commercial Property 557,Commercial,North,Closed Won,1678,6,26,High,Moderate,2
+COM-0558,Commercial Property 558,Commercial,South,Closed Lost,4505,12,14,High,None,5
+COM-0559,Commercial Property 559,Commercial,East,Closed Lost,1659,6,23,High,High,1
+COM-0560,Commercial Property 560,Commercial,South,Closed Lost,3720,10,27,Low,Moderate,1
+COM-0561,Commercial Property 561,Commercial,West,Closed Won,2071,5,16,Medium,High,4
+COM-0562,Commercial Property 562,Commercial,North,Closed Lost,4523,11,27,Low,None,5
+COM-0563,Commercial Property 563,Commercial,South,Qualified,3990,14,19,High,None,3
+COM-0564,Commercial Property 564,Commercial,West,Closed Won,2791,11,23,Low,None,4
+COM-0565,Commercial Property 565,Commercial,South,Closed Lost,5000,13,16,High,Moderate,4
+COM-0566,Commercial Property 566,Commercial,North,Negotiation,4072,20,19,Low,None,1
+COM-0567,Commercial Property 567,Commercial,North,Lead,2476,12,10,Low,Moderate,3
+COM-0568,Commercial Property 568,Commercial,North,Lead,1802,4,30,Medium,Moderate,3
+COM-0569,Commercial Property 569,Commercial,East,Proposal,613,14,25,High,High,4
+COM-0570,Commercial Property 570,Commercial,West,Closed Lost,3906,13,22,High,None,4
+COM-0571,Commercial Property 571,Commercial,East,Qualified,3632,7,17,Medium,None,4
+COM-0572,Commercial Property 572,Commercial,South,Proposal,739,11,22,High,Moderate,1
+COM-0573,Commercial Property 573,Commercial,North,Closed Lost,1976,15,20,Low,Moderate,4
+COM-0574,Commercial Property 574,Commercial,West,Qualified,1618,5,20,High,High,3
+COM-0575,Commercial Property 575,Commercial,South,Closed Won,1861,10,13,Medium,Moderate,5
+COM-0576,Commercial Property 576,Commercial,North,Negotiation,2360,19,25,High,Moderate,3
+COM-0577,Commercial Property 577,Commercial,West,Negotiation,1423,4,20,High,Moderate,1
+COM-0578,Commercial Property 578,Commercial,West,Closed Lost,2646,6,8,Low,High,5
+COM-0579,Commercial Property 579,Commercial,West,Lead,3696,20,28,Low,None,3
+COM-0580,Commercial Property 580,Commercial,East,Proposal,3939,17,14,High,Moderate,3
+COM-0581,Commercial Property 581,Commercial,East,Qualified,867,5,5,High,High,3
+COM-0582,Commercial Property 582,Commercial,West,Negotiation,1202,13,15,High,High,4
+COM-0583,Commercial Property 583,Commercial,North,Closed Lost,2166,18,24,High,High,1
+COM-0584,Commercial Property 584,Commercial,East,Negotiation,4868,16,21,High,High,3
+COM-0585,Commercial Property 585,Commercial,West,Closed Won,3733,17,26,Medium,None,2
+COM-0586,Commercial Property 586,Commercial,South,Proposal,2153,12,25,Medium,High,3
+COM-0587,Commercial Property 587,Commercial,West,Qualified,4102,11,8,High,None,5
+COM-0588,Commercial Property 588,Commercial,East,Closed Lost,2323,14,8,Low,High,5
+COM-0589,Commercial Property 589,Commercial,West,Lead,3783,20,9,Medium,High,5
+COM-0590,Commercial Property 590,Commercial,West,Closed Won,1516,11,13,Low,Moderate,2
+COM-0591,Commercial Property 591,Commercial,North,Closed Won,3657,15,22,Medium,None,3
+COM-0592,Commercial Property 592,Commercial,North,Negotiation,4655,9,22,Medium,Moderate,4
+COM-0593,Commercial Property 593,Commercial,North,Proposal,937,3,22,Low,None,2
+COM-0594,Commercial Property 594,Commercial,South,Closed Lost,4781,6,27,Low,None,1
+COM-0595,Commercial Property 595,Commercial,South,Negotiation,3420,11,25,Medium,None,4
+COM-0596,Commercial Property 596,Commercial,North,Negotiation,2001,16,9,Low,None,3
+COM-0597,Commercial Property 597,Commercial,West,Closed Lost,2714,6,28,Medium,None,3
+COM-0598,Commercial Property 598,Commercial,South,Proposal,2065,16,14,Low,Moderate,3
+COM-0599,Commercial Property 599,Commercial,West,Negotiation,639,14,7,High,Moderate,3
+COM-0600,Commercial Property 600,Commercial,South,Negotiation,4340,20,27,Medium,Moderate,2
+COM-0601,Commercial Property 601,Commercial,North,Closed Lost,4626,3,5,Medium,High,1
+COM-0602,Commercial Property 602,Commercial,East,Negotiation,2710,5,21,Low,None,1
+COM-0603,Commercial Property 603,Commercial,West,Proposal,3851,16,24,Low,High,1
+COM-0604,Commercial Property 604,Commercial,North,Negotiation,3976,15,29,High,Moderate,3
+COM-0605,Commercial Property 605,Commercial,West,Closed Won,4862,14,15,High,None,3
+COM-0606,Commercial Property 606,Commercial,North,Closed Lost,4502,9,21,Low,High,1
+COM-0607,Commercial Property 607,Commercial,East,Closed Lost,4021,11,21,High,High,2
+COM-0608,Commercial Property 608,Commercial,South,Lead,830,17,29,Low,None,1
+COM-0609,Commercial Property 609,Commercial,South,Closed Lost,2391,20,21,Low,High,2
+COM-0610,Commercial Property 610,Commercial,North,Closed Lost,2789,8,21,Medium,Moderate,2
+COM-0611,Commercial Property 611,Commercial,East,Qualified,847,6,10,Low,Moderate,4
+COM-0612,Commercial Property 612,Commercial,West,Proposal,4327,17,18,Low,None,2
+COM-0613,Commercial Property 613,Commercial,East,Qualified,512,20,5,Low,Moderate,5
+COM-0614,Commercial Property 614,Commercial,East,Qualified,4802,19,18,Medium,None,5
+COM-0615,Commercial Property 615,Commercial,East,Qualified,1749,17,28,Low,High,1
+COM-0616,Commercial Property 616,Commercial,South,Proposal,4746,20,27,Medium,Moderate,1
+COM-0617,Commercial Property 617,Commercial,West,Lead,3987,13,10,High,None,3
+COM-0618,Commercial Property 618,Commercial,East,Proposal,2061,12,20,Medium,None,3
+COM-0619,Commercial Property 619,Commercial,East,Proposal,1869,15,30,Medium,Moderate,3
+COM-0620,Commercial Property 620,Commercial,North,Proposal,2771,15,7,Medium,Moderate,4
+COM-0621,Commercial Property 621,Commercial,East,Closed Lost,4268,3,8,Medium,High,2
+COM-0622,Commercial Property 622,Commercial,East,Closed Won,3351,10,23,Low,High,4
+COM-0623,Commercial Property 623,Commercial,West,Lead,2854,12,11,High,None,5
+COM-0624,Commercial Property 624,Commercial,East,Closed Lost,4536,14,21,Low,None,4
+COM-0625,Commercial Property 625,Commercial,East,Closed Lost,1793,13,16,Low,None,1
+COM-0626,Commercial Property 626,Commercial,North,Negotiation,2893,15,10,High,Moderate,3
+COM-0627,Commercial Property 627,Commercial,East,Qualified,3429,11,24,High,None,5
+COM-0628,Commercial Property 628,Commercial,North,Closed Won,3961,18,6,Medium,High,3
+COM-0629,Commercial Property 629,Commercial,South,Closed Lost,4033,16,18,High,None,2
+COM-0630,Commercial Property 630,Commercial,South,Closed Lost,4232,12,18,High,None,2
+COM-0631,Commercial Property 631,Commercial,East,Closed Won,856,8,26,Medium,None,3
+COM-0632,Commercial Property 632,Commercial,East,Lead,4701,13,21,High,Moderate,4
+COM-0633,Commercial Property 633,Commercial,South,Negotiation,1492,6,16,Low,Moderate,4
+COM-0634,Commercial Property 634,Commercial,East,Lead,2373,11,9,Medium,Moderate,4
+COM-0635,Commercial Property 635,Commercial,North,Lead,1516,6,11,Low,None,3
+COM-0636,Commercial Property 636,Commercial,South,Proposal,629,3,27,Low,High,2
+COM-0637,Commercial Property 637,Commercial,West,Negotiation,3646,17,27,Medium,None,1
+COM-0638,Commercial Property 638,Commercial,North,Lead,3441,13,17,Medium,High,3
+COM-0639,Commercial Property 639,Commercial,East,Negotiation,1943,11,21,High,Moderate,5
+COM-0640,Commercial Property 640,Commercial,West,Closed Won,4488,13,5,Low,High,1
+COM-0641,Commercial Property 641,Commercial,West,Qualified,4962,16,20,High,None,4
+COM-0642,Commercial Property 642,Commercial,North,Proposal,3027,10,21,Low,High,5
+COM-0643,Commercial Property 643,Commercial,West,Proposal,4628,5,23,High,None,4
+COM-0644,Commercial Property 644,Commercial,East,Closed Won,2043,10,7,Low,High,5
+COM-0645,Commercial Property 645,Commercial,East,Negotiation,1194,10,24,Medium,None,2
+COM-0646,Commercial Property 646,Commercial,West,Negotiation,854,18,12,Medium,None,4
+COM-0647,Commercial Property 647,Commercial,West,Closed Lost,3788,4,6,Low,Moderate,5
+COM-0648,Commercial Property 648,Commercial,North,Lead,4413,8,20,High,None,1
+COM-0649,Commercial Property 649,Commercial,North,Closed Won,2782,6,27,Medium,None,4
+COM-0650,Commercial Property 650,Commercial,North,Proposal,2577,4,21,Medium,Moderate,3
+COM-0651,Commercial Property 651,Commercial,North,Negotiation,928,17,14,Low,Moderate,4
+COM-0652,Commercial Property 652,Commercial,South,Closed Won,2500,7,23,High,None,4
+COM-0653,Commercial Property 653,Commercial,South,Closed Lost,4470,14,28,Medium,High,2
+COM-0654,Commercial Property 654,Commercial,West,Qualified,1904,10,28,High,None,3
+COM-0655,Commercial Property 655,Commercial,West,Closed Lost,572,3,23,Medium,High,5
+COM-0656,Commercial Property 656,Commercial,North,Lead,2519,3,13,High,Moderate,4
+COM-0657,Commercial Property 657,Commercial,North,Negotiation,2632,10,12,High,High,1
+COM-0658,Commercial Property 658,Commercial,North,Lead,1909,6,17,High,Moderate,1
+COM-0659,Commercial Property 659,Commercial,South,Lead,4846,16,27,Medium,Moderate,4
+COM-0660,Commercial Property 660,Commercial,East,Proposal,575,12,24,Medium,High,4
+COM-0661,Commercial Property 661,Commercial,East,Negotiation,1597,9,12,Low,High,2
+COM-0662,Commercial Property 662,Commercial,East,Negotiation,1756,14,30,Medium,None,4
+COM-0663,Commercial Property 663,Commercial,North,Lead,2918,10,9,Low,None,4
+COM-0664,Commercial Property 664,Commercial,West,Negotiation,2286,6,30,Low,Moderate,1
+COM-0665,Commercial Property 665,Commercial,East,Proposal,1564,17,28,High,High,2
+COM-0666,Commercial Property 666,Commercial,East,Negotiation,4681,16,23,Medium,Moderate,4
+COM-0667,Commercial Property 667,Commercial,West,Lead,546,14,25,Low,Moderate,5
+COM-0668,Commercial Property 668,Commercial,South,Lead,1584,5,26,Low,None,4
+COM-0669,Commercial Property 669,Commercial,West,Proposal,3451,16,20,Medium,None,1
+COM-0670,Commercial Property 670,Commercial,North,Qualified,3372,14,14,Medium,High,3
+COM-0671,Commercial Property 671,Commercial,West,Closed Won,3228,12,21,Medium,High,4
+COM-0672,Commercial Property 672,Commercial,South,Negotiation,2711,4,28,Medium,Moderate,4
+COM-0673,Commercial Property 673,Commercial,East,Qualified,2045,5,9,High,None,4
+COM-0674,Commercial Property 674,Commercial,East,Closed Lost,3719,18,15,Medium,None,5
+COM-0675,Commercial Property 675,Commercial,West,Closed Lost,1836,6,18,High,None,2
+COM-0676,Commercial Property 676,Commercial,West,Lead,3238,20,22,Low,None,1
+COM-0677,Commercial Property 677,Commercial,North,Lead,696,4,27,Low,None,5
+COM-0678,Commercial Property 678,Commercial,West,Proposal,3278,20,18,High,None,2
+COM-0679,Commercial Property 679,Commercial,North,Proposal,811,13,16,Low,High,2
+COM-0680,Commercial Property 680,Commercial,East,Qualified,3007,11,24,High,None,2
+COM-0681,Commercial Property 681,Commercial,North,Closed Won,828,20,5,High,None,3
+COM-0682,Commercial Property 682,Commercial,West,Qualified,3892,18,17,High,None,2
+COM-0683,Commercial Property 683,Commercial,East,Closed Lost,3979,20,12,Medium,High,4
+COM-0684,Commercial Property 684,Commercial,East,Lead,689,8,15,Low,Moderate,5
+COM-0685,Commercial Property 685,Commercial,South,Proposal,3467,4,25,Medium,None,3
+COM-0686,Commercial Property 686,Commercial,South,Closed Lost,3577,7,16,Low,Moderate,3
+COM-0687,Commercial Property 687,Commercial,West,Closed Lost,3380,13,20,Low,None,3
+COM-0688,Commercial Property 688,Commercial,East,Lead,3497,6,8,Low,High,3
+COM-0689,Commercial Property 689,Commercial,South,Proposal,2931,18,17,Medium,Moderate,4
+COM-0690,Commercial Property 690,Commercial,East,Closed Won,2814,10,23,Medium,High,5
+COM-0691,Commercial Property 691,Commercial,South,Proposal,1976,3,21,Medium,Moderate,1
+COM-0692,Commercial Property 692,Commercial,South,Closed Lost,2038,7,21,Medium,Moderate,3
+COM-0693,Commercial Property 693,Commercial,East,Negotiation,1604,12,28,Low,High,2
+COM-0694,Commercial Property 694,Commercial,South,Closed Lost,4210,17,8,Medium,Moderate,2
+COM-0695,Commercial Property 695,Commercial,East,Proposal,2478,16,6,Medium,None,5
+COM-0696,Commercial Property 696,Commercial,East,Negotiation,2950,16,11,Low,High,5
+COM-0697,Commercial Property 697,Commercial,East,Proposal,1473,18,10,Low,Moderate,3
+COM-0698,Commercial Property 698,Commercial,North,Lead,4255,9,11,Low,None,2
+COM-0699,Commercial Property 699,Commercial,South,Closed Won,4770,14,27,Low,High,1
+COM-0700,Commercial Property 700,Commercial,East,Proposal,4133,8,13,Low,Moderate,1
+COM-0701,Commercial Property 701,Commercial,West,Closed Lost,2446,20,28,Medium,Moderate,5
+COM-0702,Commercial Property 702,Commercial,West,Closed Lost,889,19,12,High,None,2
+COM-0703,Commercial Property 703,Commercial,West,Closed Won,3643,12,20,Medium,High,5
+COM-0704,Commercial Property 704,Commercial,West,Qualified,2322,12,8,Low,High,3
+COM-0705,Commercial Property 705,Commercial,West,Proposal,1114,7,26,Medium,None,3
+COM-0706,Commercial Property 706,Commercial,West,Closed Lost,4695,20,7,Low,Moderate,3
+COM-0707,Commercial Property 707,Commercial,East,Qualified,2435,4,19,Low,None,4
+COM-0708,Commercial Property 708,Commercial,North,Closed Won,1547,8,18,Medium,Moderate,4
+COM-0709,Commercial Property 709,Commercial,West,Lead,3597,17,19,Medium,Moderate,5
+COM-0710,Commercial Property 710,Commercial,South,Lead,4304,19,17,High,None,4
+COM-0711,Commercial Property 711,Commercial,South,Proposal,2268,19,26,Low,None,3
+COM-0712,Commercial Property 712,Commercial,East,Closed Won,1021,11,7,High,None,2
+COM-0713,Commercial Property 713,Commercial,East,Closed Won,3281,18,28,Medium,Moderate,2
+COM-0714,Commercial Property 714,Commercial,West,Proposal,740,3,12,Low,High,1
+COM-0715,Commercial Property 715,Commercial,West,Proposal,634,15,24,Medium,None,4
+COM-0716,Commercial Property 716,Commercial,North,Closed Won,1950,9,28,High,None,5
+COM-0717,Commercial Property 717,Commercial,West,Closed Lost,2646,3,14,High,Moderate,4
+COM-0718,Commercial Property 718,Commercial,East,Proposal,3710,20,7,Low,None,4
+COM-0719,Commercial Property 719,Commercial,South,Negotiation,735,11,17,High,Moderate,2
+COM-0720,Commercial Property 720,Commercial,South,Negotiation,2536,13,8,Low,Moderate,5
+COM-0721,Commercial Property 721,Commercial,East,Closed Won,1916,7,27,Medium,Moderate,3
+COM-0722,Commercial Property 722,Commercial,West,Closed Won,754,6,13,Medium,Moderate,1
+COM-0723,Commercial Property 723,Commercial,West,Closed Won,4639,5,27,Medium,High,1
+COM-0724,Commercial Property 724,Commercial,East,Closed Lost,2882,17,28,Low,None,2
+COM-0725,Commercial Property 725,Commercial,East,Negotiation,3596,15,14,High,Moderate,5
+COM-0726,Commercial Property 726,Commercial,South,Closed Won,3160,3,20,Medium,High,3
+COM-0727,Commercial Property 727,Commercial,North,Negotiation,3353,16,24,Low,None,3
+COM-0728,Commercial Property 728,Commercial,East,Negotiation,1052,4,18,High,High,4
+COM-0729,Commercial Property 729,Commercial,East,Qualified,4721,6,14,Low,High,5
+COM-0730,Commercial Property 730,Commercial,South,Qualified,1261,3,14,High,None,3
+COM-0731,Commercial Property 731,Commercial,South,Closed Lost,571,10,30,Medium,High,5
+COM-0732,Commercial Property 732,Commercial,East,Closed Lost,4626,10,10,High,None,4
+COM-0733,Commercial Property 733,Commercial,South,Closed Won,1814,16,29,High,Moderate,4
+COM-0734,Commercial Property 734,Commercial,South,Closed Won,2245,10,25,Low,Moderate,1
+COM-0735,Commercial Property 735,Commercial,West,Closed Lost,4876,15,15,Medium,None,1
+COM-0736,Commercial Property 736,Commercial,West,Negotiation,1655,18,28,Medium,Moderate,1
+COM-0737,Commercial Property 737,Commercial,South,Closed Won,741,16,24,Medium,Moderate,2
+COM-0738,Commercial Property 738,Commercial,South,Closed Won,729,7,27,High,Moderate,3
+COM-0739,Commercial Property 739,Commercial,East,Proposal,4596,20,20,High,Moderate,4
+COM-0740,Commercial Property 740,Commercial,West,Negotiation,4083,8,11,High,High,1
+COM-0741,Commercial Property 741,Commercial,South,Lead,3096,4,15,High,High,3
+COM-0742,Commercial Property 742,Commercial,East,Negotiation,2905,14,21,High,High,4
+COM-0743,Commercial Property 743,Commercial,East,Qualified,2325,19,8,Low,Moderate,4
+COM-0744,Commercial Property 744,Commercial,North,Lead,1535,13,21,Medium,Moderate,1
+COM-0745,Commercial Property 745,Commercial,East,Proposal,2114,9,15,Medium,Moderate,2
+COM-0746,Commercial Property 746,Commercial,North,Closed Won,1360,7,14,Low,High,3
+COM-0747,Commercial Property 747,Commercial,South,Closed Lost,904,19,6,Medium,High,2
+COM-0748,Commercial Property 748,Commercial,West,Closed Won,660,14,10,Low,High,3
+COM-0749,Commercial Property 749,Commercial,North,Closed Lost,3612,15,29,Low,Moderate,4
+COM-0750,Commercial Property 750,Commercial,East,Negotiation,3764,15,16,High,Moderate,2
+COM-0751,Commercial Property 751,Commercial,East,Closed Lost,3512,20,5,High,Moderate,2
+COM-0752,Commercial Property 752,Commercial,West,Closed Lost,4362,14,7,High,High,3
+COM-0753,Commercial Property 753,Commercial,East,Lead,2028,7,10,High,Moderate,2
+COM-0754,Commercial Property 754,Commercial,South,Closed Won,3095,10,15,Medium,None,2
+COM-0755,Commercial Property 755,Commercial,West,Closed Lost,755,10,27,Medium,Moderate,1
+COM-0756,Commercial Property 756,Commercial,West,Proposal,3360,4,22,High,High,2
+COM-0757,Commercial Property 757,Commercial,East,Qualified,2977,16,13,Medium,Moderate,1
+COM-0758,Commercial Property 758,Commercial,South,Qualified,3579,10,7,Medium,None,3
+COM-0759,Commercial Property 759,Commercial,West,Closed Won,4739,7,20,High,Moderate,4
+COM-0760,Commercial Property 760,Commercial,South,Closed Won,1007,8,16,High,None,4
+COM-0761,Commercial Property 761,Commercial,East,Qualified,3753,20,14,High,Moderate,1
+COM-0762,Commercial Property 762,Commercial,West,Closed Lost,1597,4,23,Low,None,1
+COM-0763,Commercial Property 763,Commercial,South,Closed Lost,3967,8,11,Low,High,4
+COM-0764,Commercial Property 764,Commercial,West,Lead,884,5,28,Low,High,2
+COM-0765,Commercial Property 765,Commercial,East,Closed Lost,3466,8,10,High,High,1
+COM-0766,Commercial Property 766,Commercial,North,Qualified,1200,10,21,High,High,1
+COM-0767,Commercial Property 767,Commercial,East,Proposal,1560,14,29,Medium,Moderate,5
+COM-0768,Commercial Property 768,Commercial,West,Closed Won,1867,18,19,Medium,None,1
+COM-0769,Commercial Property 769,Commercial,North,Qualified,533,5,30,Medium,High,5
+COM-0770,Commercial Property 770,Commercial,South,Closed Won,3442,16,20,Low,None,5
+COM-0771,Commercial Property 771,Commercial,East,Negotiation,2849,19,27,Low,High,2
+COM-0772,Commercial Property 772,Commercial,South,Closed Lost,3698,11,11,Low,None,5
+COM-0773,Commercial Property 773,Commercial,East,Closed Lost,3319,15,5,High,Moderate,4
+COM-0774,Commercial Property 774,Commercial,South,Lead,2521,6,17,High,None,4
+COM-0775,Commercial Property 775,Commercial,South,Lead,4694,8,21,Medium,Moderate,2
+COM-0776,Commercial Property 776,Commercial,East,Closed Lost,929,13,24,Low,High,1
+COM-0777,Commercial Property 777,Commercial,South,Negotiation,4258,8,12,Low,High,3
+COM-0778,Commercial Property 778,Commercial,West,Lead,1969,4,22,Medium,None,3
+COM-0779,Commercial Property 779,Commercial,West,Negotiation,3005,8,28,High,High,2
+COM-0780,Commercial Property 780,Commercial,North,Negotiation,1757,13,15,High,High,3
+COM-0781,Commercial Property 781,Commercial,North,Closed Won,1770,15,25,Low,High,1
+COM-0782,Commercial Property 782,Commercial,South,Closed Lost,3153,4,9,Low,High,2
+COM-0783,Commercial Property 783,Commercial,South,Qualified,2004,13,8,Medium,High,4
+COM-0784,Commercial Property 784,Commercial,South,Closed Lost,1769,11,21,High,None,5
+COM-0785,Commercial Property 785,Commercial,West,Qualified,4653,6,19,Low,High,3
+COM-0786,Commercial Property 786,Commercial,East,Qualified,1947,15,26,High,None,5
+COM-0787,Commercial Property 787,Commercial,North,Closed Won,545,4,12,Medium,Moderate,4
+COM-0788,Commercial Property 788,Commercial,East,Negotiation,3789,12,12,Medium,High,1
+COM-0789,Commercial Property 789,Commercial,South,Lead,4691,19,22,Medium,Moderate,3
+COM-0790,Commercial Property 790,Commercial,North,Closed Won,1132,18,10,High,None,4
+COM-0791,Commercial Property 791,Commercial,South,Lead,4404,19,6,High,High,5
+COM-0792,Commercial Property 792,Commercial,West,Closed Won,2984,7,24,High,None,5
+COM-0793,Commercial Property 793,Commercial,West,Lead,3669,18,17,Medium,Moderate,1
+COM-0794,Commercial Property 794,Commercial,East,Qualified,3483,16,20,High,None,4
+COM-0795,Commercial Property 795,Commercial,South,Proposal,1932,16,27,High,Moderate,4
+COM-0796,Commercial Property 796,Commercial,North,Proposal,4441,9,22,Low,High,2
+COM-0797,Commercial Property 797,Commercial,South,Lead,1291,6,17,Low,High,5
+COM-0798,Commercial Property 798,Commercial,East,Negotiation,3196,10,20,Low,Moderate,4
+COM-0799,Commercial Property 799,Commercial,East,Closed Lost,3106,7,18,Medium,None,2
+COM-0800,Commercial Property 800,Commercial,South,Negotiation,1338,15,30,Low,High,4
+COM-0801,Commercial Property 801,Commercial,South,Closed Won,2656,8,25,Medium,Moderate,5
+COM-0802,Commercial Property 802,Commercial,West,Negotiation,2167,18,22,High,Moderate,1
+COM-0803,Commercial Property 803,Commercial,North,Closed Won,3059,4,28,Medium,High,2
+COM-0804,Commercial Property 804,Commercial,South,Closed Lost,4439,7,30,High,High,5
+COM-0805,Commercial Property 805,Commercial,South,Lead,3964,16,11,Medium,High,3
+COM-0806,Commercial Property 806,Commercial,East,Qualified,618,3,6,High,Moderate,3
+COM-0807,Commercial Property 807,Commercial,East,Closed Lost,2405,18,18,High,Moderate,2
+COM-0808,Commercial Property 808,Commercial,West,Closed Won,2090,4,15,High,Moderate,2
+COM-0809,Commercial Property 809,Commercial,South,Closed Won,4114,8,15,Low,None,2
+COM-0810,Commercial Property 810,Commercial,West,Qualified,1126,18,9,High,None,1
+COM-0811,Commercial Property 811,Commercial,North,Proposal,1884,9,14,Low,None,2
+COM-0812,Commercial Property 812,Commercial,North,Closed Won,933,20,26,Low,None,3
+COM-0813,Commercial Property 813,Commercial,West,Closed Lost,4368,19,8,Low,None,5
+COM-0814,Commercial Property 814,Commercial,North,Negotiation,2422,12,8,Medium,High,1
+COM-0815,Commercial Property 815,Commercial,West,Closed Won,3620,11,8,High,None,3
+COM-0816,Commercial Property 816,Commercial,North,Closed Lost,3734,20,7,Low,None,1
+COM-0817,Commercial Property 817,Commercial,East,Closed Lost,2413,5,7,Low,High,2
+COM-0818,Commercial Property 818,Commercial,North,Lead,2452,14,28,Low,High,5
+COM-0819,Commercial Property 819,Commercial,West,Closed Won,3521,17,16,Medium,None,3
+COM-0820,Commercial Property 820,Commercial,West,Proposal,2542,19,16,Low,None,5
+COM-0821,Commercial Property 821,Commercial,South,Lead,2092,12,5,Low,Moderate,5
+COM-0822,Commercial Property 822,Commercial,South,Closed Won,2852,3,18,High,None,3
+COM-0823,Commercial Property 823,Commercial,East,Proposal,4219,16,6,High,None,5
+COM-0824,Commercial Property 824,Commercial,South,Lead,1091,5,30,Low,None,4
+COM-0825,Commercial Property 825,Commercial,West,Proposal,3852,15,27,High,High,5
+COM-0826,Commercial Property 826,Commercial,South,Closed Won,812,6,15,Low,Moderate,2
+COM-0827,Commercial Property 827,Commercial,West,Closed Lost,2038,11,27,High,High,1
+COM-0828,Commercial Property 828,Commercial,East,Qualified,2763,15,9,Low,None,2
+COM-0829,Commercial Property 829,Commercial,West,Proposal,2654,12,24,High,High,1
+COM-0830,Commercial Property 830,Commercial,North,Closed Won,1713,15,18,Low,Moderate,1
+COM-0831,Commercial Property 831,Commercial,West,Proposal,3432,7,8,Medium,None,2
+COM-0832,Commercial Property 832,Commercial,South,Closed Won,4475,9,18,Medium,None,1
+COM-0833,Commercial Property 833,Commercial,West,Closed Won,909,20,27,Low,High,4
+COM-0834,Commercial Property 834,Commercial,West,Lead,2966,6,23,High,None,2
+COM-0835,Commercial Property 835,Commercial,West,Negotiation,3367,9,29,High,None,4
+COM-0836,Commercial Property 836,Commercial,North,Negotiation,4026,13,17,High,None,5
+COM-0837,Commercial Property 837,Commercial,North,Negotiation,1761,5,17,High,Moderate,5
+COM-0838,Commercial Property 838,Commercial,North,Negotiation,2663,17,23,Low,None,2
+COM-0839,Commercial Property 839,Commercial,South,Qualified,4417,11,30,High,None,3
+COM-0840,Commercial Property 840,Commercial,East,Proposal,4284,11,20,High,None,5
+COM-0841,Commercial Property 841,Commercial,South,Qualified,4086,5,25,Medium,None,5
+COM-0842,Commercial Property 842,Commercial,South,Closed Won,3939,17,21,High,Moderate,3
+COM-0843,Commercial Property 843,Commercial,East,Proposal,543,16,20,Medium,None,1
+COM-0844,Commercial Property 844,Commercial,West,Lead,960,11,29,Low,High,1
+COM-0845,Commercial Property 845,Commercial,West,Negotiation,737,6,28,Medium,None,5
+COM-0846,Commercial Property 846,Commercial,North,Proposal,923,6,14,High,Moderate,2
+COM-0847,Commercial Property 847,Commercial,South,Negotiation,3090,3,24,Medium,None,2
+COM-0848,Commercial Property 848,Commercial,West,Qualified,4595,13,16,High,High,3
+COM-0849,Commercial Property 849,Commercial,West,Closed Won,4694,5,12,Low,None,1
+COM-0850,Commercial Property 850,Commercial,South,Qualified,1619,14,21,High,Moderate,1
+COM-0851,Commercial Property 851,Commercial,West,Proposal,4233,5,24,Medium,None,4
+COM-0852,Commercial Property 852,Commercial,West,Negotiation,3869,18,20,High,High,4
+COM-0853,Commercial Property 853,Commercial,West,Qualified,2734,10,28,Medium,High,1
+COM-0854,Commercial Property 854,Commercial,West,Closed Lost,571,9,11,Medium,None,1
+COM-0855,Commercial Property 855,Commercial,North,Negotiation,4654,13,7,High,High,1
+COM-0856,Commercial Property 856,Commercial,West,Proposal,3676,20,28,Medium,None,4
+COM-0857,Commercial Property 857,Commercial,North,Proposal,1413,4,6,Low,Moderate,4
+COM-0858,Commercial Property 858,Commercial,East,Closed Lost,1165,20,19,Medium,Moderate,2
+COM-0859,Commercial Property 859,Commercial,West,Negotiation,527,4,8,Medium,None,3
+COM-0860,Commercial Property 860,Commercial,North,Closed Won,4697,3,29,High,High,3
+COM-0861,Commercial Property 861,Commercial,South,Negotiation,4721,9,23,Medium,None,2
+COM-0862,Commercial Property 862,Commercial,North,Closed Won,4319,10,7,High,Moderate,2
+COM-0863,Commercial Property 863,Commercial,East,Closed Lost,3334,5,21,High,High,2
+COM-0864,Commercial Property 864,Commercial,North,Closed Lost,1797,20,19,Low,Moderate,4
+COM-0865,Commercial Property 865,Commercial,North,Negotiation,873,15,15,High,Moderate,3
+COM-0866,Commercial Property 866,Commercial,North,Negotiation,2280,13,27,Medium,Moderate,1
+COM-0867,Commercial Property 867,Commercial,South,Negotiation,3715,15,17,High,High,4
+COM-0868,Commercial Property 868,Commercial,North,Closed Won,2899,17,14,High,None,5
+COM-0869,Commercial Property 869,Commercial,West,Lead,3536,20,14,High,High,3
+COM-0870,Commercial Property 870,Commercial,North,Closed Won,1855,10,19,Medium,Moderate,2
+COM-0871,Commercial Property 871,Commercial,North,Qualified,3177,19,19,Medium,Moderate,4
+COM-0872,Commercial Property 872,Commercial,East,Closed Lost,1453,12,27,Low,Moderate,3
+COM-0873,Commercial Property 873,Commercial,East,Closed Won,2861,4,26,Low,High,1
+COM-0874,Commercial Property 874,Commercial,South,Qualified,1678,3,25,High,Moderate,5
+COM-0875,Commercial Property 875,Commercial,North,Lead,3570,15,16,Medium,None,2
+COM-0876,Commercial Property 876,Commercial,West,Negotiation,3430,9,21,Medium,Moderate,4
+COM-0877,Commercial Property 877,Commercial,North,Lead,4622,17,29,High,Moderate,1
+COM-0878,Commercial Property 878,Commercial,East,Closed Lost,2068,19,12,Low,High,3
+COM-0879,Commercial Property 879,Commercial,East,Closed Lost,720,12,20,Low,None,1
+COM-0880,Commercial Property 880,Commercial,West,Negotiation,1791,16,13,Medium,Moderate,4
+COM-0881,Commercial Property 881,Commercial,South,Qualified,3240,15,7,Medium,None,3
+COM-0882,Commercial Property 882,Commercial,South,Closed Lost,4345,3,9,Medium,None,5
+COM-0883,Commercial Property 883,Commercial,East,Closed Lost,2384,17,12,High,Moderate,1
+COM-0884,Commercial Property 884,Commercial,South,Qualified,4370,9,27,High,None,1
+COM-0885,Commercial Property 885,Commercial,East,Closed Lost,2053,8,19,Medium,Moderate,5
+COM-0886,Commercial Property 886,Commercial,East,Closed Lost,2308,10,15,Low,High,1
+COM-0887,Commercial Property 887,Commercial,South,Negotiation,2959,11,15,Medium,Moderate,4
+COM-0888,Commercial Property 888,Commercial,South,Lead,4410,5,17,Medium,Moderate,4
+COM-0889,Commercial Property 889,Commercial,South,Closed Won,4488,15,9,Low,Moderate,1
+COM-0890,Commercial Property 890,Commercial,South,Closed Won,2524,17,17,High,None,5
+COM-0891,Commercial Property 891,Commercial,East,Proposal,1048,17,22,Low,High,5
+COM-0892,Commercial Property 892,Commercial,South,Proposal,4627,11,5,Medium,None,1
+COM-0893,Commercial Property 893,Commercial,West,Closed Won,2750,14,25,Low,Moderate,1
+COM-0894,Commercial Property 894,Commercial,East,Proposal,4640,15,28,High,High,1
+COM-0895,Commercial Property 895,Commercial,North,Negotiation,2827,7,10,High,Moderate,3
+COM-0896,Commercial Property 896,Commercial,East,Proposal,4756,7,19,High,None,3
+COM-0897,Commercial Property 897,Commercial,West,Closed Lost,2571,20,13,High,High,3
+COM-0898,Commercial Property 898,Commercial,West,Lead,2203,8,12,Medium,Moderate,2
+COM-0899,Commercial Property 899,Commercial,East,Qualified,4495,3,7,Medium,High,5
+COM-0900,Commercial Property 900,Commercial,North,Closed Lost,508,9,30,Low,High,3
+COM-0901,Commercial Property 901,Commercial,East,Negotiation,1351,12,16,High,None,5
+COM-0902,Commercial Property 902,Commercial,East,Proposal,4605,4,13,Low,Moderate,3
+COM-0903,Commercial Property 903,Commercial,West,Lead,3053,16,11,Medium,None,2
+COM-0904,Commercial Property 904,Commercial,East,Lead,4950,19,30,Medium,None,2
+COM-0905,Commercial Property 905,Commercial,South,Closed Won,3333,19,25,Medium,High,2
+COM-0906,Commercial Property 906,Commercial,East,Closed Won,1361,5,26,Medium,High,1
+COM-0907,Commercial Property 907,Commercial,West,Lead,3327,6,29,High,Moderate,2
+COM-0908,Commercial Property 908,Commercial,North,Negotiation,4868,18,6,Medium,Moderate,5
+COM-0909,Commercial Property 909,Commercial,East,Lead,4866,3,17,Medium,Moderate,2
+COM-0910,Commercial Property 910,Commercial,East,Negotiation,1569,10,5,Low,High,1
+COM-0911,Commercial Property 911,Commercial,North,Negotiation,2615,3,29,Low,High,3
+COM-0912,Commercial Property 912,Commercial,North,Closed Won,2865,14,23,Low,None,4
+COM-0913,Commercial Property 913,Commercial,East,Qualified,2611,19,21,Medium,High,4
+COM-0914,Commercial Property 914,Commercial,South,Closed Lost,2011,10,16,Medium,High,5
+COM-0915,Commercial Property 915,Commercial,West,Lead,502,13,8,Medium,High,5
+COM-0916,Commercial Property 916,Commercial,West,Lead,3163,11,25,Low,None,1
+COM-0917,Commercial Property 917,Commercial,East,Negotiation,1499,14,30,Medium,High,3
+COM-0918,Commercial Property 918,Commercial,South,Negotiation,2471,15,7,Medium,None,2
+COM-0919,Commercial Property 919,Commercial,East,Qualified,1513,10,11,High,Moderate,4
+COM-0920,Commercial Property 920,Commercial,North,Negotiation,859,10,23,Medium,High,1
+COM-0921,Commercial Property 921,Commercial,West,Proposal,4267,16,30,Medium,High,5
+COM-0922,Commercial Property 922,Commercial,South,Negotiation,4017,5,5,High,High,2
+COM-0923,Commercial Property 923,Commercial,South,Qualified,2837,8,7,High,High,2
+COM-0924,Commercial Property 924,Commercial,North,Proposal,3127,4,14,High,Moderate,4
+COM-0925,Commercial Property 925,Commercial,East,Proposal,3153,17,11,High,High,4
+COM-0926,Commercial Property 926,Commercial,South,Qualified,1728,19,26,Low,High,1
+COM-0927,Commercial Property 927,Commercial,North,Proposal,3357,7,16,Low,High,2
+COM-0928,Commercial Property 928,Commercial,North,Closed Won,4547,13,18,Low,High,5
+COM-0929,Commercial Property 929,Commercial,North,Closed Won,3552,10,18,Medium,Moderate,4
+COM-0930,Commercial Property 930,Commercial,South,Closed Lost,2258,16,6,Medium,Moderate,4
+COM-0931,Commercial Property 931,Commercial,West,Lead,4342,20,24,Low,High,5
+COM-0932,Commercial Property 932,Commercial,East,Lead,4548,13,8,Low,High,3
+COM-0933,Commercial Property 933,Commercial,West,Closed Won,1253,17,29,Medium,None,2
+COM-0934,Commercial Property 934,Commercial,North,Proposal,4848,16,26,Medium,Moderate,3
+COM-0935,Commercial Property 935,Commercial,South,Closed Lost,1145,13,8,Medium,High,4
+COM-0936,Commercial Property 936,Commercial,North,Closed Lost,2553,19,24,Medium,High,3
+COM-0937,Commercial Property 937,Commercial,East,Closed Won,4485,19,26,Low,High,4
+COM-0938,Commercial Property 938,Commercial,South,Negotiation,4305,16,20,Medium,High,4
+COM-0939,Commercial Property 939,Commercial,South,Closed Lost,1313,18,25,Medium,None,3
+COM-0940,Commercial Property 940,Commercial,West,Closed Lost,4654,3,12,Medium,None,1
+COM-0941,Commercial Property 941,Commercial,West,Proposal,671,14,9,Low,Moderate,5
+COM-0942,Commercial Property 942,Commercial,North,Lead,2875,3,29,Low,None,2
+COM-0943,Commercial Property 943,Commercial,West,Lead,1972,5,30,Low,Moderate,4
+COM-0944,Commercial Property 944,Commercial,South,Qualified,1988,9,13,Low,None,4
+COM-0945,Commercial Property 945,Commercial,North,Lead,4468,15,28,High,High,2
+COM-0946,Commercial Property 946,Commercial,West,Qualified,714,3,30,Low,Moderate,2
+COM-0947,Commercial Property 947,Commercial,East,Qualified,3803,3,24,Low,High,2
+COM-0948,Commercial Property 948,Commercial,South,Negotiation,2255,11,23,High,None,2
+COM-0949,Commercial Property 949,Commercial,West,Negotiation,2197,9,24,Medium,None,1
+COM-0950,Commercial Property 950,Commercial,East,Closed Lost,3222,12,28,High,None,1
+COM-0951,Commercial Property 951,Commercial,West,Qualified,1506,3,7,Low,None,1
+COM-0952,Commercial Property 952,Commercial,North,Negotiation,1412,14,26,High,None,2
+COM-0953,Commercial Property 953,Commercial,North,Lead,1848,12,23,Low,Moderate,3
+COM-0954,Commercial Property 954,Commercial,East,Negotiation,554,12,13,High,Moderate,1
+COM-0955,Commercial Property 955,Commercial,East,Qualified,2359,10,26,High,None,4
+COM-0956,Commercial Property 956,Commercial,South,Closed Lost,2592,13,11,Medium,High,3
+COM-0957,Commercial Property 957,Commercial,West,Lead,1463,12,29,High,None,5
+COM-0958,Commercial Property 958,Commercial,South,Closed Won,2239,10,11,Low,None,4
+COM-0959,Commercial Property 959,Commercial,East,Proposal,3054,4,29,Low,None,1
+COM-0960,Commercial Property 960,Commercial,West,Proposal,2400,5,6,Medium,High,5
+COM-0961,Commercial Property 961,Commercial,West,Closed Won,4022,13,12,Low,Moderate,4
+COM-0962,Commercial Property 962,Commercial,South,Closed Lost,883,18,18,High,Moderate,1
+COM-0963,Commercial Property 963,Commercial,West,Lead,2694,18,29,Low,None,2
+COM-0964,Commercial Property 964,Commercial,North,Closed Won,2210,14,26,Low,None,3
+COM-0965,Commercial Property 965,Commercial,East,Negotiation,2946,3,10,Medium,High,1
+COM-0966,Commercial Property 966,Commercial,North,Lead,3206,7,17,Low,Moderate,3
+COM-0967,Commercial Property 967,Commercial,South,Closed Lost,4662,13,9,Medium,High,2
+COM-0968,Commercial Property 968,Commercial,North,Closed Lost,1950,19,8,Medium,High,5
+COM-0969,Commercial Property 969,Commercial,North,Closed Lost,3693,11,7,Medium,Moderate,4
+COM-0970,Commercial Property 970,Commercial,North,Qualified,4252,11,15,High,None,3
+COM-0971,Commercial Property 971,Commercial,West,Lead,4452,14,22,Low,High,1
+COM-0972,Commercial Property 972,Commercial,West,Proposal,4137,15,17,Medium,High,3
+COM-0973,Commercial Property 973,Commercial,West,Lead,4962,20,7,High,High,2
+COM-0974,Commercial Property 974,Commercial,West,Qualified,977,4,9,High,None,1
+COM-0975,Commercial Property 975,Commercial,West,Lead,3496,18,30,Medium,None,5
+COM-0976,Commercial Property 976,Commercial,South,Proposal,1348,13,30,Medium,High,2
+COM-0977,Commercial Property 977,Commercial,South,Proposal,2865,7,23,High,Moderate,5
+COM-0978,Commercial Property 978,Commercial,South,Negotiation,1449,14,20,Low,None,4
+COM-0979,Commercial Property 979,Commercial,South,Closed Lost,4972,20,21,High,High,5
+COM-0980,Commercial Property 980,Commercial,North,Lead,737,11,29,High,None,3
+COM-0981,Commercial Property 981,Commercial,South,Lead,1023,11,24,Medium,Moderate,4
+COM-0982,Commercial Property 982,Commercial,West,Negotiation,1916,6,9,Medium,High,2
+COM-0983,Commercial Property 983,Commercial,North,Closed Won,1468,5,28,Medium,Moderate,4
+COM-0984,Commercial Property 984,Commercial,South,Negotiation,3193,15,15,Low,High,3
+COM-0985,Commercial Property 985,Commercial,East,Closed Lost,2210,5,27,Low,Moderate,1
+COM-0986,Commercial Property 986,Commercial,South,Closed Lost,2097,16,12,Low,None,4
+COM-0987,Commercial Property 987,Commercial,North,Negotiation,4609,15,14,High,None,5
+COM-0988,Commercial Property 988,Commercial,South,Negotiation,2473,6,17,Low,None,3
+COM-0989,Commercial Property 989,Commercial,South,Negotiation,3096,5,12,Low,None,1
+COM-0990,Commercial Property 990,Commercial,South,Proposal,4000,7,10,Medium,Moderate,5
+COM-0991,Commercial Property 991,Commercial,West,Negotiation,4903,5,6,Medium,Moderate,2
+COM-0992,Commercial Property 992,Commercial,East,Negotiation,4109,16,13,Medium,None,3
+COM-0993,Commercial Property 993,Commercial,South,Proposal,3216,17,13,High,High,4
+COM-0994,Commercial Property 994,Commercial,West,Closed Won,2721,9,24,High,None,3
+COM-0995,Commercial Property 995,Commercial,North,Proposal,2846,19,24,Low,None,2
+COM-0996,Commercial Property 996,Commercial,South,Proposal,2495,5,18,Low,Moderate,1
+COM-0997,Commercial Property 997,Commercial,South,Proposal,2186,6,12,Medium,High,5
+COM-0998,Commercial Property 998,Commercial,South,Negotiation,4702,14,22,Medium,None,3
+COM-0999,Commercial Property 999,Commercial,North,Lead,2177,3,15,High,High,2
+COM-1000,Commercial Property 1000,Commercial,West,Proposal,3430,8,10,High,None,4

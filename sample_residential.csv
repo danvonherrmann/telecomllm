@@ -1,0 +1,1001 @@
+PropertyID,Name,Segment,Region,Stage,MonthlyRevenue,BuildTimeWeeks,ProjectedPenetrationTimeWeeks,ChurnRisk,UpgradePotential,ContactsAvailable
+RES-0001,Residential Property 1,Residential,South,Closed Won,4165,17,18,Medium,Moderate,2
+RES-0002,Residential Property 2,Residential,East,Lead,3994,13,21,Medium,None,5
+RES-0003,Residential Property 3,Residential,West,Negotiation,1402,7,21,Medium,High,3
+RES-0004,Residential Property 4,Residential,South,Negotiation,4775,5,23,Low,None,3
+RES-0005,Residential Property 5,Residential,East,Negotiation,4316,19,15,Medium,Moderate,3
+RES-0006,Residential Property 6,Residential,North,Qualified,3159,4,8,Low,None,3
+RES-0007,Residential Property 7,Residential,East,Closed Lost,1798,11,28,High,High,5
+RES-0008,Residential Property 8,Residential,West,Proposal,2988,4,7,High,High,3
+RES-0009,Residential Property 9,Residential,South,Lead,3619,20,30,Low,Moderate,1
+RES-0010,Residential Property 10,Residential,East,Lead,4120,8,18,Low,High,3
+RES-0011,Residential Property 11,Residential,East,Negotiation,4618,16,11,Low,High,1
+RES-0012,Residential Property 12,Residential,South,Lead,3665,12,22,Medium,None,1
+RES-0013,Residential Property 13,Residential,North,Closed Lost,4369,19,27,Medium,High,2
+RES-0014,Residential Property 14,Residential,West,Closed Lost,2871,8,17,Medium,None,5
+RES-0015,Residential Property 15,Residential,South,Closed Lost,1834,4,17,High,Moderate,1
+RES-0016,Residential Property 16,Residential,West,Proposal,4278,5,6,Low,Moderate,1
+RES-0017,Residential Property 17,Residential,South,Qualified,1300,13,20,Low,None,5
+RES-0018,Residential Property 18,Residential,West,Lead,3158,12,22,Low,None,4
+RES-0019,Residential Property 19,Residential,East,Closed Won,1638,20,14,Low,Moderate,5
+RES-0020,Residential Property 20,Residential,East,Closed Won,3679,15,25,Low,None,2
+RES-0021,Residential Property 21,Residential,North,Closed Won,707,10,5,High,High,2
+RES-0022,Residential Property 22,Residential,West,Proposal,4450,19,9,Low,Moderate,4
+RES-0023,Residential Property 23,Residential,North,Qualified,1437,20,8,Low,Moderate,1
+RES-0024,Residential Property 24,Residential,East,Lead,912,17,18,Low,Moderate,5
+RES-0025,Residential Property 25,Residential,South,Qualified,1789,9,22,Low,Moderate,1
+RES-0026,Residential Property 26,Residential,West,Closed Won,4215,6,22,High,High,2
+RES-0027,Residential Property 27,Residential,East,Closed Lost,1653,17,27,Low,None,4
+RES-0028,Residential Property 28,Residential,North,Lead,4334,10,5,High,None,2
+RES-0029,Residential Property 29,Residential,North,Closed Lost,779,14,25,Low,High,4
+RES-0030,Residential Property 30,Residential,South,Closed Won,4314,19,6,High,Moderate,5
+RES-0031,Residential Property 31,Residential,East,Negotiation,863,6,17,Medium,None,3
+RES-0032,Residential Property 32,Residential,East,Closed Lost,2259,15,22,Medium,None,1
+RES-0033,Residential Property 33,Residential,North,Closed Lost,4252,19,11,Medium,Moderate,5
+RES-0034,Residential Property 34,Residential,West,Closed Won,4622,15,15,Low,High,3
+RES-0035,Residential Property 35,Residential,North,Lead,3962,13,16,Low,Moderate,4
+RES-0036,Residential Property 36,Residential,North,Qualified,3193,7,24,Medium,Moderate,3
+RES-0037,Residential Property 37,Residential,South,Proposal,828,6,23,Medium,High,3
+RES-0038,Residential Property 38,Residential,North,Proposal,2872,5,25,Medium,Moderate,2
+RES-0039,Residential Property 39,Residential,North,Qualified,3352,18,18,Medium,None,5
+RES-0040,Residential Property 40,Residential,North,Closed Won,3000,3,5,Low,Moderate,5
+RES-0041,Residential Property 41,Residential,South,Closed Won,3056,17,29,Medium,Moderate,2
+RES-0042,Residential Property 42,Residential,North,Proposal,3398,3,5,Low,None,5
+RES-0043,Residential Property 43,Residential,South,Qualified,2478,10,6,High,Moderate,5
+RES-0044,Residential Property 44,Residential,East,Negotiation,873,5,15,Medium,None,1
+RES-0045,Residential Property 45,Residential,East,Closed Lost,3782,6,14,Medium,None,5
+RES-0046,Residential Property 46,Residential,South,Closed Won,1144,13,15,Medium,Moderate,5
+RES-0047,Residential Property 47,Residential,West,Proposal,4992,18,27,Medium,High,5
+RES-0048,Residential Property 48,Residential,South,Closed Won,4302,15,5,High,High,5
+RES-0049,Residential Property 49,Residential,West,Closed Won,1309,6,12,Low,Moderate,2
+RES-0050,Residential Property 50,Residential,East,Proposal,1348,5,30,Low,None,3
+RES-0051,Residential Property 51,Residential,North,Negotiation,2941,19,5,Medium,Moderate,3
+RES-0052,Residential Property 52,Residential,North,Proposal,4431,8,25,Low,High,3
+RES-0053,Residential Property 53,Residential,East,Closed Lost,2100,20,29,High,None,4
+RES-0054,Residential Property 54,Residential,South,Proposal,3657,16,25,High,Moderate,1
+RES-0055,Residential Property 55,Residential,West,Qualified,4879,11,27,Low,High,2
+RES-0056,Residential Property 56,Residential,East,Closed Won,1900,17,26,High,None,5
+RES-0057,Residential Property 57,Residential,South,Closed Won,2529,13,24,Low,High,4
+RES-0058,Residential Property 58,Residential,East,Lead,3407,12,21,Low,Moderate,1
+RES-0059,Residential Property 59,Residential,South,Proposal,3719,8,26,Low,High,3
+RES-0060,Residential Property 60,Residential,South,Proposal,3053,18,26,Low,None,5
+RES-0061,Residential Property 61,Residential,North,Closed Won,2694,7,13,Medium,None,1
+RES-0062,Residential Property 62,Residential,East,Lead,1007,5,30,Medium,Moderate,2
+RES-0063,Residential Property 63,Residential,North,Proposal,967,20,18,High,None,5
+RES-0064,Residential Property 64,Residential,East,Qualified,3487,20,12,Medium,Moderate,3
+RES-0065,Residential Property 65,Residential,North,Closed Won,1377,16,15,Medium,Moderate,4
+RES-0066,Residential Property 66,Residential,West,Negotiation,2763,10,7,Low,High,1
+RES-0067,Residential Property 67,Residential,East,Negotiation,3237,5,9,Low,Moderate,3
+RES-0068,Residential Property 68,Residential,South,Qualified,3213,7,15,High,High,2
+RES-0069,Residential Property 69,Residential,West,Closed Lost,2390,16,19,High,Moderate,5
+RES-0070,Residential Property 70,Residential,West,Closed Won,2107,19,5,High,None,3
+RES-0071,Residential Property 71,Residential,East,Lead,3381,15,10,High,High,3
+RES-0072,Residential Property 72,Residential,South,Proposal,2611,19,23,Medium,High,5
+RES-0073,Residential Property 73,Residential,South,Closed Lost,3670,7,12,Medium,Moderate,4
+RES-0074,Residential Property 74,Residential,West,Qualified,1764,19,25,Medium,None,2
+RES-0075,Residential Property 75,Residential,South,Qualified,605,19,19,Low,None,1
+RES-0076,Residential Property 76,Residential,East,Lead,4381,13,25,High,High,1
+RES-0077,Residential Property 77,Residential,East,Proposal,2476,8,29,High,Moderate,5
+RES-0078,Residential Property 78,Residential,North,Negotiation,3279,16,6,High,None,3
+RES-0079,Residential Property 79,Residential,South,Closed Lost,4534,3,10,High,None,4
+RES-0080,Residential Property 80,Residential,South,Closed Won,1452,14,18,High,None,1
+RES-0081,Residential Property 81,Residential,East,Negotiation,767,13,24,Low,None,5
+RES-0082,Residential Property 82,Residential,South,Lead,3923,8,16,High,None,5
+RES-0083,Residential Property 83,Residential,East,Closed Lost,1434,20,24,Medium,None,4
+RES-0084,Residential Property 84,Residential,North,Closed Won,3225,4,13,Low,High,5
+RES-0085,Residential Property 85,Residential,East,Lead,3984,17,27,Medium,None,1
+RES-0086,Residential Property 86,Residential,South,Lead,3942,10,9,Low,None,2
+RES-0087,Residential Property 87,Residential,North,Negotiation,3647,10,24,Low,Moderate,1
+RES-0088,Residential Property 88,Residential,West,Lead,4901,11,18,Medium,None,3
+RES-0089,Residential Property 89,Residential,South,Qualified,2263,14,9,Low,None,4
+RES-0090,Residential Property 90,Residential,West,Negotiation,1687,8,13,Low,Moderate,2
+RES-0091,Residential Property 91,Residential,East,Proposal,1898,20,29,Medium,High,3
+RES-0092,Residential Property 92,Residential,North,Negotiation,3030,14,14,Low,None,5
+RES-0093,Residential Property 93,Residential,West,Proposal,3955,5,13,High,Moderate,2
+RES-0094,Residential Property 94,Residential,South,Closed Won,3501,6,13,Low,High,4
+RES-0095,Residential Property 95,Residential,South,Closed Won,1550,12,28,Low,High,5
+RES-0096,Residential Property 96,Residential,North,Qualified,1742,10,21,Low,None,2
+RES-0097,Residential Property 97,Residential,East,Qualified,2571,18,30,Medium,High,3
+RES-0098,Residential Property 98,Residential,North,Qualified,4368,12,5,Medium,None,4
+RES-0099,Residential Property 99,Residential,South,Closed Lost,1453,17,24,Low,None,5
+RES-0100,Residential Property 100,Residential,South,Closed Won,1505,13,6,Low,Moderate,1
+RES-0101,Residential Property 101,Residential,West,Closed Won,3574,5,24,High,Moderate,5
+RES-0102,Residential Property 102,Residential,East,Negotiation,3191,15,8,Low,None,4
+RES-0103,Residential Property 103,Residential,South,Closed Won,1172,20,8,High,None,1
+RES-0104,Residential Property 104,Residential,East,Negotiation,1861,9,28,Medium,None,4
+RES-0105,Residential Property 105,Residential,West,Closed Won,4574,4,17,High,Moderate,1
+RES-0106,Residential Property 106,Residential,South,Lead,4024,15,16,Low,High,4
+RES-0107,Residential Property 107,Residential,North,Closed Lost,1607,11,18,High,None,3
+RES-0108,Residential Property 108,Residential,West,Proposal,1394,11,19,Medium,None,4
+RES-0109,Residential Property 109,Residential,North,Closed Won,516,14,8,Medium,High,3
+RES-0110,Residential Property 110,Residential,East,Closed Won,4501,20,26,High,High,4
+RES-0111,Residential Property 111,Residential,West,Qualified,3731,9,13,Medium,None,1
+RES-0112,Residential Property 112,Residential,North,Lead,4476,4,24,High,High,3
+RES-0113,Residential Property 113,Residential,South,Lead,3377,8,27,High,Moderate,4
+RES-0114,Residential Property 114,Residential,West,Lead,3539,20,25,Low,None,3
+RES-0115,Residential Property 115,Residential,North,Closed Won,4631,18,26,High,High,2
+RES-0116,Residential Property 116,Residential,North,Lead,3907,10,18,Medium,Moderate,3
+RES-0117,Residential Property 117,Residential,North,Closed Won,1950,17,11,Low,High,1
+RES-0118,Residential Property 118,Residential,West,Closed Won,1864,14,24,Low,High,1
+RES-0119,Residential Property 119,Residential,North,Negotiation,4385,6,11,Low,None,3
+RES-0120,Residential Property 120,Residential,North,Qualified,4095,6,26,Low,Moderate,4
+RES-0121,Residential Property 121,Residential,North,Proposal,2407,15,17,Low,High,3
+RES-0122,Residential Property 122,Residential,North,Negotiation,2076,4,17,Low,High,4
+RES-0123,Residential Property 123,Residential,South,Qualified,1733,20,19,Low,None,2
+RES-0124,Residential Property 124,Residential,East,Closed Won,2217,18,29,Medium,Moderate,1
+RES-0125,Residential Property 125,Residential,West,Negotiation,1217,5,12,High,None,4
+RES-0126,Residential Property 126,Residential,North,Qualified,1044,10,13,High,High,4
+RES-0127,Residential Property 127,Residential,North,Closed Lost,2978,15,24,Medium,None,2
+RES-0128,Residential Property 128,Residential,North,Negotiation,2148,11,20,Medium,Moderate,5
+RES-0129,Residential Property 129,Residential,West,Qualified,3763,14,16,Medium,High,1
+RES-0130,Residential Property 130,Residential,South,Proposal,4950,20,7,High,Moderate,3
+RES-0131,Residential Property 131,Residential,South,Closed Won,3888,15,27,Medium,High,5
+RES-0132,Residential Property 132,Residential,West,Proposal,4328,9,13,Low,High,3
+RES-0133,Residential Property 133,Residential,North,Lead,4712,11,13,Medium,Moderate,1
+RES-0134,Residential Property 134,Residential,North,Closed Lost,721,6,30,High,High,5
+RES-0135,Residential Property 135,Residential,South,Negotiation,4556,19,23,Medium,None,3
+RES-0136,Residential Property 136,Residential,West,Closed Won,962,4,13,High,Moderate,4
+RES-0137,Residential Property 137,Residential,West,Lead,1191,15,13,Low,Moderate,1
+RES-0138,Residential Property 138,Residential,North,Closed Lost,1836,8,19,Low,Moderate,3
+RES-0139,Residential Property 139,Residential,East,Qualified,3263,4,21,Low,None,2
+RES-0140,Residential Property 140,Residential,East,Lead,3800,6,7,High,Moderate,5
+RES-0141,Residential Property 141,Residential,South,Negotiation,1166,11,20,High,None,5
+RES-0142,Residential Property 142,Residential,East,Qualified,4415,4,9,Low,High,2
+RES-0143,Residential Property 143,Residential,North,Negotiation,3499,14,16,Low,High,4
+RES-0144,Residential Property 144,Residential,East,Negotiation,4902,9,14,Low,High,2
+RES-0145,Residential Property 145,Residential,East,Proposal,1329,20,7,Low,None,5
+RES-0146,Residential Property 146,Residential,North,Qualified,4831,7,5,High,Moderate,3
+RES-0147,Residential Property 147,Residential,North,Proposal,1251,13,29,Low,Moderate,3
+RES-0148,Residential Property 148,Residential,South,Closed Won,2172,18,22,High,None,3
+RES-0149,Residential Property 149,Residential,North,Qualified,3103,19,23,Low,Moderate,3
+RES-0150,Residential Property 150,Residential,South,Closed Won,1620,9,26,Low,None,1
+RES-0151,Residential Property 151,Residential,West,Closed Lost,2278,13,14,Medium,None,1
+RES-0152,Residential Property 152,Residential,East,Qualified,4211,9,18,Low,None,4
+RES-0153,Residential Property 153,Residential,West,Closed Won,2252,10,19,High,Moderate,4
+RES-0154,Residential Property 154,Residential,North,Qualified,3157,14,8,High,High,4
+RES-0155,Residential Property 155,Residential,North,Proposal,3397,4,27,High,High,5
+RES-0156,Residential Property 156,Residential,North,Lead,2305,10,8,Medium,None,5
+RES-0157,Residential Property 157,Residential,North,Closed Won,4636,17,13,Medium,Moderate,4
+RES-0158,Residential Property 158,Residential,South,Negotiation,1626,6,5,High,None,3
+RES-0159,Residential Property 159,Residential,South,Qualified,2376,7,27,Medium,Moderate,5
+RES-0160,Residential Property 160,Residential,South,Negotiation,4485,15,20,High,High,2
+RES-0161,Residential Property 161,Residential,East,Qualified,3142,10,6,Medium,High,3
+RES-0162,Residential Property 162,Residential,West,Proposal,2495,13,25,Medium,Moderate,4
+RES-0163,Residential Property 163,Residential,East,Qualified,2594,15,14,High,Moderate,5
+RES-0164,Residential Property 164,Residential,East,Lead,2887,7,29,High,None,2
+RES-0165,Residential Property 165,Residential,South,Closed Won,4961,5,22,Low,None,1
+RES-0166,Residential Property 166,Residential,South,Qualified,1685,14,23,Medium,None,1
+RES-0167,Residential Property 167,Residential,South,Qualified,2046,7,22,High,None,2
+RES-0168,Residential Property 168,Residential,North,Qualified,4604,13,22,Medium,Moderate,5
+RES-0169,Residential Property 169,Residential,South,Closed Won,2378,20,5,Medium,Moderate,2
+RES-0170,Residential Property 170,Residential,East,Qualified,1041,9,21,Low,Moderate,5
+RES-0171,Residential Property 171,Residential,East,Proposal,1991,5,8,Medium,None,3
+RES-0172,Residential Property 172,Residential,East,Negotiation,2785,6,6,High,Moderate,3
+RES-0173,Residential Property 173,Residential,South,Closed Won,3669,17,14,Medium,None,3
+RES-0174,Residential Property 174,Residential,North,Negotiation,3369,9,9,Low,High,3
+RES-0175,Residential Property 175,Residential,South,Closed Lost,4699,11,16,Medium,Moderate,5
+RES-0176,Residential Property 176,Residential,South,Lead,695,14,30,Low,None,5
+RES-0177,Residential Property 177,Residential,East,Lead,2162,7,12,Medium,Moderate,3
+RES-0178,Residential Property 178,Residential,East,Lead,3963,17,16,Low,High,4
+RES-0179,Residential Property 179,Residential,East,Closed Lost,1548,13,6,Low,High,3
+RES-0180,Residential Property 180,Residential,East,Proposal,4281,4,14,Medium,Moderate,4
+RES-0181,Residential Property 181,Residential,North,Qualified,4622,14,7,Medium,High,1
+RES-0182,Residential Property 182,Residential,West,Closed Won,4861,17,25,Low,High,3
+RES-0183,Residential Property 183,Residential,South,Closed Won,4184,16,24,High,None,4
+RES-0184,Residential Property 184,Residential,South,Lead,2183,10,12,Low,High,1
+RES-0185,Residential Property 185,Residential,East,Lead,2917,9,6,High,High,3
+RES-0186,Residential Property 186,Residential,East,Closed Lost,2775,20,14,Low,Moderate,2
+RES-0187,Residential Property 187,Residential,South,Negotiation,4441,14,22,Low,High,5
+RES-0188,Residential Property 188,Residential,West,Closed Won,3567,19,22,High,Moderate,5
+RES-0189,Residential Property 189,Residential,East,Closed Won,658,17,29,Medium,High,2
+RES-0190,Residential Property 190,Residential,North,Lead,3187,11,12,Low,Moderate,3
+RES-0191,Residential Property 191,Residential,North,Lead,2052,18,8,High,High,3
+RES-0192,Residential Property 192,Residential,South,Lead,1558,14,9,Low,High,4
+RES-0193,Residential Property 193,Residential,West,Qualified,3368,15,16,Medium,None,4
+RES-0194,Residential Property 194,Residential,West,Negotiation,2749,6,25,Low,Moderate,2
+RES-0195,Residential Property 195,Residential,South,Closed Won,1819,8,16,Low,None,2
+RES-0196,Residential Property 196,Residential,East,Qualified,900,5,18,Medium,None,2
+RES-0197,Residential Property 197,Residential,North,Qualified,2146,10,29,Medium,Moderate,3
+RES-0198,Residential Property 198,Residential,South,Qualified,3340,3,15,Low,None,3
+RES-0199,Residential Property 199,Residential,South,Proposal,1922,20,15,Low,High,5
+RES-0200,Residential Property 200,Residential,North,Closed Won,588,13,23,Medium,Moderate,1
+RES-0201,Residential Property 201,Residential,North,Qualified,2616,3,9,Medium,Moderate,3
+RES-0202,Residential Property 202,Residential,South,Closed Lost,4636,8,28,Medium,High,2
+RES-0203,Residential Property 203,Residential,West,Proposal,1444,15,25,High,Moderate,3
+RES-0204,Residential Property 204,Residential,South,Negotiation,755,20,18,Low,None,3
+RES-0205,Residential Property 205,Residential,East,Negotiation,2298,5,13,High,None,1
+RES-0206,Residential Property 206,Residential,East,Proposal,2930,16,12,Medium,High,2
+RES-0207,Residential Property 207,Residential,North,Qualified,3546,8,25,Medium,None,1
+RES-0208,Residential Property 208,Residential,West,Proposal,4897,13,10,High,High,3
+RES-0209,Residential Property 209,Residential,West,Negotiation,4647,7,21,Low,Moderate,4
+RES-0210,Residential Property 210,Residential,West,Closed Lost,3873,3,11,Medium,High,1
+RES-0211,Residential Property 211,Residential,North,Proposal,3453,6,9,Medium,Moderate,2
+RES-0212,Residential Property 212,Residential,South,Closed Lost,4538,15,22,High,None,1
+RES-0213,Residential Property 213,Residential,East,Lead,2900,16,26,High,Moderate,5
+RES-0214,Residential Property 214,Residential,East,Proposal,4397,17,5,Low,Moderate,2
+RES-0215,Residential Property 215,Residential,South,Closed Won,4781,13,27,Medium,None,2
+RES-0216,Residential Property 216,Residential,South,Closed Won,4331,11,24,Low,Moderate,2
+RES-0217,Residential Property 217,Residential,North,Proposal,621,8,23,High,High,5
+RES-0218,Residential Property 218,Residential,East,Qualified,3900,12,16,Low,High,2
+RES-0219,Residential Property 219,Residential,South,Qualified,4407,14,8,High,High,2
+RES-0220,Residential Property 220,Residential,West,Qualified,1722,14,15,High,Moderate,3
+RES-0221,Residential Property 221,Residential,North,Closed Won,2919,11,23,Low,High,2
+RES-0222,Residential Property 222,Residential,North,Negotiation,3315,14,23,High,Moderate,1
+RES-0223,Residential Property 223,Residential,West,Closed Won,2897,6,27,High,High,4
+RES-0224,Residential Property 224,Residential,South,Qualified,1545,10,11,Low,High,1
+RES-0225,Residential Property 225,Residential,East,Closed Lost,1358,15,12,High,None,4
+RES-0226,Residential Property 226,Residential,East,Negotiation,1115,9,15,Low,High,1
+RES-0227,Residential Property 227,Residential,East,Closed Won,2121,10,23,Medium,None,2
+RES-0228,Residential Property 228,Residential,South,Proposal,1475,9,17,Low,None,5
+RES-0229,Residential Property 229,Residential,West,Closed Lost,715,10,14,Low,High,4
+RES-0230,Residential Property 230,Residential,West,Negotiation,4913,14,16,Low,High,1
+RES-0231,Residential Property 231,Residential,South,Closed Won,3508,16,12,Medium,None,3
+RES-0232,Residential Property 232,Residential,East,Proposal,4336,3,21,Low,Moderate,5
+RES-0233,Residential Property 233,Residential,North,Closed Won,1049,17,15,Low,Moderate,2
+RES-0234,Residential Property 234,Residential,East,Negotiation,4162,14,17,Low,Moderate,5
+RES-0235,Residential Property 235,Residential,East,Qualified,3490,7,5,Medium,Moderate,3
+RES-0236,Residential Property 236,Residential,North,Closed Won,2870,6,25,Low,Moderate,5
+RES-0237,Residential Property 237,Residential,North,Closed Won,2951,15,10,Low,Moderate,1
+RES-0238,Residential Property 238,Residential,South,Closed Won,607,20,29,Low,High,5
+RES-0239,Residential Property 239,Residential,South,Lead,1986,17,18,Low,High,5
+RES-0240,Residential Property 240,Residential,West,Lead,2852,16,10,Low,High,4
+RES-0241,Residential Property 241,Residential,West,Closed Lost,2978,3,17,Low,High,3
+RES-0242,Residential Property 242,Residential,South,Negotiation,2316,9,7,Low,Moderate,4
+RES-0243,Residential Property 243,Residential,West,Lead,1775,5,21,Medium,None,1
+RES-0244,Residential Property 244,Residential,South,Lead,697,8,16,Low,Moderate,5
+RES-0245,Residential Property 245,Residential,East,Lead,4659,19,22,Low,High,5
+RES-0246,Residential Property 246,Residential,East,Qualified,3489,18,14,High,None,1
+RES-0247,Residential Property 247,Residential,West,Proposal,3094,11,23,Medium,High,5
+RES-0248,Residential Property 248,Residential,East,Negotiation,3792,7,17,Low,Moderate,4
+RES-0249,Residential Property 249,Residential,South,Negotiation,4457,19,12,Medium,Moderate,2
+RES-0250,Residential Property 250,Residential,North,Qualified,869,3,7,High,Moderate,4
+RES-0251,Residential Property 251,Residential,East,Qualified,4713,18,10,Medium,Moderate,4
+RES-0252,Residential Property 252,Residential,East,Negotiation,1490,18,17,Low,High,3
+RES-0253,Residential Property 253,Residential,West,Negotiation,3046,16,12,High,Moderate,1
+RES-0254,Residential Property 254,Residential,West,Closed Won,3189,4,8,High,Moderate,1
+RES-0255,Residential Property 255,Residential,South,Closed Won,4443,6,5,High,None,3
+RES-0256,Residential Property 256,Residential,East,Closed Won,2640,7,18,High,Moderate,2
+RES-0257,Residential Property 257,Residential,East,Qualified,1285,8,25,Low,High,4
+RES-0258,Residential Property 258,Residential,West,Closed Lost,4912,4,8,High,High,2
+RES-0259,Residential Property 259,Residential,South,Proposal,2670,10,28,Low,Moderate,3
+RES-0260,Residential Property 260,Residential,North,Negotiation,3728,17,14,Medium,High,2
+RES-0261,Residential Property 261,Residential,East,Lead,2617,10,10,High,High,5
+RES-0262,Residential Property 262,Residential,East,Proposal,4071,14,27,Low,None,4
+RES-0263,Residential Property 263,Residential,West,Qualified,4409,8,19,Low,None,4
+RES-0264,Residential Property 264,Residential,North,Closed Won,1793,6,6,High,High,4
+RES-0265,Residential Property 265,Residential,South,Closed Lost,2749,8,24,Medium,High,5
+RES-0266,Residential Property 266,Residential,East,Qualified,1074,17,21,High,Moderate,4
+RES-0267,Residential Property 267,Residential,West,Closed Won,4625,8,30,High,Moderate,4
+RES-0268,Residential Property 268,Residential,West,Qualified,2562,4,12,Low,High,5
+RES-0269,Residential Property 269,Residential,South,Qualified,2165,14,16,Medium,Moderate,3
+RES-0270,Residential Property 270,Residential,East,Closed Lost,583,20,24,Low,None,3
+RES-0271,Residential Property 271,Residential,South,Qualified,4511,12,26,Medium,None,1
+RES-0272,Residential Property 272,Residential,South,Proposal,4757,16,10,High,Moderate,4
+RES-0273,Residential Property 273,Residential,East,Proposal,3412,17,19,Medium,Moderate,4
+RES-0274,Residential Property 274,Residential,West,Negotiation,3436,17,27,Medium,None,2
+RES-0275,Residential Property 275,Residential,East,Closed Won,2003,19,27,Low,Moderate,1
+RES-0276,Residential Property 276,Residential,East,Lead,990,11,15,Medium,High,5
+RES-0277,Residential Property 277,Residential,West,Proposal,1506,16,8,High,Moderate,4
+RES-0278,Residential Property 278,Residential,East,Closed Won,4681,10,15,Medium,High,5
+RES-0279,Residential Property 279,Residential,South,Qualified,2937,3,29,Low,Moderate,3
+RES-0280,Residential Property 280,Residential,South,Negotiation,3967,7,8,High,None,1
+RES-0281,Residential Property 281,Residential,North,Closed Won,972,4,22,High,Moderate,1
+RES-0282,Residential Property 282,Residential,South,Closed Lost,1131,3,17,High,Moderate,4
+RES-0283,Residential Property 283,Residential,West,Lead,4225,6,9,High,Moderate,2
+RES-0284,Residential Property 284,Residential,North,Proposal,2187,20,18,High,High,5
+RES-0285,Residential Property 285,Residential,East,Lead,1921,4,17,Low,High,5
+RES-0286,Residential Property 286,Residential,East,Lead,3215,3,18,Medium,High,5
+RES-0287,Residential Property 287,Residential,West,Closed Won,1518,4,22,Low,Moderate,3
+RES-0288,Residential Property 288,Residential,North,Qualified,3136,5,18,Medium,None,4
+RES-0289,Residential Property 289,Residential,North,Closed Lost,935,5,7,Medium,None,2
+RES-0290,Residential Property 290,Residential,North,Qualified,4392,17,20,Medium,None,4
+RES-0291,Residential Property 291,Residential,North,Closed Lost,2592,18,26,Medium,Moderate,1
+RES-0292,Residential Property 292,Residential,West,Negotiation,3924,4,28,Low,High,4
+RES-0293,Residential Property 293,Residential,North,Proposal,3424,13,8,Low,None,3
+RES-0294,Residential Property 294,Residential,West,Qualified,4632,20,25,High,High,1
+RES-0295,Residential Property 295,Residential,North,Negotiation,2635,13,5,High,Moderate,1
+RES-0296,Residential Property 296,Residential,North,Proposal,4447,8,20,Medium,None,3
+RES-0297,Residential Property 297,Residential,South,Qualified,832,6,17,Low,None,1
+RES-0298,Residential Property 298,Residential,East,Closed Won,1088,12,26,High,High,3
+RES-0299,Residential Property 299,Residential,West,Proposal,2524,7,29,Low,Moderate,5
+RES-0300,Residential Property 300,Residential,East,Closed Won,4517,9,19,High,High,1
+RES-0301,Residential Property 301,Residential,South,Closed Lost,3526,17,7,Low,None,1
+RES-0302,Residential Property 302,Residential,North,Closed Won,2450,19,23,Medium,High,5
+RES-0303,Residential Property 303,Residential,South,Qualified,4758,12,12,Medium,None,5
+RES-0304,Residential Property 304,Residential,East,Lead,2316,6,9,Medium,Moderate,4
+RES-0305,Residential Property 305,Residential,North,Qualified,2060,7,26,High,Moderate,4
+RES-0306,Residential Property 306,Residential,West,Lead,3821,8,19,Low,Moderate,3
+RES-0307,Residential Property 307,Residential,North,Negotiation,4235,18,11,Medium,None,5
+RES-0308,Residential Property 308,Residential,South,Closed Won,1146,18,12,Low,Moderate,4
+RES-0309,Residential Property 309,Residential,East,Closed Won,3464,18,5,High,High,5
+RES-0310,Residential Property 310,Residential,North,Proposal,1536,15,27,Low,High,5
+RES-0311,Residential Property 311,Residential,North,Proposal,2437,20,8,High,Moderate,5
+RES-0312,Residential Property 312,Residential,North,Lead,1442,5,25,Low,None,1
+RES-0313,Residential Property 313,Residential,West,Closed Won,2652,18,5,High,Moderate,4
+RES-0314,Residential Property 314,Residential,North,Proposal,4779,20,8,Medium,High,1
+RES-0315,Residential Property 315,Residential,West,Qualified,3645,20,28,Medium,Moderate,5
+RES-0316,Residential Property 316,Residential,East,Lead,4360,3,29,High,Moderate,3
+RES-0317,Residential Property 317,Residential,West,Negotiation,1600,19,20,Medium,None,4
+RES-0318,Residential Property 318,Residential,East,Lead,587,12,13,Medium,High,2
+RES-0319,Residential Property 319,Residential,West,Lead,4851,6,25,Low,None,4
+RES-0320,Residential Property 320,Residential,South,Proposal,2224,11,14,High,Moderate,2
+RES-0321,Residential Property 321,Residential,West,Closed Lost,2528,5,30,Low,High,4
+RES-0322,Residential Property 322,Residential,South,Closed Lost,3055,9,7,Medium,High,5
+RES-0323,Residential Property 323,Residential,North,Closed Lost,1339,4,8,Low,None,5
+RES-0324,Residential Property 324,Residential,South,Closed Won,4403,15,13,High,None,2
+RES-0325,Residential Property 325,Residential,South,Closed Lost,2270,14,7,High,Moderate,5
+RES-0326,Residential Property 326,Residential,North,Qualified,875,3,22,Low,High,4
+RES-0327,Residential Property 327,Residential,West,Lead,3980,5,18,High,None,2
+RES-0328,Residential Property 328,Residential,West,Proposal,2437,16,24,High,Moderate,4
+RES-0329,Residential Property 329,Residential,North,Closed Lost,3349,20,15,Medium,Moderate,4
+RES-0330,Residential Property 330,Residential,North,Closed Won,1521,17,19,High,High,3
+RES-0331,Residential Property 331,Residential,East,Closed Lost,2297,13,15,Medium,High,1
+RES-0332,Residential Property 332,Residential,South,Negotiation,3294,7,24,Low,None,5
+RES-0333,Residential Property 333,Residential,South,Proposal,1080,20,26,Medium,None,1
+RES-0334,Residential Property 334,Residential,East,Qualified,2070,17,5,Low,None,3
+RES-0335,Residential Property 335,Residential,North,Negotiation,3591,14,19,High,None,2
+RES-0336,Residential Property 336,Residential,East,Qualified,1924,8,28,Low,Moderate,1
+RES-0337,Residential Property 337,Residential,South,Proposal,1382,6,17,Low,Moderate,2
+RES-0338,Residential Property 338,Residential,East,Qualified,4990,9,29,High,None,2
+RES-0339,Residential Property 339,Residential,South,Negotiation,3446,8,13,Low,High,2
+RES-0340,Residential Property 340,Residential,West,Closed Won,4637,16,30,High,None,4
+RES-0341,Residential Property 341,Residential,West,Negotiation,3314,8,26,High,None,2
+RES-0342,Residential Property 342,Residential,East,Closed Won,3670,13,30,Low,None,2
+RES-0343,Residential Property 343,Residential,East,Proposal,4264,12,9,Medium,Moderate,3
+RES-0344,Residential Property 344,Residential,East,Qualified,1808,4,17,Medium,High,5
+RES-0345,Residential Property 345,Residential,North,Lead,4968,3,22,High,Moderate,4
+RES-0346,Residential Property 346,Residential,North,Qualified,3704,19,19,High,High,3
+RES-0347,Residential Property 347,Residential,East,Lead,2775,12,30,Low,High,2
+RES-0348,Residential Property 348,Residential,East,Lead,4167,8,23,Low,High,3
+RES-0349,Residential Property 349,Residential,North,Closed Lost,3539,15,29,Medium,High,3
+RES-0350,Residential Property 350,Residential,East,Proposal,2531,7,27,Medium,High,3
+RES-0351,Residential Property 351,Residential,North,Closed Lost,3751,8,13,Low,None,2
+RES-0352,Residential Property 352,Residential,East,Proposal,1589,17,16,High,High,3
+RES-0353,Residential Property 353,Residential,South,Proposal,1184,9,29,Medium,Moderate,1
+RES-0354,Residential Property 354,Residential,West,Closed Lost,4113,18,28,Medium,None,5
+RES-0355,Residential Property 355,Residential,East,Proposal,2511,20,6,High,None,1
+RES-0356,Residential Property 356,Residential,West,Lead,4151,6,22,Low,High,1
+RES-0357,Residential Property 357,Residential,North,Closed Lost,1404,19,8,High,Moderate,1
+RES-0358,Residential Property 358,Residential,East,Closed Lost,689,4,30,Low,High,2
+RES-0359,Residential Property 359,Residential,East,Lead,557,8,25,High,Moderate,4
+RES-0360,Residential Property 360,Residential,West,Negotiation,4914,6,15,High,High,2
+RES-0361,Residential Property 361,Residential,East,Lead,578,5,15,High,None,3
+RES-0362,Residential Property 362,Residential,East,Closed Won,2524,13,16,Medium,None,1
+RES-0363,Residential Property 363,Residential,East,Negotiation,692,17,13,High,Moderate,2
+RES-0364,Residential Property 364,Residential,South,Closed Lost,1880,18,6,Low,High,2
+RES-0365,Residential Property 365,Residential,West,Proposal,811,13,22,Medium,High,4
+RES-0366,Residential Property 366,Residential,South,Lead,1900,3,18,Low,Moderate,5
+RES-0367,Residential Property 367,Residential,North,Closed Won,1640,16,23,Medium,High,5
+RES-0368,Residential Property 368,Residential,West,Proposal,2961,17,15,High,None,3
+RES-0369,Residential Property 369,Residential,South,Proposal,2129,12,8,High,None,5
+RES-0370,Residential Property 370,Residential,West,Negotiation,1947,14,26,Medium,High,4
+RES-0371,Residential Property 371,Residential,South,Closed Won,1548,7,25,Low,High,5
+RES-0372,Residential Property 372,Residential,West,Lead,4356,5,17,Low,None,2
+RES-0373,Residential Property 373,Residential,North,Qualified,1187,15,13,Low,None,1
+RES-0374,Residential Property 374,Residential,North,Closed Lost,2026,15,19,High,High,4
+RES-0375,Residential Property 375,Residential,West,Closed Won,2210,6,19,Medium,High,5
+RES-0376,Residential Property 376,Residential,East,Proposal,3870,6,9,High,None,3
+RES-0377,Residential Property 377,Residential,South,Closed Won,3892,15,6,High,High,1
+RES-0378,Residential Property 378,Residential,East,Negotiation,1112,3,11,High,None,5
+RES-0379,Residential Property 379,Residential,South,Closed Won,1747,11,17,Low,None,5
+RES-0380,Residential Property 380,Residential,West,Lead,2654,7,27,Medium,High,1
+RES-0381,Residential Property 381,Residential,North,Negotiation,2721,13,24,High,None,4
+RES-0382,Residential Property 382,Residential,South,Negotiation,942,8,25,High,High,2
+RES-0383,Residential Property 383,Residential,East,Proposal,2593,16,15,Medium,High,5
+RES-0384,Residential Property 384,Residential,West,Closed Lost,3506,7,26,Medium,None,5
+RES-0385,Residential Property 385,Residential,North,Negotiation,3830,3,12,High,Moderate,1
+RES-0386,Residential Property 386,Residential,West,Closed Lost,3715,3,6,Medium,None,1
+RES-0387,Residential Property 387,Residential,North,Closed Won,3939,3,25,Medium,Moderate,2
+RES-0388,Residential Property 388,Residential,West,Negotiation,2964,19,17,High,Moderate,5
+RES-0389,Residential Property 389,Residential,South,Negotiation,1389,16,22,High,None,1
+RES-0390,Residential Property 390,Residential,North,Negotiation,3544,16,18,Medium,High,5
+RES-0391,Residential Property 391,Residential,East,Negotiation,3914,4,25,Medium,High,4
+RES-0392,Residential Property 392,Residential,South,Closed Won,2139,3,28,High,None,3
+RES-0393,Residential Property 393,Residential,South,Negotiation,3598,15,30,High,High,1
+RES-0394,Residential Property 394,Residential,South,Lead,1785,13,8,Low,None,3
+RES-0395,Residential Property 395,Residential,North,Closed Won,4391,7,22,Medium,Moderate,2
+RES-0396,Residential Property 396,Residential,North,Closed Won,1552,6,6,Low,None,5
+RES-0397,Residential Property 397,Residential,South,Closed Won,4233,8,5,Low,Moderate,1
+RES-0398,Residential Property 398,Residential,East,Lead,2553,11,20,Medium,High,5
+RES-0399,Residential Property 399,Residential,West,Qualified,3579,6,13,Low,Moderate,2
+RES-0400,Residential Property 400,Residential,North,Negotiation,3249,3,30,Low,None,3
+RES-0401,Residential Property 401,Residential,East,Lead,699,20,30,High,High,5
+RES-0402,Residential Property 402,Residential,East,Negotiation,4760,3,16,Low,High,5
+RES-0403,Residential Property 403,Residential,West,Closed Won,1889,19,13,Medium,High,1
+RES-0404,Residential Property 404,Residential,South,Negotiation,4987,10,5,Medium,High,3
+RES-0405,Residential Property 405,Residential,East,Qualified,945,13,13,Medium,High,5
+RES-0406,Residential Property 406,Residential,East,Proposal,2115,6,5,Medium,None,5
+RES-0407,Residential Property 407,Residential,East,Proposal,4203,7,7,Low,Moderate,4
+RES-0408,Residential Property 408,Residential,East,Proposal,3187,12,26,Low,High,2
+RES-0409,Residential Property 409,Residential,South,Negotiation,1223,11,14,High,Moderate,2
+RES-0410,Residential Property 410,Residential,West,Lead,3485,12,30,Low,None,2
+RES-0411,Residential Property 411,Residential,North,Closed Lost,2452,17,30,High,Moderate,2
+RES-0412,Residential Property 412,Residential,East,Negotiation,4801,8,9,Medium,None,4
+RES-0413,Residential Property 413,Residential,East,Lead,3615,6,23,High,None,4
+RES-0414,Residential Property 414,Residential,West,Closed Lost,4309,10,6,Low,None,5
+RES-0415,Residential Property 415,Residential,South,Qualified,1264,14,23,Low,High,4
+RES-0416,Residential Property 416,Residential,West,Negotiation,2836,6,24,Medium,None,4
+RES-0417,Residential Property 417,Residential,East,Proposal,1444,16,20,Low,Moderate,3
+RES-0418,Residential Property 418,Residential,South,Closed Lost,4038,18,10,High,None,2
+RES-0419,Residential Property 419,Residential,East,Qualified,2960,8,5,High,None,2
+RES-0420,Residential Property 420,Residential,North,Negotiation,2620,8,25,High,None,4
+RES-0421,Residential Property 421,Residential,North,Closed Lost,2530,3,30,Medium,None,1
+RES-0422,Residential Property 422,Residential,East,Lead,4474,11,24,High,Moderate,2
+RES-0423,Residential Property 423,Residential,South,Negotiation,759,20,20,High,High,3
+RES-0424,Residential Property 424,Residential,West,Negotiation,733,18,23,Low,Moderate,2
+RES-0425,Residential Property 425,Residential,North,Qualified,4648,9,17,Medium,High,1
+RES-0426,Residential Property 426,Residential,South,Qualified,3483,17,16,High,None,3
+RES-0427,Residential Property 427,Residential,South,Closed Lost,2927,19,20,Low,Moderate,5
+RES-0428,Residential Property 428,Residential,East,Lead,2942,4,5,Low,None,3
+RES-0429,Residential Property 429,Residential,North,Qualified,2969,20,27,High,None,2
+RES-0430,Residential Property 430,Residential,South,Lead,3742,6,19,High,Moderate,5
+RES-0431,Residential Property 431,Residential,East,Lead,3921,8,25,Low,Moderate,3
+RES-0432,Residential Property 432,Residential,South,Qualified,1392,14,11,Medium,High,5
+RES-0433,Residential Property 433,Residential,South,Closed Lost,3495,13,29,High,High,1
+RES-0434,Residential Property 434,Residential,East,Closed Won,3226,13,8,Low,None,5
+RES-0435,Residential Property 435,Residential,North,Closed Won,2433,13,25,Low,None,4
+RES-0436,Residential Property 436,Residential,North,Proposal,3651,19,8,Low,High,5
+RES-0437,Residential Property 437,Residential,West,Qualified,1695,12,5,High,High,3
+RES-0438,Residential Property 438,Residential,West,Negotiation,3693,15,20,High,None,4
+RES-0439,Residential Property 439,Residential,North,Lead,2219,17,7,Medium,None,5
+RES-0440,Residential Property 440,Residential,North,Qualified,3835,20,20,Low,High,3
+RES-0441,Residential Property 441,Residential,North,Lead,4945,5,13,Low,Moderate,4
+RES-0442,Residential Property 442,Residential,North,Qualified,1206,15,7,Medium,Moderate,4
+RES-0443,Residential Property 443,Residential,South,Negotiation,4253,10,15,High,High,2
+RES-0444,Residential Property 444,Residential,East,Proposal,4058,15,15,Medium,None,5
+RES-0445,Residential Property 445,Residential,South,Closed Lost,3061,7,24,High,Moderate,4
+RES-0446,Residential Property 446,Residential,North,Proposal,3146,17,28,Medium,None,1
+RES-0447,Residential Property 447,Residential,West,Closed Won,3161,8,16,Low,Moderate,3
+RES-0448,Residential Property 448,Residential,North,Negotiation,1602,18,10,High,High,5
+RES-0449,Residential Property 449,Residential,East,Proposal,647,4,17,Medium,None,3
+RES-0450,Residential Property 450,Residential,East,Closed Won,3982,8,9,Low,High,3
+RES-0451,Residential Property 451,Residential,East,Qualified,2956,8,21,Low,None,4
+RES-0452,Residential Property 452,Residential,North,Negotiation,1060,3,24,Medium,High,5
+RES-0453,Residential Property 453,Residential,North,Negotiation,2789,8,9,Low,Moderate,2
+RES-0454,Residential Property 454,Residential,East,Negotiation,4904,14,9,Low,None,5
+RES-0455,Residential Property 455,Residential,North,Qualified,1263,9,19,Low,Moderate,3
+RES-0456,Residential Property 456,Residential,South,Closed Won,4931,6,22,Medium,None,4
+RES-0457,Residential Property 457,Residential,West,Closed Won,2008,5,12,Low,None,5
+RES-0458,Residential Property 458,Residential,East,Lead,4832,7,11,Low,Moderate,3
+RES-0459,Residential Property 459,Residential,West,Closed Lost,787,5,27,Medium,Moderate,5
+RES-0460,Residential Property 460,Residential,South,Proposal,4359,17,5,Low,None,2
+RES-0461,Residential Property 461,Residential,North,Closed Lost,4459,16,5,Low,None,5
+RES-0462,Residential Property 462,Residential,North,Lead,2785,12,12,Medium,None,4
+RES-0463,Residential Property 463,Residential,South,Negotiation,4081,3,8,Low,High,3
+RES-0464,Residential Property 464,Residential,South,Proposal,2174,19,17,Low,None,4
+RES-0465,Residential Property 465,Residential,North,Lead,3712,19,14,High,Moderate,2
+RES-0466,Residential Property 466,Residential,South,Proposal,834,7,10,High,Moderate,2
+RES-0467,Residential Property 467,Residential,North,Qualified,3649,20,24,High,High,4
+RES-0468,Residential Property 468,Residential,South,Closed Won,1845,12,13,High,None,5
+RES-0469,Residential Property 469,Residential,East,Qualified,3899,20,22,Low,Moderate,4
+RES-0470,Residential Property 470,Residential,North,Negotiation,4017,6,7,Medium,Moderate,3
+RES-0471,Residential Property 471,Residential,South,Proposal,663,7,21,Medium,None,4
+RES-0472,Residential Property 472,Residential,South,Closed Won,2329,13,30,Medium,Moderate,5
+RES-0473,Residential Property 473,Residential,North,Proposal,1707,12,20,Medium,Moderate,2
+RES-0474,Residential Property 474,Residential,West,Lead,3636,14,7,Medium,Moderate,5
+RES-0475,Residential Property 475,Residential,East,Lead,3171,11,30,High,High,5
+RES-0476,Residential Property 476,Residential,East,Proposal,4473,19,25,Low,None,3
+RES-0477,Residential Property 477,Residential,West,Negotiation,1851,12,7,Low,None,2
+RES-0478,Residential Property 478,Residential,South,Closed Lost,2158,19,23,Medium,None,4
+RES-0479,Residential Property 479,Residential,West,Proposal,1617,4,22,Medium,None,4
+RES-0480,Residential Property 480,Residential,South,Lead,1383,18,17,Low,None,2
+RES-0481,Residential Property 481,Residential,North,Closed Lost,3497,9,16,High,Moderate,2
+RES-0482,Residential Property 482,Residential,West,Negotiation,2179,9,5,Medium,High,5
+RES-0483,Residential Property 483,Residential,East,Proposal,4323,16,18,High,Moderate,2
+RES-0484,Residential Property 484,Residential,North,Negotiation,3432,9,22,Low,High,1
+RES-0485,Residential Property 485,Residential,East,Proposal,3624,14,19,High,None,1
+RES-0486,Residential Property 486,Residential,South,Proposal,3379,19,10,Low,None,4
+RES-0487,Residential Property 487,Residential,East,Lead,1604,3,20,Medium,None,1
+RES-0488,Residential Property 488,Residential,North,Qualified,3799,11,30,Medium,None,5
+RES-0489,Residential Property 489,Residential,East,Proposal,1625,19,28,High,Moderate,3
+RES-0490,Residential Property 490,Residential,East,Proposal,742,20,27,Medium,None,2
+RES-0491,Residential Property 491,Residential,North,Closed Lost,1612,15,25,Low,Moderate,3
+RES-0492,Residential Property 492,Residential,South,Qualified,2339,6,8,Medium,Moderate,3
+RES-0493,Residential Property 493,Residential,North,Qualified,684,18,29,Medium,Moderate,4
+RES-0494,Residential Property 494,Residential,East,Closed Won,2081,14,6,Medium,None,1
+RES-0495,Residential Property 495,Residential,East,Closed Won,1956,10,12,Low,Moderate,1
+RES-0496,Residential Property 496,Residential,North,Lead,3949,18,11,High,Moderate,1
+RES-0497,Residential Property 497,Residential,West,Closed Won,3165,19,16,High,Moderate,1
+RES-0498,Residential Property 498,Residential,East,Lead,1299,16,28,High,High,2
+RES-0499,Residential Property 499,Residential,West,Closed Lost,2722,4,15,High,None,2
+RES-0500,Residential Property 500,Residential,South,Closed Won,684,4,28,High,High,5
+RES-0501,Residential Property 501,Residential,North,Closed Lost,4009,8,24,Low,Moderate,1
+RES-0502,Residential Property 502,Residential,West,Qualified,3174,8,19,Low,None,3
+RES-0503,Residential Property 503,Residential,North,Closed Lost,3475,6,30,Low,Moderate,2
+RES-0504,Residential Property 504,Residential,East,Proposal,2705,6,29,Medium,None,2
+RES-0505,Residential Property 505,Residential,North,Proposal,4403,3,30,Medium,None,4
+RES-0506,Residential Property 506,Residential,West,Proposal,3004,18,20,High,High,1
+RES-0507,Residential Property 507,Residential,West,Proposal,2783,18,6,Low,None,3
+RES-0508,Residential Property 508,Residential,East,Closed Lost,4791,17,15,Low,Moderate,4
+RES-0509,Residential Property 509,Residential,East,Closed Won,3931,12,30,Medium,None,4
+RES-0510,Residential Property 510,Residential,West,Negotiation,615,9,27,Medium,None,3
+RES-0511,Residential Property 511,Residential,West,Closed Lost,2339,14,23,Low,High,2
+RES-0512,Residential Property 512,Residential,South,Closed Lost,4485,6,17,Medium,High,1
+RES-0513,Residential Property 513,Residential,South,Closed Lost,4434,19,21,Medium,High,3
+RES-0514,Residential Property 514,Residential,West,Negotiation,3405,17,20,High,Moderate,5
+RES-0515,Residential Property 515,Residential,West,Negotiation,3408,11,29,Medium,None,4
+RES-0516,Residential Property 516,Residential,West,Lead,2814,17,29,Medium,High,5
+RES-0517,Residential Property 517,Residential,South,Closed Lost,3858,6,11,Medium,Moderate,3
+RES-0518,Residential Property 518,Residential,North,Qualified,1042,17,15,High,None,2
+RES-0519,Residential Property 519,Residential,West,Qualified,1774,5,6,Medium,Moderate,2
+RES-0520,Residential Property 520,Residential,West,Proposal,1447,4,19,High,None,5
+RES-0521,Residential Property 521,Residential,East,Closed Won,3555,11,23,Medium,None,1
+RES-0522,Residential Property 522,Residential,East,Qualified,1987,6,8,Medium,Moderate,1
+RES-0523,Residential Property 523,Residential,North,Proposal,827,8,16,Medium,None,3
+RES-0524,Residential Property 524,Residential,East,Qualified,2401,7,14,Medium,None,4
+RES-0525,Residential Property 525,Residential,West,Proposal,2292,13,24,High,High,5
+RES-0526,Residential Property 526,Residential,North,Closed Lost,4069,18,11,Low,Moderate,1
+RES-0527,Residential Property 527,Residential,West,Negotiation,1272,8,24,Medium,Moderate,3
+RES-0528,Residential Property 528,Residential,West,Closed Lost,3305,3,28,Medium,Moderate,2
+RES-0529,Residential Property 529,Residential,West,Qualified,3771,6,30,Medium,None,1
+RES-0530,Residential Property 530,Residential,West,Lead,575,18,11,High,Moderate,3
+RES-0531,Residential Property 531,Residential,South,Closed Won,1095,13,23,Medium,None,1
+RES-0532,Residential Property 532,Residential,West,Proposal,4036,5,11,Low,High,5
+RES-0533,Residential Property 533,Residential,South,Negotiation,3835,3,14,Low,None,1
+RES-0534,Residential Property 534,Residential,South,Closed Won,4055,9,14,Low,High,1
+RES-0535,Residential Property 535,Residential,North,Qualified,3000,3,20,High,High,3
+RES-0536,Residential Property 536,Residential,West,Negotiation,1428,5,14,High,None,2
+RES-0537,Residential Property 537,Residential,East,Lead,1685,6,12,High,Moderate,5
+RES-0538,Residential Property 538,Residential,South,Negotiation,4293,17,12,Low,High,4
+RES-0539,Residential Property 539,Residential,West,Negotiation,2016,4,7,High,High,3
+RES-0540,Residential Property 540,Residential,West,Qualified,981,4,25,Low,None,3
+RES-0541,Residential Property 541,Residential,East,Closed Lost,2271,20,7,Low,None,3
+RES-0542,Residential Property 542,Residential,East,Closed Won,2796,15,6,Low,High,2
+RES-0543,Residential Property 543,Residential,East,Closed Lost,1036,15,10,Low,High,2
+RES-0544,Residential Property 544,Residential,North,Negotiation,3149,4,25,High,Moderate,2
+RES-0545,Residential Property 545,Residential,East,Proposal,3547,11,22,Medium,None,1
+RES-0546,Residential Property 546,Residential,South,Closed Won,1436,4,12,Low,Moderate,2
+RES-0547,Residential Property 547,Residential,South,Negotiation,3467,12,21,Low,High,5
+RES-0548,Residential Property 548,Residential,South,Closed Won,2971,8,22,Medium,None,5
+RES-0549,Residential Property 549,Residential,West,Lead,4126,16,21,Medium,None,2
+RES-0550,Residential Property 550,Residential,North,Proposal,3740,5,5,Low,High,4
+RES-0551,Residential Property 551,Residential,West,Proposal,3402,6,14,Medium,Moderate,1
+RES-0552,Residential Property 552,Residential,East,Qualified,729,6,12,Medium,None,3
+RES-0553,Residential Property 553,Residential,North,Closed Won,1474,10,9,Medium,None,5
+RES-0554,Residential Property 554,Residential,North,Proposal,797,15,19,Medium,High,1
+RES-0555,Residential Property 555,Residential,South,Closed Lost,3127,5,11,Medium,None,3
+RES-0556,Residential Property 556,Residential,South,Lead,715,16,15,High,High,1
+RES-0557,Residential Property 557,Residential,West,Negotiation,2892,7,27,Low,Moderate,2
+RES-0558,Residential Property 558,Residential,East,Negotiation,3242,16,5,Low,None,2
+RES-0559,Residential Property 559,Residential,South,Lead,4540,16,8,High,High,2
+RES-0560,Residential Property 560,Residential,East,Lead,2105,13,9,Medium,None,2
+RES-0561,Residential Property 561,Residential,East,Closed Lost,4262,8,18,High,None,5
+RES-0562,Residential Property 562,Residential,South,Lead,3855,3,28,Medium,Moderate,3
+RES-0563,Residential Property 563,Residential,West,Qualified,3330,12,5,Medium,Moderate,2
+RES-0564,Residential Property 564,Residential,South,Proposal,859,19,12,Low,High,3
+RES-0565,Residential Property 565,Residential,East,Lead,4846,4,6,Medium,None,1
+RES-0566,Residential Property 566,Residential,North,Lead,3035,9,5,Medium,None,4
+RES-0567,Residential Property 567,Residential,North,Proposal,538,5,10,High,High,2
+RES-0568,Residential Property 568,Residential,East,Proposal,1862,16,24,High,High,4
+RES-0569,Residential Property 569,Residential,East,Lead,3250,19,14,High,Moderate,2
+RES-0570,Residential Property 570,Residential,South,Qualified,1292,14,22,Low,Moderate,2
+RES-0571,Residential Property 571,Residential,West,Qualified,4500,15,17,High,Moderate,3
+RES-0572,Residential Property 572,Residential,South,Proposal,3847,20,29,Low,Moderate,4
+RES-0573,Residential Property 573,Residential,West,Closed Lost,1511,9,11,Low,None,4
+RES-0574,Residential Property 574,Residential,North,Qualified,1015,7,17,Medium,None,4
+RES-0575,Residential Property 575,Residential,East,Closed Lost,1049,9,9,Low,Moderate,2
+RES-0576,Residential Property 576,Residential,West,Lead,2017,14,6,Medium,None,2
+RES-0577,Residential Property 577,Residential,North,Proposal,777,5,30,Medium,Moderate,5
+RES-0578,Residential Property 578,Residential,East,Proposal,4527,12,5,High,Moderate,5
+RES-0579,Residential Property 579,Residential,East,Qualified,3014,9,28,Medium,High,5
+RES-0580,Residential Property 580,Residential,North,Proposal,3207,10,16,Medium,None,1
+RES-0581,Residential Property 581,Residential,West,Lead,4650,16,7,High,Moderate,3
+RES-0582,Residential Property 582,Residential,South,Closed Won,3212,11,30,Medium,High,4
+RES-0583,Residential Property 583,Residential,East,Closed Lost,3982,3,17,Low,Moderate,2
+RES-0584,Residential Property 584,Residential,South,Lead,3320,7,17,Low,High,3
+RES-0585,Residential Property 585,Residential,South,Closed Lost,4771,9,21,High,None,2
+RES-0586,Residential Property 586,Residential,West,Proposal,3244,20,22,High,None,1
+RES-0587,Residential Property 587,Residential,North,Qualified,1672,14,28,Low,Moderate,3
+RES-0588,Residential Property 588,Residential,West,Closed Won,2668,12,14,Medium,High,1
+RES-0589,Residential Property 589,Residential,South,Lead,1910,3,20,Medium,Moderate,4
+RES-0590,Residential Property 590,Residential,West,Closed Won,2146,6,29,Low,High,3
+RES-0591,Residential Property 591,Residential,East,Negotiation,1946,11,7,High,Moderate,4
+RES-0592,Residential Property 592,Residential,South,Closed Won,1974,17,22,Low,None,5
+RES-0593,Residential Property 593,Residential,South,Negotiation,4179,17,11,High,None,1
+RES-0594,Residential Property 594,Residential,West,Negotiation,1620,19,20,High,Moderate,2
+RES-0595,Residential Property 595,Residential,South,Closed Won,2528,18,10,Low,None,3
+RES-0596,Residential Property 596,Residential,West,Lead,1233,8,20,High,None,2
+RES-0597,Residential Property 597,Residential,South,Closed Lost,4816,3,24,Medium,High,3
+RES-0598,Residential Property 598,Residential,South,Proposal,1408,13,21,High,Moderate,1
+RES-0599,Residential Property 599,Residential,West,Proposal,894,6,12,Low,Moderate,1
+RES-0600,Residential Property 600,Residential,West,Lead,2452,12,9,High,None,4
+RES-0601,Residential Property 601,Residential,East,Lead,577,3,16,High,Moderate,1
+RES-0602,Residential Property 602,Residential,North,Qualified,4823,16,8,Low,None,5
+RES-0603,Residential Property 603,Residential,West,Proposal,4379,11,11,Medium,Moderate,5
+RES-0604,Residential Property 604,Residential,North,Proposal,4119,10,14,High,High,4
+RES-0605,Residential Property 605,Residential,South,Negotiation,1880,9,21,High,Moderate,4
+RES-0606,Residential Property 606,Residential,West,Qualified,4985,14,10,Low,High,1
+RES-0607,Residential Property 607,Residential,East,Closed Lost,3002,5,9,Low,Moderate,5
+RES-0608,Residential Property 608,Residential,North,Closed Won,2760,7,10,Low,None,3
+RES-0609,Residential Property 609,Residential,West,Lead,2502,11,6,High,Moderate,1
+RES-0610,Residential Property 610,Residential,South,Closed Won,4242,19,22,Low,Moderate,2
+RES-0611,Residential Property 611,Residential,South,Negotiation,4021,16,10,Medium,None,3
+RES-0612,Residential Property 612,Residential,North,Qualified,974,12,15,Low,Moderate,5
+RES-0613,Residential Property 613,Residential,West,Proposal,2126,4,20,Low,Moderate,2
+RES-0614,Residential Property 614,Residential,East,Proposal,1341,11,29,Medium,Moderate,2
+RES-0615,Residential Property 615,Residential,West,Lead,963,6,12,High,High,4
+RES-0616,Residential Property 616,Residential,West,Closed Lost,1056,10,28,High,High,2
+RES-0617,Residential Property 617,Residential,West,Closed Lost,4692,3,21,Medium,Moderate,1
+RES-0618,Residential Property 618,Residential,South,Proposal,736,5,16,Low,High,2
+RES-0619,Residential Property 619,Residential,East,Lead,2351,9,19,High,High,5
+RES-0620,Residential Property 620,Residential,East,Negotiation,3157,20,5,Medium,High,5
+RES-0621,Residential Property 621,Residential,East,Lead,3561,15,6,Low,High,2
+RES-0622,Residential Property 622,Residential,South,Closed Lost,3535,5,9,High,Moderate,4
+RES-0623,Residential Property 623,Residential,West,Qualified,1209,16,14,Medium,High,5
+RES-0624,Residential Property 624,Residential,West,Proposal,2832,4,17,High,Moderate,5
+RES-0625,Residential Property 625,Residential,South,Closed Won,2699,12,8,High,None,2
+RES-0626,Residential Property 626,Residential,East,Negotiation,1195,20,7,Low,High,3
+RES-0627,Residential Property 627,Residential,West,Qualified,4953,14,15,High,Moderate,4
+RES-0628,Residential Property 628,Residential,South,Negotiation,1190,14,28,High,Moderate,3
+RES-0629,Residential Property 629,Residential,West,Closed Lost,798,16,29,High,None,3
+RES-0630,Residential Property 630,Residential,North,Closed Lost,2640,10,21,High,Moderate,1
+RES-0631,Residential Property 631,Residential,South,Lead,3301,15,5,High,None,2
+RES-0632,Residential Property 632,Residential,North,Qualified,3588,18,21,Medium,None,5
+RES-0633,Residential Property 633,Residential,West,Qualified,3710,12,27,Medium,High,1
+RES-0634,Residential Property 634,Residential,East,Proposal,2786,10,27,Medium,None,2
+RES-0635,Residential Property 635,Residential,East,Closed Won,3309,20,12,High,None,4
+RES-0636,Residential Property 636,Residential,East,Closed Won,1583,14,19,Low,High,2
+RES-0637,Residential Property 637,Residential,West,Qualified,4873,6,16,Low,None,4
+RES-0638,Residential Property 638,Residential,West,Proposal,1094,12,5,High,High,4
+RES-0639,Residential Property 639,Residential,North,Negotiation,4796,20,24,Low,None,3
+RES-0640,Residential Property 640,Residential,West,Proposal,1990,11,21,Low,High,3
+RES-0641,Residential Property 641,Residential,West,Qualified,4674,11,26,Low,High,5
+RES-0642,Residential Property 642,Residential,North,Closed Lost,3382,15,19,Low,High,1
+RES-0643,Residential Property 643,Residential,East,Proposal,4640,9,26,High,None,3
+RES-0644,Residential Property 644,Residential,South,Negotiation,2441,15,20,High,None,2
+RES-0645,Residential Property 645,Residential,North,Closed Lost,563,6,26,Medium,Moderate,5
+RES-0646,Residential Property 646,Residential,West,Lead,1399,13,17,Medium,None,3
+RES-0647,Residential Property 647,Residential,East,Negotiation,4161,15,13,Medium,None,1
+RES-0648,Residential Property 648,Residential,West,Qualified,3115,11,24,High,High,4
+RES-0649,Residential Property 649,Residential,South,Closed Lost,4133,17,18,High,None,1
+RES-0650,Residential Property 650,Residential,North,Closed Won,2130,4,27,High,Moderate,1
+RES-0651,Residential Property 651,Residential,South,Qualified,2988,3,25,Medium,Moderate,4
+RES-0652,Residential Property 652,Residential,North,Qualified,2809,10,22,High,High,5
+RES-0653,Residential Property 653,Residential,East,Closed Lost,888,14,28,Low,None,3
+RES-0654,Residential Property 654,Residential,East,Proposal,1477,13,13,Medium,None,2
+RES-0655,Residential Property 655,Residential,North,Closed Lost,2919,5,19,Low,High,3
+RES-0656,Residential Property 656,Residential,South,Lead,2674,13,7,Low,Moderate,5
+RES-0657,Residential Property 657,Residential,West,Proposal,1098,18,11,Low,Moderate,2
+RES-0658,Residential Property 658,Residential,North,Qualified,2173,19,14,Low,None,3
+RES-0659,Residential Property 659,Residential,West,Closed Won,4791,18,8,Low,None,5
+RES-0660,Residential Property 660,Residential,North,Lead,2678,7,28,Low,High,5
+RES-0661,Residential Property 661,Residential,North,Closed Won,1929,3,13,Medium,Moderate,4
+RES-0662,Residential Property 662,Residential,West,Proposal,2813,4,27,High,None,1
+RES-0663,Residential Property 663,Residential,West,Closed Lost,3587,14,24,Low,None,1
+RES-0664,Residential Property 664,Residential,South,Closed Won,708,7,28,Medium,Moderate,1
+RES-0665,Residential Property 665,Residential,North,Negotiation,549,12,25,High,Moderate,3
+RES-0666,Residential Property 666,Residential,South,Negotiation,4104,19,15,Low,None,3
+RES-0667,Residential Property 667,Residential,West,Closed Lost,4544,8,17,Medium,High,3
+RES-0668,Residential Property 668,Residential,West,Lead,4083,7,19,Low,None,1
+RES-0669,Residential Property 669,Residential,North,Proposal,1916,12,29,High,Moderate,1
+RES-0670,Residential Property 670,Residential,North,Qualified,729,6,14,Medium,Moderate,4
+RES-0671,Residential Property 671,Residential,West,Lead,2199,7,5,Low,Moderate,4
+RES-0672,Residential Property 672,Residential,East,Closed Lost,1709,17,15,Medium,Moderate,1
+RES-0673,Residential Property 673,Residential,North,Qualified,1758,3,7,Medium,None,4
+RES-0674,Residential Property 674,Residential,East,Negotiation,2270,20,14,Low,High,5
+RES-0675,Residential Property 675,Residential,South,Qualified,4860,9,16,High,High,1
+RES-0676,Residential Property 676,Residential,West,Closed Won,2402,7,8,Low,None,5
+RES-0677,Residential Property 677,Residential,South,Closed Lost,4735,9,6,High,Moderate,2
+RES-0678,Residential Property 678,Residential,West,Lead,2798,18,18,High,High,2
+RES-0679,Residential Property 679,Residential,West,Lead,3613,17,18,Low,High,5
+RES-0680,Residential Property 680,Residential,South,Negotiation,1005,17,22,Medium,High,2
+RES-0681,Residential Property 681,Residential,North,Closed Lost,3930,19,14,Medium,High,1
+RES-0682,Residential Property 682,Residential,South,Negotiation,2880,20,15,Low,None,5
+RES-0683,Residential Property 683,Residential,West,Negotiation,924,8,13,Low,Moderate,2
+RES-0684,Residential Property 684,Residential,North,Closed Won,4031,3,29,Low,None,5
+RES-0685,Residential Property 685,Residential,East,Closed Lost,3879,13,26,Medium,Moderate,1
+RES-0686,Residential Property 686,Residential,North,Proposal,4203,12,6,High,None,2
+RES-0687,Residential Property 687,Residential,West,Lead,2666,18,27,High,None,4
+RES-0688,Residential Property 688,Residential,West,Negotiation,3804,4,14,Medium,None,2
+RES-0689,Residential Property 689,Residential,West,Negotiation,4735,7,22,Medium,None,5
+RES-0690,Residential Property 690,Residential,North,Closed Lost,651,17,26,Low,High,5
+RES-0691,Residential Property 691,Residential,West,Proposal,744,5,28,Low,High,4
+RES-0692,Residential Property 692,Residential,South,Closed Lost,4382,20,22,Low,Moderate,5
+RES-0693,Residential Property 693,Residential,East,Lead,4772,12,9,High,None,4
+RES-0694,Residential Property 694,Residential,West,Qualified,2743,3,9,Medium,High,1
+RES-0695,Residential Property 695,Residential,East,Closed Lost,898,6,22,Medium,Moderate,4
+RES-0696,Residential Property 696,Residential,South,Closed Lost,3191,5,27,High,Moderate,2
+RES-0697,Residential Property 697,Residential,South,Lead,718,11,16,High,None,5
+RES-0698,Residential Property 698,Residential,West,Closed Lost,3693,3,8,Medium,None,5
+RES-0699,Residential Property 699,Residential,North,Lead,3752,6,11,Medium,None,3
+RES-0700,Residential Property 700,Residential,South,Closed Won,2997,5,12,Low,Moderate,4
+RES-0701,Residential Property 701,Residential,West,Closed Won,600,18,27,High,High,3
+RES-0702,Residential Property 702,Residential,South,Lead,4971,10,21,Low,None,1
+RES-0703,Residential Property 703,Residential,North,Closed Lost,2901,5,28,High,High,3
+RES-0704,Residential Property 704,Residential,East,Negotiation,4363,12,29,Low,Moderate,4
+RES-0705,Residential Property 705,Residential,West,Negotiation,3104,3,29,Medium,None,1
+RES-0706,Residential Property 706,Residential,West,Negotiation,1719,6,18,Low,None,1
+RES-0707,Residential Property 707,Residential,East,Closed Won,4503,18,5,Low,Moderate,5
+RES-0708,Residential Property 708,Residential,West,Lead,1690,7,29,Low,High,1
+RES-0709,Residential Property 709,Residential,West,Lead,1665,15,16,High,None,5
+RES-0710,Residential Property 710,Residential,South,Closed Lost,3622,8,19,High,Moderate,2
+RES-0711,Residential Property 711,Residential,East,Proposal,1852,3,21,Low,None,4
+RES-0712,Residential Property 712,Residential,North,Closed Lost,1318,14,15,Medium,None,4
+RES-0713,Residential Property 713,Residential,South,Closed Won,923,7,28,Low,Moderate,2
+RES-0714,Residential Property 714,Residential,South,Closed Won,500,14,26,Low,Moderate,2
+RES-0715,Residential Property 715,Residential,South,Negotiation,4442,13,25,Low,Moderate,1
+RES-0716,Residential Property 716,Residential,South,Lead,2760,5,30,Medium,Moderate,3
+RES-0717,Residential Property 717,Residential,East,Closed Lost,3267,16,26,Medium,Moderate,1
+RES-0718,Residential Property 718,Residential,North,Qualified,4400,12,23,Low,High,1
+RES-0719,Residential Property 719,Residential,North,Lead,538,16,26,High,High,4
+RES-0720,Residential Property 720,Residential,South,Qualified,2032,5,19,Medium,None,5
+RES-0721,Residential Property 721,Residential,South,Closed Won,2415,6,9,High,High,3
+RES-0722,Residential Property 722,Residential,North,Lead,4963,4,22,Medium,Moderate,2
+RES-0723,Residential Property 723,Residential,North,Lead,1603,16,12,Low,High,3
+RES-0724,Residential Property 724,Residential,West,Proposal,2543,5,19,Low,High,4
+RES-0725,Residential Property 725,Residential,East,Proposal,4402,3,19,Low,Moderate,1
+RES-0726,Residential Property 726,Residential,North,Closed Lost,2798,10,16,Low,High,1
+RES-0727,Residential Property 727,Residential,West,Closed Won,4669,17,29,Medium,Moderate,1
+RES-0728,Residential Property 728,Residential,West,Negotiation,4850,18,16,Medium,High,4
+RES-0729,Residential Property 729,Residential,East,Closed Won,716,7,25,High,Moderate,2
+RES-0730,Residential Property 730,Residential,West,Qualified,2520,20,7,Medium,High,2
+RES-0731,Residential Property 731,Residential,East,Lead,2384,13,8,Medium,Moderate,4
+RES-0732,Residential Property 732,Residential,East,Closed Lost,3013,18,6,High,High,1
+RES-0733,Residential Property 733,Residential,West,Closed Lost,944,6,7,Low,Moderate,3
+RES-0734,Residential Property 734,Residential,South,Lead,2645,6,29,Medium,None,2
+RES-0735,Residential Property 735,Residential,West,Negotiation,651,10,27,High,High,1
+RES-0736,Residential Property 736,Residential,West,Lead,3656,10,29,High,None,3
+RES-0737,Residential Property 737,Residential,South,Proposal,3778,17,11,Low,High,4
+RES-0738,Residential Property 738,Residential,East,Qualified,2805,3,10,High,Moderate,3
+RES-0739,Residential Property 739,Residential,South,Qualified,3739,17,12,High,High,5
+RES-0740,Residential Property 740,Residential,North,Closed Lost,1668,3,12,Medium,Moderate,1
+RES-0741,Residential Property 741,Residential,West,Proposal,3643,9,30,Medium,None,1
+RES-0742,Residential Property 742,Residential,North,Qualified,3757,12,14,Low,None,3
+RES-0743,Residential Property 743,Residential,South,Negotiation,2525,17,29,Low,None,5
+RES-0744,Residential Property 744,Residential,South,Lead,2007,9,5,Low,High,5
+RES-0745,Residential Property 745,Residential,East,Closed Lost,4159,17,19,Medium,Moderate,2
+RES-0746,Residential Property 746,Residential,North,Qualified,1471,5,12,Low,High,1
+RES-0747,Residential Property 747,Residential,West,Lead,683,7,15,High,High,1
+RES-0748,Residential Property 748,Residential,East,Closed Lost,825,17,19,Medium,High,3
+RES-0749,Residential Property 749,Residential,East,Closed Lost,2945,8,24,Medium,High,2
+RES-0750,Residential Property 750,Residential,West,Closed Lost,4040,14,30,Medium,Moderate,5
+RES-0751,Residential Property 751,Residential,South,Closed Lost,2482,17,25,High,None,4
+RES-0752,Residential Property 752,Residential,East,Closed Won,1962,8,20,Low,None,2
+RES-0753,Residential Property 753,Residential,East,Proposal,820,15,22,High,None,3
+RES-0754,Residential Property 754,Residential,South,Qualified,4764,13,18,Medium,Moderate,5
+RES-0755,Residential Property 755,Residential,West,Negotiation,4579,10,30,Medium,High,3
+RES-0756,Residential Property 756,Residential,North,Qualified,3733,19,20,Medium,Moderate,3
+RES-0757,Residential Property 757,Residential,East,Proposal,3956,19,12,Medium,None,3
+RES-0758,Residential Property 758,Residential,West,Lead,3285,11,17,High,None,5
+RES-0759,Residential Property 759,Residential,West,Negotiation,2313,5,5,High,High,2
+RES-0760,Residential Property 760,Residential,East,Lead,1483,9,20,Low,None,5
+RES-0761,Residential Property 761,Residential,South,Proposal,2315,15,25,High,None,3
+RES-0762,Residential Property 762,Residential,South,Lead,667,11,21,High,Moderate,1
+RES-0763,Residential Property 763,Residential,East,Proposal,3220,14,28,High,Moderate,4
+RES-0764,Residential Property 764,Residential,South,Closed Won,661,16,23,Low,Moderate,3
+RES-0765,Residential Property 765,Residential,South,Closed Won,1035,8,29,Low,None,5
+RES-0766,Residential Property 766,Residential,West,Closed Won,891,10,29,Medium,None,1
+RES-0767,Residential Property 767,Residential,South,Proposal,1193,20,21,Medium,None,3
+RES-0768,Residential Property 768,Residential,West,Qualified,954,20,6,Medium,None,2
+RES-0769,Residential Property 769,Residential,East,Negotiation,1398,16,25,Medium,High,3
+RES-0770,Residential Property 770,Residential,East,Qualified,2934,12,13,Low,Moderate,3
+RES-0771,Residential Property 771,Residential,North,Proposal,4680,20,30,Medium,None,2
+RES-0772,Residential Property 772,Residential,East,Lead,1939,10,8,Low,Moderate,2
+RES-0773,Residential Property 773,Residential,South,Closed Won,4224,8,8,Low,Moderate,3
+RES-0774,Residential Property 774,Residential,South,Qualified,2791,3,15,High,Moderate,3
+RES-0775,Residential Property 775,Residential,South,Proposal,2872,13,13,Medium,Moderate,1
+RES-0776,Residential Property 776,Residential,West,Closed Lost,3355,7,10,High,None,2
+RES-0777,Residential Property 777,Residential,West,Qualified,2702,16,9,Low,High,5
+RES-0778,Residential Property 778,Residential,North,Closed Won,1885,19,19,Low,High,2
+RES-0779,Residential Property 779,Residential,West,Closed Won,861,11,20,Medium,High,2
+RES-0780,Residential Property 780,Residential,South,Negotiation,1410,12,16,Medium,Moderate,4
+RES-0781,Residential Property 781,Residential,North,Closed Won,3222,16,27,Low,Moderate,1
+RES-0782,Residential Property 782,Residential,West,Lead,4512,11,26,Low,None,4
+RES-0783,Residential Property 783,Residential,North,Negotiation,828,5,18,Medium,Moderate,2
+RES-0784,Residential Property 784,Residential,South,Qualified,2362,17,24,Low,None,3
+RES-0785,Residential Property 785,Residential,South,Closed Lost,2494,20,5,Low,High,4
+RES-0786,Residential Property 786,Residential,East,Proposal,4558,11,13,High,None,1
+RES-0787,Residential Property 787,Residential,East,Proposal,2977,15,15,High,High,1
+RES-0788,Residential Property 788,Residential,West,Negotiation,788,10,16,High,None,1
+RES-0789,Residential Property 789,Residential,South,Closed Won,2985,18,23,High,None,5
+RES-0790,Residential Property 790,Residential,West,Closed Won,2156,15,21,Medium,None,5
+RES-0791,Residential Property 791,Residential,North,Proposal,4719,14,10,High,None,1
+RES-0792,Residential Property 792,Residential,South,Negotiation,774,15,23,Low,Moderate,4
+RES-0793,Residential Property 793,Residential,North,Closed Lost,2314,12,14,High,None,2
+RES-0794,Residential Property 794,Residential,North,Closed Won,515,18,8,High,None,5
+RES-0795,Residential Property 795,Residential,East,Proposal,3915,16,17,High,None,3
+RES-0796,Residential Property 796,Residential,East,Lead,1764,10,20,High,Moderate,5
+RES-0797,Residential Property 797,Residential,South,Lead,1283,16,10,High,Moderate,4
+RES-0798,Residential Property 798,Residential,West,Negotiation,2119,16,5,Medium,High,3
+RES-0799,Residential Property 799,Residential,East,Lead,1579,14,8,Medium,High,5
+RES-0800,Residential Property 800,Residential,East,Lead,4024,6,13,Medium,High,2
+RES-0801,Residential Property 801,Residential,North,Lead,2251,5,25,Low,None,1
+RES-0802,Residential Property 802,Residential,South,Negotiation,2311,8,12,Medium,Moderate,1
+RES-0803,Residential Property 803,Residential,North,Proposal,3854,8,20,High,High,4
+RES-0804,Residential Property 804,Residential,West,Negotiation,3645,6,28,Medium,High,4
+RES-0805,Residential Property 805,Residential,North,Qualified,3378,10,16,High,None,5
+RES-0806,Residential Property 806,Residential,South,Proposal,3250,5,29,High,None,1
+RES-0807,Residential Property 807,Residential,South,Lead,1081,6,16,High,None,4
+RES-0808,Residential Property 808,Residential,North,Qualified,4501,11,7,Medium,High,1
+RES-0809,Residential Property 809,Residential,West,Closed Won,4059,17,7,Low,High,3
+RES-0810,Residential Property 810,Residential,South,Lead,3575,10,9,High,High,4
+RES-0811,Residential Property 811,Residential,West,Proposal,1038,16,22,Medium,High,4
+RES-0812,Residential Property 812,Residential,South,Negotiation,1063,12,8,Low,None,3
+RES-0813,Residential Property 813,Residential,East,Qualified,1330,13,17,High,High,2
+RES-0814,Residential Property 814,Residential,West,Proposal,4605,10,9,Low,High,2
+RES-0815,Residential Property 815,Residential,South,Proposal,2361,19,21,Medium,Moderate,2
+RES-0816,Residential Property 816,Residential,North,Proposal,1392,10,26,Low,Moderate,5
+RES-0817,Residential Property 817,Residential,North,Negotiation,1773,5,7,Low,Moderate,3
+RES-0818,Residential Property 818,Residential,North,Qualified,3638,19,18,Medium,Moderate,2
+RES-0819,Residential Property 819,Residential,West,Closed Lost,1714,15,23,Low,None,2
+RES-0820,Residential Property 820,Residential,West,Lead,4936,13,29,Low,Moderate,5
+RES-0821,Residential Property 821,Residential,North,Qualified,3524,6,28,Medium,High,4
+RES-0822,Residential Property 822,Residential,East,Negotiation,3569,7,26,Low,Moderate,5
+RES-0823,Residential Property 823,Residential,West,Negotiation,4900,5,22,Low,None,4
+RES-0824,Residential Property 824,Residential,North,Closed Lost,539,17,5,Low,High,1
+RES-0825,Residential Property 825,Residential,West,Closed Lost,4712,18,20,High,High,3
+RES-0826,Residential Property 826,Residential,West,Closed Won,1882,10,11,High,High,1
+RES-0827,Residential Property 827,Residential,West,Proposal,893,13,17,Low,None,2
+RES-0828,Residential Property 828,Residential,South,Closed Won,3419,20,21,Low,None,3
+RES-0829,Residential Property 829,Residential,East,Closed Won,4017,11,7,Low,Moderate,4
+RES-0830,Residential Property 830,Residential,West,Negotiation,3128,5,27,High,None,5
+RES-0831,Residential Property 831,Residential,North,Closed Won,2376,18,29,High,High,1
+RES-0832,Residential Property 832,Residential,West,Lead,3691,11,13,High,Moderate,4
+RES-0833,Residential Property 833,Residential,East,Proposal,896,13,24,High,Moderate,4
+RES-0834,Residential Property 834,Residential,West,Lead,2360,16,14,Medium,High,1
+RES-0835,Residential Property 835,Residential,East,Negotiation,3967,5,23,Medium,Moderate,1
+RES-0836,Residential Property 836,Residential,North,Negotiation,4276,9,28,Medium,Moderate,1
+RES-0837,Residential Property 837,Residential,North,Qualified,4940,5,12,Medium,Moderate,1
+RES-0838,Residential Property 838,Residential,South,Closed Won,3787,12,14,High,Moderate,4
+RES-0839,Residential Property 839,Residential,South,Closed Won,1433,19,7,Low,Moderate,2
+RES-0840,Residential Property 840,Residential,West,Proposal,2487,7,22,Low,None,5
+RES-0841,Residential Property 841,Residential,South,Closed Lost,2292,18,11,Low,Moderate,5
+RES-0842,Residential Property 842,Residential,East,Closed Lost,1802,14,24,Medium,High,5
+RES-0843,Residential Property 843,Residential,South,Qualified,602,7,19,Medium,High,1
+RES-0844,Residential Property 844,Residential,North,Closed Lost,1548,14,18,High,None,1
+RES-0845,Residential Property 845,Residential,West,Lead,1076,20,19,Low,High,5
+RES-0846,Residential Property 846,Residential,East,Proposal,2901,4,6,High,High,3
+RES-0847,Residential Property 847,Residential,West,Qualified,574,6,29,High,Moderate,3
+RES-0848,Residential Property 848,Residential,West,Closed Lost,3811,11,26,Low,Moderate,2
+RES-0849,Residential Property 849,Residential,South,Negotiation,1489,17,22,Low,Moderate,3
+RES-0850,Residential Property 850,Residential,North,Negotiation,2514,19,21,Medium,Moderate,1
+RES-0851,Residential Property 851,Residential,South,Closed Won,1207,7,20,Medium,High,4
+RES-0852,Residential Property 852,Residential,North,Closed Won,2894,10,27,Low,High,1
+RES-0853,Residential Property 853,Residential,East,Negotiation,3731,19,22,High,None,5
+RES-0854,Residential Property 854,Residential,West,Closed Won,4256,17,27,High,High,2
+RES-0855,Residential Property 855,Residential,West,Closed Won,3264,8,24,Low,High,5
+RES-0856,Residential Property 856,Residential,South,Lead,3331,3,19,Medium,None,1
+RES-0857,Residential Property 857,Residential,North,Qualified,2373,4,9,High,High,4
+RES-0858,Residential Property 858,Residential,North,Qualified,1728,17,12,Medium,High,2
+RES-0859,Residential Property 859,Residential,North,Negotiation,3632,7,8,Low,Moderate,4
+RES-0860,Residential Property 860,Residential,West,Negotiation,4262,7,18,Low,Moderate,3
+RES-0861,Residential Property 861,Residential,East,Closed Won,3478,16,25,High,High,1
+RES-0862,Residential Property 862,Residential,East,Proposal,2037,7,7,Low,High,4
+RES-0863,Residential Property 863,Residential,South,Closed Lost,1375,5,12,Medium,High,5
+RES-0864,Residential Property 864,Residential,East,Proposal,4295,16,9,Low,None,5
+RES-0865,Residential Property 865,Residential,South,Closed Lost,3966,18,12,Low,Moderate,2
+RES-0866,Residential Property 866,Residential,North,Proposal,4009,15,25,Low,Moderate,1
+RES-0867,Residential Property 867,Residential,North,Lead,2861,7,9,High,High,5
+RES-0868,Residential Property 868,Residential,North,Negotiation,885,17,25,Medium,Moderate,4
+RES-0869,Residential Property 869,Residential,South,Closed Lost,2815,5,19,Medium,None,5
+RES-0870,Residential Property 870,Residential,West,Lead,4480,13,13,High,None,1
+RES-0871,Residential Property 871,Residential,North,Qualified,1980,18,16,High,None,3
+RES-0872,Residential Property 872,Residential,North,Qualified,2461,3,10,High,None,1
+RES-0873,Residential Property 873,Residential,East,Closed Lost,3930,6,17,High,None,4
+RES-0874,Residential Property 874,Residential,East,Negotiation,2141,15,23,High,None,1
+RES-0875,Residential Property 875,Residential,South,Qualified,3267,17,30,High,High,5
+RES-0876,Residential Property 876,Residential,East,Closed Won,507,6,8,Low,None,4
+RES-0877,Residential Property 877,Residential,West,Negotiation,3145,8,26,Low,None,3
+RES-0878,Residential Property 878,Residential,South,Negotiation,4472,6,22,Medium,Moderate,4
+RES-0879,Residential Property 879,Residential,North,Negotiation,932,19,24,Low,High,5
+RES-0880,Residential Property 880,Residential,East,Closed Lost,3068,17,28,Medium,None,1
+RES-0881,Residential Property 881,Residential,South,Closed Lost,1566,5,12,High,High,4
+RES-0882,Residential Property 882,Residential,East,Negotiation,3453,15,9,Low,Moderate,2
+RES-0883,Residential Property 883,Residential,East,Closed Lost,1886,5,16,Low,Moderate,2
+RES-0884,Residential Property 884,Residential,South,Closed Won,2110,18,17,High,None,1
+RES-0885,Residential Property 885,Residential,North,Negotiation,1099,9,16,High,Moderate,1
+RES-0886,Residential Property 886,Residential,East,Negotiation,2518,16,7,Low,None,3
+RES-0887,Residential Property 887,Residential,South,Lead,4409,20,19,High,Moderate,1
+RES-0888,Residential Property 888,Residential,South,Closed Lost,2546,15,25,Low,Moderate,3
+RES-0889,Residential Property 889,Residential,South,Qualified,2324,4,18,Medium,None,2
+RES-0890,Residential Property 890,Residential,North,Negotiation,741,5,15,Low,High,4
+RES-0891,Residential Property 891,Residential,West,Proposal,2218,5,10,High,Moderate,1
+RES-0892,Residential Property 892,Residential,South,Negotiation,1518,3,9,Medium,None,4
+RES-0893,Residential Property 893,Residential,West,Negotiation,2281,18,26,Low,Moderate,1
+RES-0894,Residential Property 894,Residential,South,Proposal,1256,12,15,High,High,1
+RES-0895,Residential Property 895,Residential,North,Negotiation,542,9,11,Medium,Moderate,4
+RES-0896,Residential Property 896,Residential,West,Closed Won,2336,7,7,Medium,High,1
+RES-0897,Residential Property 897,Residential,North,Qualified,2527,19,6,Medium,None,3
+RES-0898,Residential Property 898,Residential,East,Proposal,2783,17,7,Low,Moderate,1
+RES-0899,Residential Property 899,Residential,South,Lead,3418,3,29,Low,High,4
+RES-0900,Residential Property 900,Residential,West,Lead,3862,6,6,High,High,3
+RES-0901,Residential Property 901,Residential,West,Lead,2355,5,16,High,Moderate,4
+RES-0902,Residential Property 902,Residential,South,Lead,3756,7,6,Low,High,2
+RES-0903,Residential Property 903,Residential,North,Closed Won,4860,7,15,High,None,5
+RES-0904,Residential Property 904,Residential,North,Closed Won,4310,19,22,High,High,3
+RES-0905,Residential Property 905,Residential,West,Closed Won,3047,12,7,Medium,Moderate,2
+RES-0906,Residential Property 906,Residential,East,Closed Lost,3311,19,6,High,High,5
+RES-0907,Residential Property 907,Residential,East,Negotiation,2739,12,21,High,Moderate,2
+RES-0908,Residential Property 908,Residential,West,Closed Lost,2091,20,14,Low,None,2
+RES-0909,Residential Property 909,Residential,South,Lead,998,10,19,Low,None,3
+RES-0910,Residential Property 910,Residential,West,Closed Lost,1677,14,24,Medium,None,5
+RES-0911,Residential Property 911,Residential,South,Closed Won,2033,15,30,Low,None,3
+RES-0912,Residential Property 912,Residential,North,Closed Lost,4961,17,13,High,None,3
+RES-0913,Residential Property 913,Residential,North,Closed Lost,706,17,24,Low,High,4
+RES-0914,Residential Property 914,Residential,South,Qualified,2543,17,24,Medium,None,4
+RES-0915,Residential Property 915,Residential,North,Qualified,539,9,13,Low,None,5
+RES-0916,Residential Property 916,Residential,South,Closed Won,4611,10,26,Medium,Moderate,4
+RES-0917,Residential Property 917,Residential,South,Closed Lost,2991,17,7,Medium,High,2
+RES-0918,Residential Property 918,Residential,North,Closed Lost,2112,16,30,Low,None,1
+RES-0919,Residential Property 919,Residential,North,Negotiation,1813,17,26,High,High,5
+RES-0920,Residential Property 920,Residential,North,Negotiation,3214,8,12,Low,None,3
+RES-0921,Residential Property 921,Residential,North,Lead,4525,13,12,Low,None,1
+RES-0922,Residential Property 922,Residential,West,Closed Lost,1116,8,7,High,None,1
+RES-0923,Residential Property 923,Residential,West,Proposal,1089,14,28,High,Moderate,2
+RES-0924,Residential Property 924,Residential,South,Closed Won,2131,8,7,High,None,5
+RES-0925,Residential Property 925,Residential,West,Proposal,4297,8,6,High,High,5
+RES-0926,Residential Property 926,Residential,South,Closed Lost,1916,12,26,Low,None,4
+RES-0927,Residential Property 927,Residential,East,Proposal,2394,8,17,High,High,3
+RES-0928,Residential Property 928,Residential,West,Qualified,1871,7,25,Medium,High,5
+RES-0929,Residential Property 929,Residential,South,Negotiation,3269,12,20,Medium,None,2
+RES-0930,Residential Property 930,Residential,North,Closed Won,4854,10,6,Medium,None,1
+RES-0931,Residential Property 931,Residential,East,Closed Lost,4959,17,9,High,Moderate,4
+RES-0932,Residential Property 932,Residential,West,Closed Won,1133,5,24,High,Moderate,4
+RES-0933,Residential Property 933,Residential,South,Qualified,4140,17,8,Medium,Moderate,5
+RES-0934,Residential Property 934,Residential,East,Negotiation,1912,15,5,Medium,High,2
+RES-0935,Residential Property 935,Residential,West,Closed Lost,3387,15,29,Medium,Moderate,4
+RES-0936,Residential Property 936,Residential,South,Lead,4990,18,25,Medium,Moderate,2
+RES-0937,Residential Property 937,Residential,South,Closed Won,4199,15,21,Medium,None,1
+RES-0938,Residential Property 938,Residential,North,Closed Lost,3224,5,28,Low,Moderate,4
+RES-0939,Residential Property 939,Residential,South,Closed Lost,2287,18,12,High,None,1
+RES-0940,Residential Property 940,Residential,East,Lead,813,10,16,High,Moderate,2
+RES-0941,Residential Property 941,Residential,North,Proposal,928,10,19,Medium,High,2
+RES-0942,Residential Property 942,Residential,West,Negotiation,3896,16,24,Low,None,3
+RES-0943,Residential Property 943,Residential,South,Closed Won,2798,16,6,Medium,None,4
+RES-0944,Residential Property 944,Residential,North,Closed Lost,2047,14,12,Low,High,2
+RES-0945,Residential Property 945,Residential,East,Closed Lost,4590,14,27,High,None,3
+RES-0946,Residential Property 946,Residential,South,Closed Lost,4645,11,13,High,High,5
+RES-0947,Residential Property 947,Residential,West,Negotiation,1332,19,24,Medium,Moderate,1
+RES-0948,Residential Property 948,Residential,East,Qualified,1618,11,19,Medium,High,5
+RES-0949,Residential Property 949,Residential,South,Proposal,883,15,29,Low,None,4
+RES-0950,Residential Property 950,Residential,South,Qualified,2679,13,16,Medium,Moderate,2
+RES-0951,Residential Property 951,Residential,West,Lead,1325,3,15,Medium,Moderate,4
+RES-0952,Residential Property 952,Residential,East,Negotiation,2783,12,13,Low,High,5
+RES-0953,Residential Property 953,Residential,West,Closed Won,4286,10,14,Low,Moderate,5
+RES-0954,Residential Property 954,Residential,East,Qualified,4287,3,28,Medium,None,3
+RES-0955,Residential Property 955,Residential,North,Closed Lost,4350,18,24,Medium,None,2
+RES-0956,Residential Property 956,Residential,East,Qualified,2056,6,10,High,High,5
+RES-0957,Residential Property 957,Residential,West,Proposal,852,17,12,Low,High,4
+RES-0958,Residential Property 958,Residential,East,Negotiation,1701,9,29,Low,Moderate,2
+RES-0959,Residential Property 959,Residential,North,Closed Won,795,3,8,Low,None,4
+RES-0960,Residential Property 960,Residential,West,Negotiation,2163,18,23,High,None,2
+RES-0961,Residential Property 961,Residential,West,Negotiation,1264,3,21,Medium,None,4
+RES-0962,Residential Property 962,Residential,East,Closed Lost,4058,17,8,Low,Moderate,2
+RES-0963,Residential Property 963,Residential,West,Negotiation,579,3,30,Medium,Moderate,1
+RES-0964,Residential Property 964,Residential,North,Qualified,978,12,14,Medium,None,4
+RES-0965,Residential Property 965,Residential,East,Closed Lost,989,9,22,Low,None,3
+RES-0966,Residential Property 966,Residential,North,Proposal,4211,11,15,Medium,Moderate,2
+RES-0967,Residential Property 967,Residential,East,Negotiation,2706,5,7,Low,High,4
+RES-0968,Residential Property 968,Residential,North,Negotiation,657,13,7,Low,High,5
+RES-0969,Residential Property 969,Residential,North,Closed Lost,1556,17,20,Low,None,4
+RES-0970,Residential Property 970,Residential,West,Closed Won,3108,3,28,Medium,Moderate,4
+RES-0971,Residential Property 971,Residential,West,Proposal,878,20,24,Medium,High,5
+RES-0972,Residential Property 972,Residential,West,Closed Won,946,10,9,High,Moderate,5
+RES-0973,Residential Property 973,Residential,North,Proposal,3910,18,12,High,Moderate,2
+RES-0974,Residential Property 974,Residential,North,Qualified,1492,5,29,Medium,None,5
+RES-0975,Residential Property 975,Residential,East,Proposal,2994,16,14,Low,Moderate,4
+RES-0976,Residential Property 976,Residential,West,Closed Lost,2113,16,26,High,Moderate,4
+RES-0977,Residential Property 977,Residential,South,Lead,3087,8,24,Medium,None,2
+RES-0978,Residential Property 978,Residential,South,Closed Won,3288,5,25,High,None,3
+RES-0979,Residential Property 979,Residential,East,Lead,910,18,27,Low,High,2
+RES-0980,Residential Property 980,Residential,West,Qualified,3661,4,29,Low,None,4
+RES-0981,Residential Property 981,Residential,South,Closed Lost,2538,11,25,Low,None,3
+RES-0982,Residential Property 982,Residential,North,Proposal,1157,17,26,Low,None,1
+RES-0983,Residential Property 983,Residential,West,Proposal,703,15,13,Low,Moderate,5
+RES-0984,Residential Property 984,Residential,South,Lead,953,10,9,Low,Moderate,2
+RES-0985,Residential Property 985,Residential,East,Negotiation,2180,5,18,Low,None,5
+RES-0986,Residential Property 986,Residential,North,Lead,3245,20,26,Medium,None,5
+RES-0987,Residential Property 987,Residential,South,Closed Lost,2270,5,18,Medium,None,5
+RES-0988,Residential Property 988,Residential,North,Proposal,4802,12,6,Medium,Moderate,4
+RES-0989,Residential Property 989,Residential,East,Closed Lost,4386,12,12,Medium,None,2
+RES-0990,Residential Property 990,Residential,North,Closed Lost,2485,14,24,Medium,High,2
+RES-0991,Residential Property 991,Residential,East,Closed Lost,3177,4,5,Low,High,1
+RES-0992,Residential Property 992,Residential,North,Proposal,1376,7,9,High,Moderate,1
+RES-0993,Residential Property 993,Residential,North,Qualified,3701,16,21,High,High,3
+RES-0994,Residential Property 994,Residential,South,Negotiation,1690,3,12,Low,High,3
+RES-0995,Residential Property 995,Residential,West,Closed Won,1851,8,5,Low,High,2
+RES-0996,Residential Property 996,Residential,South,Negotiation,1231,19,26,Low,High,3
+RES-0997,Residential Property 997,Residential,North,Closed Won,3507,9,26,High,High,2
+RES-0998,Residential Property 998,Residential,South,Qualified,4578,19,17,Medium,None,4
+RES-0999,Residential Property 999,Residential,East,Lead,2175,17,30,Low,High,2
+RES-1000,Residential Property 1000,Residential,West,Closed Lost,4675,15,17,Medium,Moderate,3
